@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+    <title>Clients</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js'></script>
+
+     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+   integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+   crossorigin=""></script>
+
+
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	
+	<script src="https://stamen-maps.a.ssl.fastly.net/js/tile.stamen.js"></script>
+
+    <link rel="stylesheet" href="https://rawgit.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+	
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+	
+	<script src="script/leaflet-heat.js"></script>
+	<link rel="stylesheet" href="script/Leaflet.Dialog.css"/>
+	<script src="script/Leaflet.Dialog.js"></script>
+	
+	
+	
+	<script src=https://cdnjs.cloudflare.com/ajax/libs/Turf.js/5.1.5/turf.min.js></script>
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css"/>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.js"></script>
+	
+	
+	
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"/>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"/>
+	<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
+	<script src="script/xls-export.js"></script>
+	
+	
+    <link rel="stylesheet" href="https://rawgit.com/mapshakers/leaflet-icon-pulse/master/src/L.Icon.Pulse.css" />
+	
+	<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/gokertanrisever/leaflet-ruler/master/src/leaflet-ruler.css">
+	<script src="https://cdn.rawgit.com/gokertanrisever/leaflet-ruler/master/src/leaflet-ruler.js"></script>
+
+</head>
+<body>
+
+
+
+
+<style>
+/* The sidebar menu */
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 268px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: rgba(0,0,0, 0.5);
+  padding-left: 13px;
+  padding-right: 10px;
+
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 2px;
+}
+
+.summary > dt{
+	float: left;
+    clear: left;
+	
+    width: 170px;
+   
+    font-weight: normal;
+    color: black;
+}
+h2{
+	text-align:center;
+	font-size: 14pt;
+	margin-top: 3px;
+}
+dl {
+    border: 1.5px double #ccc;
+    padding: 0.2em;
+	
+  }
+  dt {
+	
+    float: left;
+    clear: left;
+	
+    width: 100px;
+   
+    font-weight: normal;
+    color: green;
+  }
+  dt::after {
+    content: ":";
+  }
+ 
+  dd {
+    margin: 0 0 0 100px;
+    padding: 0 0 0.5em 0;
+  }
+td{
+	color: white;
+	padding: 0px;
+	font-size: 12px;
+	margin-bottom: 2px;
+	
+}
+.filterTitle{
+	color: white;
+	font-size: 13px;
+	margin-bottom: 3px;
+	margin-top: 10px;
+	font-weight: bold;
+}
+input{
+	margin-bottom: 0px;
+}
+button{
+  padding: 2px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+</style>
+<div class="sidenav">
+	<table><h2 class="filterTitle">Type 1/Type 2</h2>	
+			<tr><td><input type="checkbox" name="inpexmah" value="type 1" checked=checked/>type 1</td><td style="font-size: 12px; padding-left: 40px">Pulsation:<input type="checkbox" name="pulsation" value="pulse" style="width: 12px; height: 12px; margin-left: 2px;" checked=checked/></td><td><svg viewBox= "0 0 100 100" transform="translate(5,6)" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 170 170"><circle cx="60" cy="38" fill="none" r="32" stroke="blue" stroke-width="8"><animate id="animateradius" attributeName="r" from="28" to="32" dur="1.8s" begin="0s" repeatCount="indefinite"/><animate id="animateopacity" attributeName="opacity" from="1" to="0" dur="1.8s" begin="0s" repeatCount="indefinite"/></svg></td></tr>
+			<tr><td><input type="checkbox" name="inpexmah" value="type 2" checked=checked />type 2</td></tr>
+			
+	</table><table>
+	<table><h2 class="filterTitle">Segment by 2018 Total Sales</h2>	
+			<tr><td><input type="checkbox" name="tier" value="Tier 1" checked=checked />Seg 1: over $100K</td></tr>
+			<tr><td><input type="checkbox" name="tier" value="Tier 2" checked=checked/>Seg 2: $50K - $99.9K</td></tr>
+			<tr><td><input type="checkbox" name="tier" value="Tier 3" checked=checked/>Seg 3: $10K - $49.9K</td></tr>		
+			<tr><td><input type="checkbox" name="tier" value="Tier 4" checked=checked/>Seg 4: $1K - $9.9K</td></tr>
+			<tr><td><input type="checkbox" name="tier" value="null" checked=checked/>No Seg: under $1K</td></tr>
+			<tr><td></tr></td>
+			<tr><td><input type="radio" name="radiotier" value="SelectAll"/>Select All</tr></td>
+			<tr><td><input type="radio" name="radiotier" value="UnselectAll"/>Unselect All</tr></td>
+	</table><table>
+			<h2 class="filterTitle">Growth Potential</h2>	
+			<tr><td><input type="checkbox" name="potential" value="Low" checked=checked />Low</td><td style="margin-top: 2px"><svg transform="translate(5,10)" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 104 104"><polygon fill="MediumOrchid" stroke="black" stroke-width="5" points="30,4,4,60,60,60" /><text x="32" y="50" text-anchor="middle" fill="black" font-weight="normal" font-size="38"></text></svg></td></tr>
+			<tr><td><input type="checkbox" name="potential" value="Moderate" checked=checked />Moderate</td><td style="margin-top: 0px"><svg transform="translate(5,10)" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 104 104"><polygon fill="LightSkyBlue" stroke="black" stroke-width="5" points="30,4,4,60,60,60" /><text x="32" y="50" text-anchor="middle" fill="black" font-weight="normal" font-size="38"></text></svg></td></tr>
+			<tr><td><input type="checkbox" name="potential" value="High" checked=checked />High</td><td style="margin-top: 0px"><svg transform="translate(5,10)" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 104 104"><polygon fill="PeachPuff" stroke="black" stroke-width="5" points="30,4,4,60,60,60" /><text x="32" y="50" text-anchor="middle" fill="black" font-weight="normal" font-size="38"></text></svg></td></tr>
+			<tr><td><input type="checkbox" name="potential" value="null" checked=checked />No value</td><td style="margin-top: 0px"><svg transform="translate(5,10)" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 104 104"><polygon fill="white" stroke="black" stroke-width="5" points="30,4,4,60,60,60" /><text x="32" y="50" text-anchor="middle" fill="black" font-weight="normal" font-size="38"></text></svg></td></tr>
+			<tr><td></tr></td>
+			<tr><td><input type="radio" name="radiopotential" value="SelectAll"/>Select All</tr></td>
+			<tr><td><input type="radio" name="radiopotential" value="UnselectAll"/>Unselect All</tr></td>
+	</table><table>
+			<h2 class="filterTitle">Sales Trend $ : H1’18 vs. H1’19</h2>	
+			<tr><td><input type="checkbox" name="trend" value="Extreme Growth (50+)" checked=checked />Extreme Growth (50+)</td><td style="margin-top: 0px"><svg transform="translate(5,6)" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 104 104"><circle cx="35" cy="38" r="33" stroke="limegreen" stroke-width="7" fill="transparent" /><text x="32" y="50" text-anchor="middle" fill="black" font-weight="normal" font-size="38"></text></svg></td></tr>
+			<tr><td><input type="checkbox" name="trend" value="Major Growth (20 to 49)" checked=checked />Major Growth (20 to 49)</td><td style="margin-top: 0px"><svg transform="translate(5,6)" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 104 104"><circle cx="35" cy="38" r="33" stroke="limegreen" stroke-width="7" fill="transparent" /><text x="32" y="50" text-anchor="middle" fill="black" font-weight="normal" font-size="38"></text></svg></td></tr>
+			<tr><td><input type="checkbox" name="trend" value="Moderate Growth (5 to 19)" checked=checked />Moderate Growth (5 to 19)</td><td style="margin-top: 0px"><svg transform="translate(5,6)" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 104 104"><circle cx="35" cy="38" r="33" stroke="limegreen" stroke-width="7" fill="transparent" /><text x="32" y="50" text-anchor="middle" fill="black" font-weight="normal" font-size="38"></text></svg></td></tr>
+			<tr><td><input type="checkbox" name="trend" value="No Growth (-4 to 4)" checked=checked />No Growth (-4 to 4)</td><td style="margin-top: 0px"><svg transform="translate(5,6)" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 104 104"><circle cx="35" cy="38" r="33" stroke="orange" stroke-width="7" fill="transparent" /><text x="32" y="50" text-anchor="middle" fill="black" font-weight="normal" font-size="38"></text></svg></td></tr>
+			<tr><td><input type="checkbox" name="trend" value="Moderate Loss (-19 to -5)" checked=checked />Moderate Loss (-19 to -5)</td><td style="margin-top: 0px"><svg transform="translate(5,6)" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 104 104"><circle cx="35" cy="38" r="33" stroke="red" stroke-width="7" fill="transparent" /><text x="32" y="50" text-anchor="middle" fill="black" font-weight="normal" font-size="38"></text></svg></td></tr>
+			<tr><td><input type="checkbox" name="trend" value="Major Loss (-49 to -20)" checked=checked />Major Loss (-49 to -20)</td><td style="margin-top: 0px"><svg transform="translate(5,6)" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 104 104"><circle cx="35" cy="38" r="33" stroke="red" stroke-width="7" fill="transparent" /><text x="32" y="50" text-anchor="middle" fill="black" font-weight="normal" font-size="38"></text></svg></td></tr>
+			<tr><td><input type="checkbox" name="trend" value="Extreme Loss (-50+)" checked=checked />Extreme Loss (-50+)</td><td><svg transform="translate(5,6)" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 104 104"><circle cx="35" cy="38" r="33" stroke="red" stroke-width="7" fill="transparent" /><text x="32" y="50" text-anchor="middle" fill="black" font-weight="normal" font-size="38"></text></svg></td></tr>
+			<tr><td><input type="checkbox" name="trend" value="null" checked=checked />No value</td><td></td></tr>
+			<tr><td><input type="checkbox" name="trend" value="No Sales" checked=checked />No Sales</td><td></td></tr>
+			<tr><td></tr></td>
+			<tr><td><input type="radio" name="radiotrend" value="SelectAll"/>Select All</tr></td>
+			<tr><td><input type="radio" name="radiotrend" value="UnselectAll"/>Unselect All</tr></td>
+				
+	</table>
+	<div style="padding-top: 7px;"></div>
+	
+  <div style="text-align: center;"><button type="button" id="clusterButton">Cluster/Uncluster</button>	
+	<button type="button" id="heatButton">Heatmap</button></div> 
+	
+</div>
+
+<div id="map" style="width: 100vw; height: 100vh; z-index: 0;"></div>
+ <script src="https://unpkg.com/leaflet-canvas-marker@0.2.0"></script>
+<script>
+	
+	var clusterButton = document.getElementById("clusterButton");                              //Button to enable or disable clusters
+	var heatButton = document.getElementById("heatButton");                                    //Button to enable or disable heatmap
+	var heatActive = false;                                                                    //Boolean to check if heat layer is active
+	var pulsating = true;
+	$.getJSON('https://api.sheety.co/147aea0f-c169-4e05-9454-00cf939849cb', function(json) {   //retrieveing spreadsheet data as JSON from sheety API
+		addPoints(json);
+	});
+	
+	/**
+	Creating map and adding tile layer
+	*/
+	var map = L.map('map', {zoomControl: true}).setView([35, -99], 4);
+	var scaleBar = L.control.scale({imperial: true, metric: false, position: 'bottomright'}).addTo(map);
+	var ruler = L.control.ruler({position: 'topright', lengthUnit: {display: 'miles',              // This is the display value will be shown on the screen. Example: 'meters'
+        decimal: 2,                 // Distance result will be fixed to this value. 
+        factor: 0.621373,               // This value will be used to convert from kilometers. Example: 1000 (from kilometers to meters)  
+        label: 'Distance:'}}).addTo(map);
+	map.zoomControl.setPosition('bottomright');
+	var tonerLayer = new L.StamenTileLayer("toner-lite");
+	map.addLayer(tonerLayer);
+	
+	
+	
+	
+	var pointGroupLayer;                                                                           //stores the points created. Useful for zooming to only points present in the map
+	
+	
+	
+	function addPoints(data) {
+	if (pointGroupLayer != null) {
+		pointGroupLayer.remove();
+	}
+	
+	
+	var clusters;                                                                                 //Will be used as layer where the clusters will be stored
+	var clusterZoom = 18;                                                                         //Variable to store the maxZoomLevel for the clusters. Used to disable (clusterZoom=1) or enable clusters (clusterZoom=18)
+	pointGroupLayer = L.featureGroup();
+	
+	var clicks = 0; //click counter for filters. Useful to avoid errors referencing layers that have not been created yet
+	var heat;                                                                                    // Heatmap layer                          
+	var filtered = new Array();                                                                  //Array that stores only the filtered data after applying filters
+	var summaryPoints = new Array();                                                             //array with that are inside of the drawn polygon
+	drawPoints();  //draws client points for the first time
+	var drawnItems = new L.FeatureGroup();                                                       //Layer that stores the drawn polygons
+	
+	//variables used in summary----------
+				var totTier1 = 0;
+				var totTier2 = 0;
+				var totTier3 = 0;
+				var totTier4 = 0;
+				var noTier = 0;
+				var totLow = 0;
+				var totMod = 0;
+				var totHigh = 0;
+				var noPotential = 0;
+				var sales2017 = 0;
+				var avg2017 = 0;
+				var sales2018 = 0;
+				var avg2018 = 0;
+				var mah = 0;
+				var inpex = 0;
+				var toth12018 = 0;
+				var toth12019 = 0;
+				
+				var h1trend = 0;
+				
+	//end variables in summary----------
+	
+	var dialog;                                                                               //dialog box that shows the summary
+	var drawnAmount = 0;                                                                      //Variable to check if something has been drawn
+	function drawPoints(){                                                        //function to draw points. Called whenever filters are applied or heatmap or clusters are enabled and disabled.
+		
+		/**
+		Section to clean out layers and redraw them after
+		*/
+		if (clicks > 0){clusters.clearLayers(); map.removeLayer(clusters);}     
+		if (heatActive ===true){
+				map.removeLayer(heat);
+			}
+		clusters = L.markerClusterGroup({ disableClusteringAtZoom: clusterZoom });
+	
+		var markers = [];
+		coordsHeat = []; //Empties the array of points(coordinates) used to create heatmap
+	
+			clicks++;
+		//filters---------------
+		tierfilter = [];
+		potentialfilter = [];
+		trendfilter = [];
+		inpexfilter = [];
+		
+		
+		//---------INPEx/MAH filter---------------
+		$("input:checkbox[name='inpexmah']:checked").each(function(){
+				
+			if($(this).val() === "null"){inpexfilter.push(null);}
+			else{
+			inpexfilter.push($(this).val());}});
+			
+		function inpexFilter(element) {
+			var valid = inpexfilter;
+			return (valid.includes(element.inpex_mah));
+		}
+		 //--------tier filter-----
+		$("input:checkbox[name='tier']:checked").each(function(){
+				//tierfilter=[];
+			if($(this).val() === "null"){tierfilter.push(null);}
+			else{
+			tierfilter.push($(this).val());}});
+			
+		function tierFilter(element) {
+			var valid = tierfilter;
+			return (valid.includes(element.tier));
+		}
+			//-----growth potential filter----
+		$("input:checkbox[name='potential']:checked").each(function(){ 
+			if($(this).val() === "null" || $(this).val() === "N/A"){potentialfilter.push(null);}
+			else{
+			potentialfilter.push($(this).val());}});
+				
+		function potentialFilter(element) {
+			var valid = potentialfilter;
+			return (valid.includes(element.sales_potential));
+		}
+			//-----sales trend filter----
+		$("input:checkbox[name='trend']:checked").each(function(){ 
+			if($(this).val() === "null" || $(this).val() === "N/A"){trendfilter.push(null);}
+			else{
+			trendfilter.push($(this).val());}});
+				
+		function trendFilter(element) {
+			var valid = trendfilter;
+			return (valid.includes(element.trend));
+		}
+		
+		//Applying filters
+		filtered = data.filter(tierFilter);
+		filtered = filtered.filter(potentialFilter);
+		filtered = filtered.filter(trendFilter);
+		filtered = filtered.filter(inpexFilter);
+		
+		
+		
+		//--------------------------------------------------
+		//-----------------------Loop to create and draw the points, clusters and heatmap-------------------------------
+		for(var row = 0; row < filtered.length; row++) {
+			if (filtered[row].lat > 0){
+					
+					if(filtered[row].tier != null){var index = filtered[row].tier.indexOf(" ");
+					var tier_no = filtered[row].tier.substr(index + 1);}else{var tier_no = "0"}
+					tier_no = parseInt(tier_no);
+					
+					
+					coordsHeat.push([filtered[row].lat, filtered[row].lon]);
+					var marker = L.marker([filtered[row].lat, filtered[row].lon]).addTo(pointGroupLayer);
+					//create and add popup to marker:
+					var h2018 = 0;
+					var h2019 = 0;
+					var trend=0;
+					if (filtered[row].h1_2018 != null){h2018 = parseFloat((filtered[row].h1_2018).toString().replace(/,/g, ''));}
+					if (filtered[row].h1_2019 != null){h2019 = parseFloat((filtered[row].h1_2019).toString().replace(/,/g, ''));}
+					if (h2018 != 0){trend = (h2019 - h2018)*100/h2018;}else if (h2018 == 0 && h2019 != 0){trend = 100;}
+					
+					marker.bindPopup("<dl>" + "<h2>Client Information	</h2><dt>Client Name </dt><dd>" + filtered[row].client + "</dd><dt>Address </dt><dd>"+ filtered[row].address+  "</dd><dt>2017 Sales </dt><dd>$" + numeral(filtered[row].sales_2017).format('0,0') + "</dd><dt>2018 Sales </dt><dd>$" + numeral(filtered[row].sales_2018).format('0,0') + "</dd><dt>Sales Segment </dt><dd>" +tier_no+ "</dd><dt>Growth Potential </dt><dd>" +  filtered[row].sales_potential +"</dd><dt>H1 2018</dt><dd>$"+numeral(filtered[row].h1_2018).format('0,0')+"</dd><dt>H1 2019</dt><dd>$"+numeral(filtered[row].h1_2019).format('0,0')+"</dd><dt>Sales Trend </dt><dd>" + trend.toFixed(2) +"%</dd><dt>Trend Category</dt><dd>" + filtered[row].trend+"</dd><dt>Account Owner</dt><dd>"+filtered[row].account_owner+ "</dd></dl>", 
+					{
+					maxWidth: 390,
+					maxHeight: 700
+					
+					}); 
+					
+					clusters.addLayer(marker);
+					map.addLayer(clusters);
+					
+					var trendCategory;
+					
+					
+					/**
+					---------------------Conditions to change svg icon colors according to attributes for the client--------------------
+					*/
+					if(filtered[row].trend === "Extreme Growth (50+)" || filtered[row].trend === "Major Growth (20 to 49)" || filtered[row].trend ===  "Moderate Growth (5 to 19)"){trendCategory = 'Growing';}
+					else if(filtered[row].trend === "Moderate Loss (-19 to -5)" || filtered[row].trend === "Major Loss (-49 to -20)" || filtered[row].trend === "Extreme Loss (-50+)"){trendCategory = 'Declining';}
+					else{trendCategory="";}
+					
+					if (filtered[row].sales_potential === "Low"){
+						var color = "MediumOrchid";
+					}
+					else if (filtered[row].sales_potential === "Moderate"){
+						var color = "LightSkyBlue";
+					}
+					else if (filtered[row].sales_potential === "High"){
+						var color = "PeachPuff";
+					}
+					else{
+						var color = "white";
+					}
+					
+					var pulse;
+					var pulsation;
+					if (pulsating === true){
+						pulsation = 'r="63" stroke="blue" stroke-width="8"><animate attributeName="r" from="49" to="63" dur="1.8s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" from="1" to="0" dur="1.8s" begin="0s" repeatCount="indefinite"/>';
+						//pulsating = !pulsating;
+					}
+					else{
+						pulsation = 'r="52" stroke="blue" stroke-width="8">';
+					}
+					if (filtered[row].inpex_mah === "type 1"){
+						pulse = '<circle cx="64" cy="67" fill="none" '+pulsation+'</circle>';
+						
+					}
+					else{pulse = "";}
+					
+					if (trendCategory === "Growing"){
+						var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="210" height="500" viewBox="-5 0 130 130"><polygon fill="'+color+'" stroke="black" stroke-width="3" points="64,36,39,86,88,86" />'+pulse+'<circle cx="64" cy="67" r="33" stroke="green" stroke-width="5" fill="transparent" /><text x="64" y="79" text-anchor="middle" fill="black" font-weight="normal" font-size="38">'+tier_no+'</text></svg>';
+					}
+					else if (trendCategory === "Declining"){
+						var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="210" height="500" viewBox="-5 0 130 130"><polygon fill="'+color+'" stroke="black" stroke-width="3" points="64,36,39,86,88,86" />'+pulse+'<circle cx="64" cy="67" r="33" stroke="red" stroke-width="5" fill="transparent" /><text x="64" y="79" text-anchor="middle" fill="black" font-weight="normal" font-size="38">'+tier_no+'</text></svg>';
+					}
+					else if (filtered[row].trend === "No Growth (-4 to 4)"){
+						var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="210" height="500" viewBox="-5 0 130 130"><polygon fill="'+color+'" stroke="black" stroke-width="3" points="64,36,39,86,88,86" />'+pulse+'<circle cx="64" cy="67" r="33" stroke="orange" stroke-width="5" fill="transparent" /><text x="64" y="79" text-anchor="middle" fill="black" font-weight="normal" font-size="38">'+tier_no+'</text></svg>';
+					}
+					else{
+						var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="210" height="500" viewBox="-5 0 130 130"><polygon fill="'+color+'" stroke="black" stroke-width="3" points="64,36,39,86,88,86" />'+pulse+'<circle cx="64" cy="67" r="33" stroke="black" stroke-width="0" fill="transparent" /><text x="64" y="79" text-anchor="middle" fill="black" font-weight="normal" font-size="38">'+tier_no+'</text></svg>';
+					}
+					var iconUrl = 'data:image/svg+xml;base64,' + btoa(svg);
+					
+					var icon = L.icon({
+					  iconUrl: iconUrl,
+					  iconSize: [38, 38],
+					  iconAnchor: [19, 19]
+					});
+	
+					
+					marker.setIcon(icon);
+					
+					}	 
+					
+					
+				}
+				
+				if (heatActive === true && coordsHeat.length > 0){heat = L.heatLayer(coordsHeat, {minOpacity: 0.4}).addTo(map);}
+				
+							
+				}
+			
+			 
+			 map.addLayer(drawnItems);                                      //adds drawn polygon
+			 
+			 L.drawLocal.draw.toolbar.buttons.polygon = 'Draw a polygon!';   //Message appearing when hvoering over the draw polygon button
+			 
+			 
+			 var drawControl = new L.Control.Draw({                         //creates the draw control
+				position: 'topright',
+				 draw: {polyline: false, marker: false, circle: false, circlemarker: false},  //only allowed the polygon and rectangle options
+				 edit: {
+					 featureGroup: drawnItems,
+					 remove: true
+				 }				 
+			 });
+			 
+			 map.addControl(drawControl);                                    //adds the draw controls to the map
+			
+			
+			//function for new created polygons. Deletes previous polygon and creates new one
+			
+			function getWithin(e){
+					//resetting variables used in summary
+				totTier1 = 0;
+				totTier2 = 0;
+				totTier3 = 0;
+				totTier4 = 0;
+				totLow = 0;
+				totMod = 0;
+				totHigh = 0;
+				noTier = 0;
+				noPotential = 0;
+				sales2017 = 0;
+				sales2018 = 0;
+				mah = 0;
+				inpex = 0;
+				toth12019 = 0;
+				toth12018 = 0;
+				h1trend=0;
+				
+				
+				if (dialog != undefined){dialog.destroy();}                 //removes previous dialog box when a new one is created
+				
+				//------END variables in summary----------
+				
+				drawnAmount =1;
+				summaryPoints=[];                                          //this array stores the data of points within the drawn polygon to allow download as excek file. 
+				 
+			//Loop to store client data inside drawn polygon	
+				 for(var row = 0; row < filtered.length; row++) {
+					if (filtered[row].lat>0){
+						var ptsTurf = turf.point([filtered[row].lon, filtered[row].lat]);
+						
+						var poly = drawnItems.toGeoJSON();
+						
+						if(turf.booleanWithin(ptsTurf, poly.features[0]) === true){
+							summaryPoints.push(filtered[row]);
+							//assign values to variables for summary
+							if (filtered[row].tier === "Tier 1"){totTier1++;}
+							if (filtered[row].tier === "Tier 2"){totTier2++;}
+							if (filtered[row].tier === "Tier 3"){totTier3++;}
+							if (filtered[row].tier === "Tier 4"){totTier4++;}
+							if (filtered[row].tier === null || filtered[row].tier === "N/A"){noTier++;}
+							if (filtered[row].sales_potential === null || filtered[row].sales_potential === "N/A"){noPotential++;}
+							if (filtered[row].sales_potential === "Low"){totLow++;}
+							if (filtered[row].sales_potential === "Moderate"){totMod++;}
+							if (filtered[row].sales_potential === "High"){totHigh++;}
+							if (filtered[row].inpex_mah === "type 1"){mah++;}
+							if (filtered[row].inpex_mah === "type 2"){inpex++;}
+							
+							if(filtered[row].sales_2017 != null){sales2017 += parseFloat((filtered[row].sales_2017).toString().replace(/,/g, ''));}
+							if(filtered[row].sales_2018 != null){sales2018 += parseFloat((filtered[row].sales_2018).toString().replace(/,/g, ''));}
+							
+							if(filtered[row].h1_2018 != null){toth12018 += parseFloat((filtered[row].h1_2018).toString().replace(/,/g, ''));}
+							if(filtered[row].h1_2019 != null){toth12019 += parseFloat((filtered[row].h1_2019).toString().replace(/,/g, ''));}
+						}
+						
+					}
+				}
+				
+				avg2017 = sales2017/(summaryPoints.length);
+				avg2018 = sales2018/(summaryPoints.length);
+				
+				
+				if(toth12018 != 0){h1trend = (toth12019 - toth12018)*100/toth12018;} else if (toth12018 == 0 && toth12019 != 0){h1trend = 100;}
+				
+				//display dialog box summary
+				dialog = L.control.dialog({size: [410, 645], maxSize: [410, 600], anchor: [0, 250]})
+                 .setContent("<dl class='summary'><h2>type 2/type 1</h2><dt>No. of type 2 clients</dt>"+inpex+"<dt>No. of type 1 clients</dt><dd>"+mah+"</dd><h2>Sales Segment</h2><dt>No. of Segment 1 clients</dt><dd>"+totTier1+"</dd><dt>No. of Segment 2 clients</dt><dd>"+totTier2+"</dd><dt>No. of Segment 3 clients</dt><dd>"+totTier3+"</dd><dt>No. of Segment 4 clients</dt><dd>"+totTier4+"</dd><dt>No. of clients with no segment</dt><dd>"+noTier+"</dd><h2>Growth Potential</h2><dt>Low</dt><dd>"+totLow+"</dd><dt>Moderate</dt><dd>"+totMod+"</dd><dt>High</dt><dd>"+totHigh+"</dd><dt>Without growth info</dt><dd>"+noPotential+"</dd><h2>Sales</h2><dt>Total sales 2017</dt><dd>$"+numeral(sales2017).format('0,0')+"</dd><dt>Total sales 2018</dt><dd>$"+numeral(sales2018).format('0,0')+"</dd><dt>Average sales 2017</dt><dd>$"+numeral(avg2017.toFixed(2)).format('0,0')+"</dd><dt>Average sales 2018</dt><dd>$"+numeral(avg2018.toFixed(2)).format('0,0')+"</dd><dt>H1'2018</dt><dd>$"+numeral(toth12018).format('0,0')+"</dd><dt>H1'2019</dt><dd>$"+numeral(toth12019).format('0,0')+"</dd><dt>H1 Trend</dt><dd>"+h1trend.toFixed(2)+"%"+"</dd></dl><div style='text-align: center;'><button id='download'>Download selected</button></div>")
+			    .addTo(map);
+			    dialog.hideResize();
+				
+			    document.getElementById("download").addEventListener("click", downloadExcel);
+				function downloadExcel(){
+					var xls = new xlsExport(summaryPoints, 'title');
+					 xls.exportToXLS('export.xls')
+				};
+				
+				 
+			};
+			map.on('draw:created', function (e){
+				map.removeLayer(drawnItems); drawnItems.clearLayers(); drawnItems.addLayer(e.layer); 
+				// Each time a feaute is created, it's added to the over arching feature group
+				 map.addLayer(drawnItems);
+				 getWithin(e);
+			
+			});
+			
+			map.on('draw:edited', getWithin);
+				
+			map.fitBounds(pointGroupLayer.getBounds());	 //changes the view and zoom to capture all the created points
+			
+			
+			/**
+				Following section has the functions for the filter checkboxes, radioboxes and also the buttons to enable/disable heatmaps and clusters
+			*/
+			$('input[name="tier"]').click(function(e){
+				drawPoints();
+				$('input[name="radiotier"]').prop('checked', false);
+				if (drawnAmount>0){ getWithin(e);}});
+			
+			$('input[name="potential"]').click(function(e){
+				drawPoints();
+				$('input[name="radiopotential"]').prop('checked', false);
+				if (drawnAmount>0){ getWithin(e);}});
+			
+			$('input[name="trend"]').click(function(e){
+				drawPoints();
+				$('input[name="radiotrend"]').prop('checked', false);
+				if (drawnAmount>0){ getWithin(e);}});
+			
+			$('input[name="inpexmah"]').click(function(e){
+				drawPoints();
+				if (drawnAmount>0){ getWithin(e);}});
+			
+			$('input[name="pulsation"]').click(function(e){
+				pulsating = !pulsating;
+				drawPoints();
+				if(pulsating===false){
+					var circleLegend = document.getElementById("animateradius");
+					circleLegend.setAttribute("from", "30");
+					circleLegend.setAttribute("to", "30");
+					var circleOpacit = document.getElementById("animateopacity");
+					circleOpacit.setAttribute("to", "1");
+				}
+				else{
+					var circleLegend = document.getElementById("animateradius");
+					circleLegend.setAttribute("from", "28");
+					circleLegend.setAttribute("to", "32");
+					var circleOpacit = document.getElementById("animateopacity");
+					circleOpacit.setAttribute("to", "0");
+				}
+				
+				});
+				
+			
+			
+			
+			$('input[value="UnselectAll"]').click(function(e){
+				
+				if(this.attributes["name"].value === "radiotier"){
+					$('input[name="tier"]').prop('checked', false);
+				}
+				else if(this.attributes["name"].value === "radiotrend"){
+					$('input[name="trend"]').prop('checked', false);
+				}
+				else{
+					$('input[name="potential"]').prop('checked', false);
+				}
+				drawPoints();
+			});
+			
+			$('input[value="SelectAll"]').click(function(e){
+				if(this.attributes["name"].value === "radiotier"){
+					$('input[name="tier"]').prop('checked', true);
+				}
+				else if(this.attributes["name"].value === "radiotrend"){
+					$('input[name="trend"]').prop('checked', true);
+				}
+				else{
+					$('input[name="potential"]').prop('checked', true);
+				}
+				drawPoints();
+			});
+			
+			clusterButton.addEventListener("click", function(e){
+				clusterZoom = (clusterZoom === 18) ? 0 : 18;
+				drawPoints();
+				console.log(clusterZoom);
+			});
+			heatButton.addEventListener("click", function(e){
+				if (coordsHeat.length > 0 && heatActive===false){heat = L.heatLayer(coordsHeat, {minOpacity: 0.4}).addTo(map);}
+				if (heatActive===true){map.removeLayer(heat);}
+				heatActive = !heatActive;
+				console.log(heatActive);
+			});
+			
+			
+			//
+			drawnItems.on('click', function(e) { //show dialog box when polygon is clicked
+				if (dialog != undefined){dialog.destroy();}
+				dialog = L.control.dialog({size: [410, 645], maxSize: [400, 400], anchor: [0, 250]})
+                .setContent("<dl class='summary'><h2>type 2/type 1</h2><dt>No. of type 2 clients</dt>"+inpex+"<dt>No. of type 1 clients</dt><dd>"+mah+"</dd><h2>Sales Segment</h2><dt>No. of Segment 1 clients</dt><dd>"+totTier1+"</dd><dt>No. of Segment 2 clients</dt><dd>"+totTier2+"</dd><dt>No. of Segment 3 clients</dt><dd>"+totTier3+"</dd><dt>No. of Segment 4 clients</dt><dd>"+totTier4+"</dd><dt>No. of clients with no segment</dt><dd>"+noTier+"</dd><h2>Growth Potential</h2><dt>Low</dt><dd>"+totLow+"</dd><dt>Moderate</dt><dd>"+totMod+"</dd><dt>High</dt><dd>"+totHigh+"</dd><dt>Without growth info</dt><dd>"+noPotential+"</dd><h2>Sales</h2><dt>Total sales 2017</dt><dd>$"+numeral(sales2017).format('0,0')+"</dd><dt>Total sales 2018</dt><dd>$"+numeral(sales2018).format('0,0')+"</dd><dt>Average sales 2017</dt><dd>$"+numeral(avg2017.toFixed(2)).format('0,0')+"</dd><dt>Average sales 2018</dt><dd>$"+numeral(avg2018.toFixed(2)).format('0,0')+"</dd><dt>H1'2018</dt><dd>$"+numeral(toth12018).format('0,0')+"</dd><dt>H1'2019</dt><dd>$"+numeral(toth12019).format('0,0')+"</dd><dt>H1 Trend</dt><dd>"+h1trend.toFixed(2)+"%"+"</dd></dl><div style='text-align: center;'><button id='download'>Download selected</button></div>")
+			    .addTo(map);
+			    dialog.hideResize();
+				
+			    document.getElementById("download").addEventListener("click", downloadExcel);
+				function downloadExcel(){
+					var xls = new xlsExport(summaryPoints, 'title');
+					 xls.exportToXLS('export.xls')
+				};
+			});
+	
+}
+			
+</script>
+
+
+
+</body>
+</html>
