@@ -102,7 +102,7 @@ dl {
     float: left;
     clear: left;
 	
-    width: 100px;
+    width: 200px;
    
     font-weight: normal;
     color: green;
@@ -354,7 +354,7 @@ button{
 					
 					marker.bindPopup("<dl>" + "<h2>Client Information	</h2><dt>Client Name </dt><dd>" + filtered[row].client + "</dd><dt>Address </dt><dd>"+ filtered[row].address+  "</dd><dt>2017 Sales </dt><dd>$" + numeral(filtered[row].sales_2017).format('0,0') + "</dd><dt>2018 Sales </dt><dd>$" + numeral(filtered[row].sales_2018).format('0,0') + "</dd><dt>Sales Segment </dt><dd>" +tier_no+ "</dd><dt>Growth Potential </dt><dd>" +  filtered[row].sales_potential +"</dd><dt>H1 2018</dt><dd>$"+numeral(filtered[row].h1_2018).format('0,0')+"</dd><dt>H1 2019</dt><dd>$"+numeral(filtered[row].h1_2019).format('0,0')+"</dd><dt>Sales Trend </dt><dd>" + trend.toFixed(2) +"%</dd><dt>Trend Category</dt><dd>" + filtered[row].trend+"</dd><dt>Account Owner</dt><dd>"+filtered[row].account_owner+ "</dd></dl>", 
 					{
-					maxWidth: 390,
+					maxWidth: 490,
 					maxHeight: 700
 					
 					}); 
