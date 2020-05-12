@@ -192,7 +192,7 @@ button{
 	
 	var clusterButton = document.getElementById("clusterButton");                              //Button to enable or disable clusters
 	var heatButton = document.getElementById("heatButton");                                    //Button to enable or disable heatmap
-	var heatActive = true;                                                                    //Boolean to check if heat layer is active
+	var heatActive = false;                                                                    //Boolean to check if heat layer is active
 	var pulsating = true;
 	$.getJSON('https://api.sheety.co/147aea0f-c169-4e05-9454-00cf939849cb', function(json) {   //retrieveing spreadsheet data as JSON from sheety API
 		addPoints(json);
