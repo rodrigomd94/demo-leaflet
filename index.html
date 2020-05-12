@@ -234,7 +234,10 @@ button{
 	var summaryPoints = new Array();                                                             //array with that are inside of the drawn polygon
 	drawPoints();  //draws client points for the first time
 	var drawnItems = new L.FeatureGroup();                                                       //Layer that stores the drawn polygons
-	
+	if (coordsHeat.length > 0 && heatActive===false){heat = L.heatLayer(coordsHeat, {minOpacity: 0.4}).addTo(map);}
+				if (heatActive===true){map.removeLayer(heat);}
+				heatActive = !heatActive;
+				console.log(heatActive);
 	//variables used in summary----------
 				var totTier1 = 0;
 				var totTier2 = 0;
@@ -261,7 +264,6 @@ button{
 	var dialog;                                                                               //dialog box that shows the summary
 	var drawnAmount = 0;                                                                      //Variable to check if something has been drawn
 	function drawPoints(){                                                        //function to draw points. Called whenever filters are applied or heatmap or clusters are enabled and disabled.
-		if (coordsHeat.length > 0 && heatActive===false){heat = L.heatLayer(coordsHeat, {minOpacity: 0.4}).addTo(map);}
 		/**
 		Section to clean out layers and redraw them after
 		*/
