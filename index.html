@@ -261,7 +261,7 @@ button{
 	var dialog;                                                                               //dialog box that shows the summary
 	var drawnAmount = 0;                                                                      //Variable to check if something has been drawn
 	function drawPoints(){                                                        //function to draw points. Called whenever filters are applied or heatmap or clusters are enabled and disabled.
-		
+		if (coordsHeat.length > 0 && heatActive===false){heat = L.heatLayer(coordsHeat, {minOpacity: 0.4}).addTo(map);}
 		/**
 		Section to clean out layers and redraw them after
 		*/
