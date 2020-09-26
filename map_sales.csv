@@ -1,0 +1,1511 @@
+﻿client,street,city,zip,sales_2017,sales_2018,address,tier,sales_potential,trend,h1_2018,h1_2019,lat,lon,account_owner,inpex_mah
+Client example 1,,,,,187,example address 1,,,Extreme Loss (-50+),57,,34.6196,-120.241562,Owner example 1,type 1
+Client example 2,,,,,"9,230",example address 2,Tier 4,,Major Growth (20 to 49),"4,159","5,541",34.6232288,-120.1862836,Owner example 2,type 1
+Client example 3,,,,,,example address 3,,,,,,34.4243011,-119.8770457,Owner example 3,type 2
+Client example 4,,,,2893,874,example address 4,,Moderate,Extreme Growth (50+),452,"1,554",34.4383949,-119.8139444,Owner example 4,type 2
+Client example 5,,,,,770,example address 5,,,Extreme Loss (-50+),249,,34.439193,-119.813944,Owner example 5,type 1
+Client example 6,,,,,,example address 6,,,,,,34.439193,-119.813944,Owner example 6,type 2
+Client example 7,,,,,390,example address 7,Tier 4,,Extreme Loss (-50+),"3,448",200,34.439193,-119.813944,Owner example 7,type 1
+Client example 8,,,,,"13,070",example address 8,Tier 3,,Extreme Loss (-50+),"8,719","3,894",34.439193,-119.813944,Owner example 8,type 1
+Client example 9,,,,,281,example address 9,Tier 3,,Moderate Loss (-19 to -5),"23,363","19,933",34.4396249,-119.8126915,Owner example 9,type 1
+Client example 10,,,,10310,"8,871",example address 10,Tier 4,Low,Major Loss (-49 to -20),"3,075","2,271",34.4446368,-119.2365732,Owner example 10,type 2
+Client example 11,,,,,"46,774",example address 11,Tier 3,,Moderate Growth (5 to 19),"21,690","23,979",34.1652138,-119.2102834,Owner example 11,type 1
+Client example 12,,,,,776,example address 12,Tier 1,,Moderate Growth (5 to 19),"70,224","77,260",34.227073,-119.176144,Owner example 12,type 1
+Client example 13,,,,2388,140,example address 13,,High,Extreme Growth (50+),,320,34.1613751,-119.163436,Owner example 13,type 2
+Client example 14,,,,,129,example address 14,,,Extreme Loss (-50+),249,,34.2092912,-119.08549,Owner example 14,type 1
+Client example 15,,,,,133,example address 15,Tier 1,,Moderate Loss (-19 to -5),"47,368","40,209",34.2092912,-119.08549,Owner example 15,type 1
+Client example 16,,,,259,"1,165",example address 16,Tier 4,Moderate,Extreme Growth (50+),319,"1,441",34.3539926,-119.0665944,Owner example 16,type 2
+Client example 17,,,,,,example address 17,,,,,,34.1811233,-118.8021861,Owner example 17,type 2
+Client example 18,,,,182,174,example address 18,,,Extreme Loss (-50+),49,,34.1476625,-118.7841885,Owner example 18,type 2
+Client example 19,,,,,"100,545",example address 19,Tier 1,,Extreme Growth (50+),"1,229","5,103",34.1460223,-118.7694248,Owner example 19,type 1
+Client example 20,,,,455,"1,288",example address 20,Tier 4,Moderate,Major Growth (20 to 49),597,816,34.13014,-118.750171,Owner example 20,type 2
+Client example 21,,,,,,example address 21,,,,,,34.2780589,-118.7406741,Owner example 21,type 2
+Client example 22,,,,,,example address 22,,,,,,35.1409196,-118.6486979,Owner example 22,type 2
+Client example 23,,,,,140,example address 23,Tier 3,,Moderate Growth (5 to 19),"3,364","3,819",34.4890156,-118.6256604,Owner example 23,type 1
+Client example 24,,,,,"39,105",example address 24,Tier 3,,Extreme Loss (-50+),"24,180","8,875",34.2433983,-118.5836279,Owner example 24,type 1
+Client example 25,,,,,1009,example address 25,,Moderate,Extreme Growth (50+),,498,34.162854,-118.5777464,Owner example 25,type 2
+Client example 26,,,,2230,173,example address 26,,High,Extreme Loss (-50+),368,81,34.2313062,-118.5735289,Owner example 26,type 2
+Client example 27,,,,223,165,example address 27,,High,No Growth (-4 to 4),20,20,34.2211757,-118.5718614,Owner example 27,type 2
+Client example 28,,,,374,893,example address 28,,Moderate,Major Growth (20 to 49),453,556,34.1809325,-118.5257382,Owner example 28,type 2
+Client example 29,,,,,,example address 29,,Moderate,Extreme Growth (50+),,444,34.1701187,-118.5070834,Owner example 29,type 2
+Client example 30,,,,3282,791,example address 30,Tier 4,Low,Major Growth (20 to 49),"1,907","2,395",34.0164984,-118.4864875,Owner example 30,type 2
+Client example 31,,,,1963,150,example address 31,Tier 4,High,Extreme Loss (-50+),890,140,34.2109539,-118.4785659,Owner example 31,type 2
+Client example 32,,,,,"3,105",example address 32,Tier 4,,No Sales,,,34.2068833,-118.4753661,Owner example 32,type 2
+Client example 33,,,,,,example address 33,,,,,,34.0044186,-118.4719572,Owner example 33,type 2
+Client example 34,,,,,1694,example address 34,,,No Sales,,,35.1247467,-118.4685582,Owner example 34,type 2
+Client example 35,,,,,,example address 35,,,,,,35.1249561,-118.4681248,Owner example 35,type 2
+Client example 36,,,,,"15,361",example address 36,Tier 3,,Moderate Loss (-19 to -5),"14,641","13,107",34.2708856,-118.4656852,Owner example 36,type 1
+Client example 37,,,,,"37,122",example address 37,Tier 3,,Extreme Loss (-50+),"21,418","9,985",34.2708856,-118.4656852,Owner example 37,type 1
+Client example 38,,,,4809,"5,344",example address 38,Tier 4,Moderate,Moderate Loss (-19 to -5),"1,481","1,383",34.4210025,-118.4547869,Owner example 38,type 2
+Client example 39,,,,,"59,472",example address 39,Tier 2,,Major Loss (-49 to -20),"27,757","16,702",34.1943841,-118.4462262,Owner example 39,type 1
+Client example 40,,,,,145,example address 40,,,Extreme Loss (-50+),20,,34.0633534,-118.445009,Owner example 40,type 2
+Client example 41,,,,,,example address 41,,High,Extreme Growth (50+),,172,34.0346042,-118.4449025,Owner example 41,type 2
+Client example 42,,,,,"21,730",example address 42,Tier 3,,No Growth (-4 to 4),"9,240","9,284",34.0347218,-118.440647,Owner example 42,type 1
+Client example 43,,,,,,example address 43,,,,,,34.0414719,-118.4386032,Owner example 43,type 2
+Client example 44,,,,60,,example address 44,,High,Extreme Growth (50+),,20,34.3094342,-118.4320903,Owner example 44,type 2
+Client example 45,,,,1394,"4,391",example address 45,Tier 4,Low,Major Loss (-49 to -20),"3,603","2,282",34.2030521,-118.4232015,Owner example 45,type 2
+Client example 46,,,,,258,example address 46,,Moderate,Extreme Growth (50+),133,242,34.2042655,-118.422266,Owner example 46,type 2
+Client example 47,,,,,,example address 47,,,,,,34.3785737,-118.4194821,Owner example 47,type 2
+Client example 48,,,,,,example address 48,,,,,,33.930684,-118.416722,Owner example 48,type 2
+Client example 49,,,,,"21,585",example address 49,Tier 3,,Major Loss (-49 to -20),"9,363","6,816",34.0050174,-118.4108003,Owner example 49,type 1
+Client example 50,,,,,605,example address 50,,,No Growth (-4 to 4),200,200,34.157933,-118.3961825,Owner example 50,type 1
+Client example 51,,,,,"2,621",example address 51,Tier 4,Low,Extreme Growth (50+),,"4,499",34.1732558,-118.391869,Owner example 51,type 2
+Client example 52,,,,154,"1,995",example address 52,Tier 4,Moderate,Moderate Loss (-19 to -5),"1,818","1,614",34.0295934,-118.3912757,Owner example 52,type 2
+Client example 53,,,,,,example address 53,,High,Extreme Growth (50+),,148,34.0640282,-118.3893585,Owner example 53,type 2
+Client example 54,,,,124,520,example address 54,,,Extreme Loss (-50+),375,,34.1723699,-118.3831506,Owner example 54,type 2
+Client example 55,,,,186,235,example address 55,,,Extreme Loss (-50+),90,,33.8716235,-118.381222,Owner example 55,type 2
+Client example 56,,,,,,example address 56,,,,,,34.1751286,-118.3806228,Owner example 56,type 2
+Client example 57,,,,,,example address 57,,,,,,34.0811876,-118.3762577,Owner example 57,type 2
+Client example 58,,,,,940,example address 58,,,Extreme Loss (-50+),315,,33.9637734,-118.3751164,Owner example 58,type 2
+Client example 59,,,,705,"2,206",example address 59,Tier 4,High,Extreme Growth (50+),664,"1,064",34.1602551,-118.370036,Owner example 59,type 2
+Client example 60,,,,,"1,250",example address 60,Tier 4,,No Sales,,,34.0720805,-118.36713,Owner example 60,type 2
+Client example 61,,,,888,"23,586",example address 61,Tier 3,Low,Moderate Growth (5 to 19),"9,307","10,809",34.2100608,-118.3629989,Owner example 61,type 2
+Client example 62,,,,1007,"3,748",example address 62,Tier 4,High,Moderate Loss (-19 to -5),"2,083","1,740",34.0803292,-118.3616102,Owner example 62,type 2
+Client example 63,,,,,"1,974",example address 63,Tier 4,,Extreme Loss (-50+),"1,561",,34.0328403,-118.3523552,Owner example 63,type 1
+Client example 64,,,,,,example address 64,,,,,,34.165263,-118.346035,Owner example 64,type 2
+Client example 65,,,,,,example address 65,,,,,,35.155833,-118.344654,Owner example 65,type 2
+Client example 66,,,,,"1,513",example address 66,Tier 4,High,Extreme Loss (-50+),"1,161",187,34.1687463,-118.3436152,Owner example 66,type 2
+Client example 67,,,,819,"2,764",example address 67,Tier 4,High,Major Loss (-49 to -20),"1,753",997,33.9150943,-118.334917,Owner example 67,type 2
+Client example 68,,,,,"17,298",example address 68,Tier 3,,Extreme Growth (50+),"3,327","22,895",34.0225287,-118.329118,Owner example 68,type 1
+Client example 69,,,,,"15,470",example address 69,Tier 3,,Major Growth (20 to 49),"4,734","5,743",34.1873837,-118.3228641,Owner example 69,type 1
+Client example 70,,,,,280,example address 70,,Moderate,Extreme Growth (50+),,793,34.010532,-118.316633,Owner example 70,type 2
+Client example 71,,,,1682,"1,996",example address 71,Tier 4,Low,Extreme Growth (50+),952,"2,047",34.0406978,-118.3127017,Owner example 71,type 2
+Client example 72,,,,,,example address 72,,,,,,33.7223624,-118.3117274,Owner example 72,type 2
+Client example 73,,,,,305,example address 73,,,No Growth (-4 to 4),100,100,33.9848841,-118.3110203,Owner example 73,type 1
+Client example 74,,,,,"59,159",example address 74,Tier 2,,Moderate Growth (5 to 19),"33,396","34,947",33.9848841,-118.3110203,Owner example 74,type 1
+Client example 75,,,,,"55,755",example address 75,Tier 2,,Major Loss (-49 to -20),"36,121","19,963",33.9848841,-118.3110203,Owner example 75,type 1
+Client example 76,,,,,"10,953",example address 76,Tier 3,,Moderate Loss (-19 to -5),"22,986","20,688",33.7520661,-118.2942057,Owner example 76,type 1
+Client example 77,,,,,"27,820",example address 77,Tier 3,,Major Loss (-49 to -20),"15,085","7,797",33.7520661,-118.2942057,Owner example 77,type 1
+Client example 78,,,,,453,example address 78,,Low,Extreme Growth (50+),,626,33.7385003,-118.2876673,Owner example 78,type 2
+Client example 79,,,,,"8,421",example address 79,Tier 4,,Moderate Growth (5 to 19),"21,996","23,210",33.8643279,-118.2774662,Owner example 79,type 1
+Client example 80,,,,782,"1,354",example address 80,Tier 4,,Extreme Loss (-50+),"1,229",,34.0221754,-118.2729899,Owner example 80,type 2
+Client example 81,,,,903,919,example address 81,,High,Extreme Loss (-50+),750,375,34.1460024,-118.2706375,Owner example 81,type 2
+Client example 82,,,,1159,"2,275",example address 82,Tier 4,Moderate,Moderate Loss (-19 to -5),"1,085",951,34.1239795,-118.2681595,Owner example 82,type 2
+Client example 83,,,,,374,example address 83,,,Extreme Loss (-50+),249,,34.0591238,-118.2511674,Owner example 83,type 1
+Client example 84,,,,,,example address 84,,,,,,34.9428249,-118.2465636,Owner example 84,type 2
+Client example 85,,,,,"25,282",example address 85,Tier 3,,Extreme Growth (50+),"11,966","19,320",34.7037667,-118.2232215,Owner example 85,type 1
+Client example 86,,,,,"42,709",example address 86,Tier 3,,Extreme Loss (-50+),"22,681","10,616",34.0835506,-118.2188081,Owner example 86,type 1
+Client example 87,,,,48228,"53,016",example address 87,Tier 2,Low,Major Growth (20 to 49),"27,661","37,922",34.444314,-118.193396,Owner example 87,type 2
+Client example 88,,,,,"52,846",example address 88,Tier 2,,Major Growth (20 to 49),"27,721","37,587",34.444314,-118.193396,Owner example 88,type 1
+Client example 89,,,,,,example address 89,,,,,,33.8784636,-118.1814591,Owner example 89,type 2
+Client example 90,,,,,"87,421",example address 90,Tier 2,,Moderate Growth (5 to 19),"49,135","51,812",33.8871778,-118.1771172,Owner example 90,type 1
+Client example 91,,,,,"3,657",example address 91,Tier 4,,Moderate Loss (-19 to -5),"37,257","30,378",33.9250403,-118.1685843,Owner example 91,type 1
+Client example 92,,,,,,example address 92,,,,,,33.971611,-118.1629915,Owner example 92,type 2
+Client example 93,,,,,,example address 93,,,,,,33.8514053,-118.1556505,Owner example 93,type 2
+Client example 94,,,,,,example address 94,,,,,,33.783703,-118.154258,Owner example 94,type 2
+Client example 95,,,,,"131,918",example address 95,Tier 1,,Major Loss (-49 to -20),"67,949","52,407",34.1394215,-118.1490708,Owner example 95,type 1
+Client example 96,,,,,236,example address 96,,,Extreme Growth (50+),111,183,33.8500537,-118.1384428,Owner example 96,type 1
+Client example 97,,,,760,"1,641",example address 97,Tier 4,High,Extreme Loss (-50+),684,297,34.136711,-118.1319961,Owner example 97,type 2
+Client example 98,,,,,,example address 98,,,,,,33.8821364,-118.1243793,Owner example 98,type 2
+Client example 99,,,,,"33,861",example address 99,Tier 3,,Major Loss (-49 to -20),"15,594","10,668",34.5828179,-118.1167225,Owner example 99,type 1
+Client example 100,,,,,"149,913",example address 100,Tier 1,,Major Growth (20 to 49),"61,498","76,584",33.9223145,-118.1123136,Owner example 100,type 1
+Client example 101,,,,500,,example address 101,,,,,,33.8161271,-118.1090217,Owner example 101,type 2
+Client example 102,,,,,374,example address 102,,,Extreme Loss (-50+),249,,33.9827395,-118.0996758,Owner example 102,type 1
+Client example 103,,,,,"27,828",example address 103,Tier 3,,Extreme Loss (-50+),"10,828",,33.9693919,-118.0976134,Owner example 103,type 1
+Client example 104,,,,,,example address 104,,High,Extreme Growth (50+),,20,33.8691168,-118.0895436,Owner example 104,type 2
+Client example 105,,,,,"53,480",example address 105,Tier 2,,Extreme Growth (50+),"23,359","35,192",34.0921103,-118.0886439,Owner example 105,type 1
+Client example 106,,,,,305,example address 106,,,Extreme Loss (-50+),352,,34.1532227,-118.0829587,Owner example 106,type 2
+Client example 107,,,,2231,"1,803",example address 107,Tier 4,High,Extreme Loss (-50+),"1,380",350,33.8094986,-118.0826868,Owner example 107,type 2
+Client example 108,,,,,"16,777",example address 108,Tier 3,,Major Growth (20 to 49),"6,838","9,220",33.8094986,-118.0826868,Owner example 108,type 1
+Client example 109,,,,177,332,example address 109,,High,Extreme Loss (-50+),207,22,33.7976003,-118.0712981,Owner example 109,type 2
+Client example 110,,,,,,example address 110,,,,,,34.0512656,-118.0530965,Owner example 110,type 2
+Client example 111,,,,62,,example address 111,,,,,,33.8023276,-118.0464876,Owner example 111,type 2
+Client example 112,,,,1043,"1,723",example address 112,Tier 4,Moderate,Major Growth (20 to 49),794,"1,074",34.1188586,-118.01015,Owner example 112,type 2
+Client example 113,,,,684,552,example address 113,,Moderate,Major Loss (-49 to -20),319,176,34.1242153,-118.0034806,Owner example 113,type 2
+Client example 114,,,,217,256,example address 114,,High,Major Loss (-49 to -20),111,60,33.8899972,-117.9897647,Owner example 114,type 2
+Client example 115,,,,,,example address 115,,,,,,33.6485255,-117.9793102,Owner example 115,type 2
+Client example 116,,,,,"61,985",example address 116,Tier 2,,Moderate Growth (5 to 19),"25,465","28,402",33.7897691,-117.9676883,Owner example 116,type 1
+Client example 117,,,,999,,example address 117,,,,,,33.6923132,-117.9546927,Owner example 117,type 2
+Client example 118,,,,,"65,919",example address 118,Tier 2,,Major Loss (-49 to -20),"42,811","29,738",34.091344,-117.9511622,Owner example 118,type 1
+Client example 119,,,,1154,1061,example address 119,,Moderate,Major Loss (-49 to -20),458,305,33.9463839,-117.9467531,Owner example 119,type 2
+Client example 120,,,,1468,"1,445",example address 120,Tier 4,High,Extreme Loss (-50+),689,170,33.8546562,-117.9451637,Owner example 120,type 2
+Client example 121,,,,,"19,759",example address 121,Tier 3,,Major Loss (-49 to -20),"10,566","7,535",34.926393,-117.937676,Owner example 121,type 1
+Client example 122,,,,604,625,example address 122,,,No Sales,,,33.9372225,-117.9279895,Owner example 122,type 2
+Client example 123,,,,,423,example address 123,,,No Sales,,,33.6218542,-117.9243967,Owner example 123,type 2
+Client example 124,,,,,,example address 124,,,,,,33.8006757,-117.9032398,Owner example 124,type 2
+Client example 125,,,,4626,"5,523",example address 125,Tier 4,Low,No Growth (-4 to 4),"2,862","2,914",33.6988022,-117.8956749,Owner example 125,type 2
+Client example 126,,,,,"7,095",example address 126,Tier 4,,Extreme Growth (50+),,"5,885",33.7805894,-117.8885337,Owner example 126,type 1
+Client example 127,,,,155,135,example address 127,,,No Sales,,,34.5671882,-117.8851042,Owner example 127,type 2
+Client example 128,,,,4716,"5,011",example address 128,Tier 4,Moderate,Moderate Loss (-19 to -5),"2,740","2,392",33.6232588,-117.8803623,Owner example 128,type 2
+Client example 129,,,,,,example address 129,,,,,,33.8033299,-117.8365139,Owner example 129,type 2
+Client example 130,,,,,"22,886",example address 130,Tier 3,,Extreme Growth (50+),,"52,509",33.8979606,-117.8319452,Owner example 130,type 1
+Client example 131,,,,,,example address 131,,,,,,33.6007582,-117.8278448,Owner example 131,type 2
+Client example 132,,,,75,,example address 132,,,,,,33.6767059,-117.81461,Owner example 132,type 2
+Client example 133,,,,,"167,426",example address 133,Tier 1,,Moderate Loss (-19 to -5),"97,860","86,855",34.0525361,-117.7902004,Owner example 133,type 1
+Client example 134,,,,6067,"18,935",example address 134,Tier 3,Moderate,Moderate Loss (-19 to -5),"11,059","9,148",33.6751145,-117.7636791,Owner example 134,type 2
+Client example 135,,,,2121,"1,666",example address 135,Tier 4,Moderate,Moderate Growth (5 to 19),531,625,33.5729488,-117.7624671,Owner example 135,type 2
+Client example 136,,,,728,499,example address 136,,Moderate,Extreme Growth (50+),198,407,34.0748735,-117.7564412,Owner example 136,type 2
+Client example 137,,,,,,example address 137,,,,,,33.9559835,-117.7130308,Owner example 137,type 2
+Client example 138,,,,,,example address 138,,,,,,34.0931316,-117.7036819,Owner example 138,type 2
+Client example 139,,,,362,385,example address 139,,Moderate,Major Loss (-49 to -20),260,195,34.0365265,-117.6879421,Owner example 139,type 2
+Client example 140,,,,135,145,example address 140,,High,Extreme Growth (50+),,20,34.0322557,-117.677264,Owner example 140,type 2
+Client example 141,,,,,,example address 141,,,,,,34.1273143,-117.6757058,Owner example 141,type 2
+Client example 142,,,,584,579,example address 142,,Moderate,Extreme Growth (50+),214,324,33.5603915,-117.6702157,Owner example 142,type 2
+Client example 143,,,,370,722,example address 143,,Moderate,Major Loss (-49 to -20),476,242,33.5983473,-117.6650729,Owner example 143,type 2
+Client example 144,,,,,,example address 144,,,,,,33.6473481,-117.6649812,Owner example 144,type 2
+Client example 145,,,,,,example address 145,,,,,,33.4956339,-117.6620838,Owner example 145,type 2
+Client example 146,,,,4369,"6,206",example address 146,Tier 4,Moderate,Extreme Loss (-50+),"4,228","1,654",33.5539595,-117.6609249,Owner example 146,type 2
+Client example 147,,,,,,example address 147,,High,Extreme Growth (50+),,"1,000",35.6162857,-117.6349476,Owner example 147,type 2
+Client example 148,,,,6473,"10,758",example address 148,Tier 3,Moderate,Extreme Loss (-50+),"6,773","1,998",34.0545746,-117.6346145,Owner example 148,type 2
+Client example 149,,,,6255,"5,791",example address 149,Tier 4,Moderate,Extreme Growth (50+),"2,505","8,437",34.1044091,-117.6331704,Owner example 149,type 2
+Client example 150,,,,,,example address 150,,,,,,34.1044091,-117.6331704,Owner example 150,type 2
+Client example 151,,,,1832,"1,846",example address 151,Tier 4,Moderate,Extreme Growth (50+),600,"1,101",33.4419017,-117.5841376,Owner example 151,type 2
+Client example 152,,,,,"19,972",example address 152,Tier 3,,No Growth (-4 to 4),"11,361","11,534",33.8803266,-117.5821346,Owner example 152,type 1
+Client example 153,,,,,625,example address 153,,,Extreme Loss (-50+),500,,33.8803266,-117.5821346,Owner example 153,type 2
+Client example 154,,,,,"7,995",example address 154,Tier 4,,No Growth (-4 to 4),"6,020","5,934",33.8924526,-117.5713211,Owner example 154,type 1
+Client example 155,,,,8924,"7,935",example address 155,Tier 4,Moderate,Major Loss (-49 to -20),"2,826","1,958",33.9231926,-117.561814,Owner example 155,type 2
+Client example 156,,,,40,,example address 156,,,,,,33.861541,-117.549115,Owner example 156,type 2
+Client example 157,,,,,"53,121",example address 157,Tier 2,,Moderate Loss (-19 to -5),"22,835","21,620",34.0995094,-117.5484506,Owner example 157,type 1
+Client example 158,,,,,,example address 158,,,,,,34.1166166,-117.5350781,Owner example 158,type 2
+Client example 159,,,,124,156,example address 159,,,Extreme Loss (-50+),20,,33.8380343,-117.5340875,Owner example 159,type 2
+Client example 160,,,,4462,"1,876",example address 160,Tier 4,,Extreme Loss (-50+),178,,33.9389438,-117.529102,Owner example 160,type 2
+Client example 161,,,,,,example address 161,,,,,,33.9754396,-117.5245794,Owner example 161,type 2
+Client example 162,,,,177,211,example address 162,,Moderate,Major Loss (-49 to -20),86,60,34.1426993,-117.5067917,Owner example 162,type 2
+Client example 163,,,,20,,example address 163,,,,,,33.817787,-117.501882,Owner example 163,type 2
+Client example 164,,,,207,,example address 164,,,,,,33.9461015,-117.470642,Owner example 164,type 2
+Client example 165,,,,1364,"1,679",example address 165,Tier 4,High,Extreme Loss (-50+),650,181,33.9714114,-117.4694262,Owner example 165,type 2
+Client example 166,,,,,"116,330",example address 166,Tier 1,,Major Loss (-49 to -20),"58,307","38,129",33.9667317,-117.4676495,Owner example 166,type 1
+Client example 167,,,,,"26,026",example address 167,Tier 3,,Major Loss (-49 to -20),"13,679","8,733",33.9662014,-117.4369995,Owner example 167,type 1
+Client example 168,,,,,"49,143",example address 168,Tier 3,,Major Loss (-49 to -20),"14,974","11,287",34.1915882,-117.3739255,Owner example 168,type 1
+Client example 169,,,,,"25,476",example address 169,Tier 3,,Major Loss (-49 to -20),"13,518","10,012",33.2093643,-117.3532697,Owner example 169,type 1
+Client example 170,,,,,"191,341",example address 170,Tier 1,,Moderate Growth (5 to 19),"22,286","25,115",33.2093643,-117.3532697,Owner example 170,type 1
+Client example 171,,,,,,example address 171,,,,,,33.1614432,-117.3492087,Owner example 171,type 2
+Client example 172,,,,,961,example address 172,,,Extreme Loss (-50+),458,,33.9341715,-117.3456781,Owner example 172,type 2
+Client example 173,,,,,"101,750",example address 173,Tier 1,,Major Loss (-49 to -20),"51,081","40,883",33.6826825,-117.344732,Owner example 173,type 1
+Client example 174,,,,,,example address 174,,,,,,33.6902045,-117.3424124,Owner example 174,type 2
+Client example 175,,,,,"2,965",example address 175,Tier 4,,Extreme Loss (-50+),"2,117",559,33.3169258,-117.3420936,Owner example 175,type 1
+Client example 176,,,,,725,example address 176,,,Extreme Loss (-50+),360,180,33.3169258,-117.3420936,Owner example 176,type 1
+Client example 177,,,,,,example address 177,,,,,,33.8898518,-117.3223326,Owner example 177,type 2
+Client example 178,,,,,"40,101",example address 178,Tier 3,,Moderate Growth (5 to 19),"18,870","21,742",33.3178416,-117.3205123,Owner example 178,type 1
+Client example 179,,,,2719,"8,575",example address 179,Tier 4,Moderate,Moderate Growth (5 to 19),"3,130","3,730",33.2288078,-117.3177115,Owner example 179,type 2
+Client example 180,,,,,"14,267",example address 180,Tier 3,,Major Growth (20 to 49),"7,235","8,859",34.4507909,-117.2919054,Owner example 180,type 1
+Client example 181,,,,,374,example address 181,,,Extreme Loss (-50+),249,,34.4507909,-117.2919054,Owner example 181,type 1
+Client example 182,,,,,"118,509",example address 182,Tier 1,,Major Loss (-49 to -20),"57,626","38,196",33.6316706,-117.2912625,Owner example 182,type 1
+Client example 183,,,,,"10,650",example address 183,Tier 3,,Major Loss (-49 to -20),"6,811","5,100",34.0803744,-117.2899767,Owner example 183,type 1
+Client example 184,,,,,"17,029",example address 184,Tier 3,,Extreme Growth (50+),"12,285","24,207",34.0772178,-117.2881169,Owner example 184,type 1
+Client example 185,,,,,374,example address 185,,,Extreme Loss (-50+),249,,34.1053534,-117.2869918,Owner example 185,type 1
+Client example 186,,,,,"9,587",example address 186,Tier 4,,Major Growth (20 to 49),"4,369","5,555",34.1053534,-117.2869918,Owner example 186,type 1
+Client example 187,,,,,"18,539",example address 187,Tier 3,,Moderate Growth (5 to 19),"9,104","10,075",33.0429252,-117.2844628,Owner example 187,type 1
+Client example 188,,,,665,"3,040",example address 188,Tier 4,Low,Extreme Loss (-50+),"1,723",821,32.835061,-117.276592,Owner example 188,type 2
+Client example 189,,,,,"10,635",example address 189,Tier 3,,Extreme Growth (50+),,"3,098",33.1271736,-117.2717447,Owner example 189,type 1
+Client example 190,,,,,"83,407",example address 190,Tier 2,,Moderate Loss (-19 to -5),"43,853","40,451",33.9156583,-117.2709642,Owner example 190,type 1
+Client example 191,,,,1699,"2,343",example address 191,Tier 4,Moderate,Extreme Loss (-50+),891,214,33.9481389,-117.2618303,Owner example 191,type 2
+Client example 192,,,,577,492,example address 192,,High,Extreme Loss (-50+),279,22,33.7096414,-117.251238,Owner example 192,type 2
+Client example 193,,,,144,136,example address 193,,High,Extreme Growth (50+),11,20,32.7501304,-117.240826,Owner example 193,type 2
+Client example 194,,,,,,example address 194,,,,,,32.7230081,-117.2308129,Owner example 194,type 2
+Client example 195,,,,1727,"1,595",example address 195,Tier 4,High,Extreme Loss (-50+),933,360,33.5435288,-117.227643,Owner example 195,type 2
+Client example 196,,,,,,example address 196,,High,Extreme Growth (50+),,17,34.5270766,-117.2199799,Owner example 196,type 2
+Client example 197,,,,994,395,example address 197,,Moderate,Extreme Growth (50+),270,470,32.7509746,-117.2169314,Owner example 197,type 2
+Client example 198,,,,,"32,074",example address 198,Tier 3,,Moderate Growth (5 to 19),"15,326","16,640",34.5243014,-117.2144307,Owner example 198,type 1
+Client example 199,,,,,,example address 199,,,,,,33.664434,-117.213163,Owner example 199,type 2
+Client example 200,,,,,374,example address 200,,,Extreme Loss (-50+),249,,34.0595889,-117.2041519,Owner example 200,type 1
+Client example 201,,,,,"9,771",example address 201,Tier 4,,Extreme Growth (50+),"1,659","5,600",34.0595889,-117.2041519,Owner example 201,type 1
+Client example 202,,,,,406,example address 202,,,No Sales,,,33.640982,-117.198008,Owner example 202,type 2
+Client example 203,,,,124,145,example address 203,,Moderate,Extreme Growth (50+),,40,33.6420715,-117.1966445,Owner example 203,type 2
+Client example 204,,,,,"28,592",example address 204,Tier 3,,Major Loss (-49 to -20),"6,249","3,791",32.9969533,-117.1950959,Owner example 204,type 1
+Client example 205,,,,,,example address 205,,,Moderate Growth (5 to 19),"8,457","9,384",32.9969533,-117.1950959,Owner example 205,type 1
+Client example 206,,,,,374,example address 206,,,Extreme Loss (-50+),249,,32.7658009,-117.1944275,Owner example 206,type 1
+Client example 207,,,,,"17,383",example address 207,Tier 3,,Extreme Loss (-50+),"10,510",,32.7658009,-117.1944275,Owner example 207,type 1
+Client example 208,,,,,"53,318",example address 208,Tier 2,,Extreme Growth (50+),"59,175","156,836",32.7656684,-117.1941613,Owner example 208,type 1
+Client example 209,,,,,,example address 209,,,,,,32.8363945,-117.191706,Owner example 209,type 2
+Client example 210,,,,,"28,996",example address 210,Tier 3,,No Growth (-4 to 4),"14,478","14,301",34.536312,-117.187188,Owner example 210,type 1
+Client example 211,,,,,1124,example address 211,,Moderate,Extreme Growth (50+),,"1,723",32.7942169,-117.1810945,Owner example 211,type 2
+Client example 212,,,,873,874,example address 212,,Moderate,Moderate Growth (5 to 19),250,280,33.6831035,-117.1700328,Owner example 212,type 2
+Client example 213,,,,,1085,example address 213,,,Extreme Loss (-50+),960,,33.683609,-117.1676566,Owner example 213,type 1
+Client example 214,,,,,,example address 214,,,,,,32.8038217,-117.1580695,Owner example 214,type 2
+Client example 215,,,,1545,"1,708",example address 215,Tier 4,Moderate,Extreme Growth (50+),"1,233","1,861",32.7424152,-117.1494074,Owner example 215,type 2
+Client example 216,,,,444,506,example address 216,,Moderate,Extreme Growth (50+),,348,32.7503038,-117.1466554,Owner example 216,type 2
+Client example 217,,,,,721,example address 217,,,Extreme Loss (-50+),596,,32.7264532,-117.1455726,Owner example 217,type 1
+Client example 218,,,,11,,example address 218,,,,,,33.8043803,-117.1402854,Owner example 218,type 2
+Client example 219,,,,,,example address 219,,,,,,33.5506449,-117.1389522,Owner example 219,type 2
+Client example 220,,,,,,example address 220,,,,,,32.7178338,-117.1336921,Owner example 220,type 2
+Client example 221,,,,,"75,036",example address 221,Tier 2,,No Growth (-4 to 4),"40,870","39,187",32.8874404,-117.1284105,Owner example 221,type 1
+Client example 222,,,,20,,example address 222,,,,,,32.8874404,-117.1284105,Owner example 222,type 2
+Client example 223,,,,,"3,920",example address 223,Tier 4,Low,Extreme Growth (50+),,"4,122",33.5395076,-117.1265739,Owner example 223,type 2
+Client example 224,,,,,,example address 224,,,,,,32.8943475,-117.1227641,Owner example 224,type 2
+Client example 225,,,,210,332,example address 225,,High,Extreme Loss (-50+),207,11,34.5175441,-117.1210291,Owner example 225,type 2
+Client example 226,,,,333,339,example address 226,,Moderate,Extreme Growth (50+),44,130,32.5881962,-117.1127447,Owner example 226,type 2
+Client example 227,,,,792,256,example address 227,,High,Extreme Loss (-50+),91,40,33.4955484,-117.1112769,Owner example 227,type 2
+Client example 228,,,,2296,"1,220",example address 228,Tier 4,Moderate,Major Growth (20 to 49),409,574,33.603932,-117.1094156,Owner example 228,type 2
+Client example 229,,,,,135,example address 229,,,No Sales,,,33.6221139,-117.1032419,Owner example 229,type 2
+Client example 230,,,,2674,"2,224",example address 230,Tier 4,High,Extreme Loss (-50+),"1,378",326,33.1417673,-117.0940489,Owner example 230,type 2
+Client example 231,,,,20,,example address 231,,,,,,32.7825872,-117.0919659,Owner example 231,type 2
+Client example 232,,,,986,"1,526",example address 232,Tier 4,Moderate,Major Growth (20 to 49),940,"1,171",34.0362198,-117.0913704,Owner example 232,type 2
+Client example 233,,,,,,example address 233,,,,,,32.6325064,-117.079799,Owner example 233,type 2
+Client example 234,,,,,"34,315",example address 234,Tier 3,,Major Growth (20 to 49),"16,071","21,131",32.5932981,-117.0641906,Owner example 234,type 1
+Client example 235,,,,,217,example address 235,,,Extreme Loss (-50+),249,,32.5932981,-117.0641906,Owner example 235,type 2
+Client example 236,,,,,,example address 236,,Moderate,Extreme Growth (50+),,548,32.6336073,-117.057089,Owner example 236,type 2
+Client example 237,,,,,,example address 237,,,,,,32.814087,-117.0527674,Owner example 237,type 2
+Client example 238,,,,609,,example address 238,,,,,,33.1146876,-117.0477101,Owner example 238,type 2
+Client example 239,,,,,177,example address 239,,,Extreme Growth (50+),70,148,32.6597042,-117.0332616,Owner example 239,type 1
+Client example 240,,,,,"65,668",example address 240,Tier 2,,No Growth (-4 to 4),"30,524","30,490",33.1598537,-117.0318966,Owner example 240,type 1
+Client example 241,,,,,,example address 241,,,,,,33.2665264,-117.0231804,Owner example 241,type 2
+Client example 242,,,,,"3,540",example address 242,Tier 4,,Major Loss (-49 to -20),"9,616","7,017",32.6886995,-117.0180276,Owner example 242,type 1
+Client example 243,,,,354,218,example address 243,,,No Sales,,,33.258398,-117.012542,Owner example 243,type 2
+Client example 244,,,,8520,"6,116",example address 244,Tier 4,Low,Moderate Loss (-19 to -5),"3,054","2,707",33.7857575,-117.0067027,Owner example 244,type 2
+Client example 245,,,,224,268,example address 245,,High,Extreme Loss (-50+),180,20,32.7674597,-116.9972222,Owner example 245,type 2
+Client example 246,,,,,,example address 246,,,,,,32.8135029,-116.9790795,Owner example 246,type 2
+Client example 247,,,,,"9,312",example address 247,Tier 4,,Major Loss (-49 to -20),"5,494","3,631",34.8816287,-116.9780208,Owner example 247,type 1
+Client example 248,,,,,"16,784",example address 248,Tier 3,,Moderate Loss (-19 to -5),"20,825","17,292",33.7827739,-116.9766419,Owner example 248,type 1
+Client example 249,,,,,"20,611",example address 249,Tier 3,,Extreme Growth (50+),"7,141","11,379",32.8130405,-116.9752622,Owner example 249,type 1
+Client example 250,,,,,"83,516",example address 250,Tier 2,,Moderate Growth (5 to 19),"46,247","50,375",33.7809658,-116.9752162,Owner example 250,type 1
+Client example 251,,,,,,example address 251,,,,,,32.8532337,-116.9420534,Owner example 251,type 2
+Client example 252,,,,859,232,example address 252,,Low,Extreme Growth (50+),-34,421,33.0211009,-116.9246675,Owner example 252,type 2
+Client example 253,,,,,,example address 253,,,,,,33.7411495,-116.8768396,Owner example 253,type 2
+Client example 254,,,,544,540,example address 254,,,Extreme Loss (-50+),572,,32.8509708,-116.8718551,Owner example 254,type 2
+Client example 255,,,,623,58,example address 255,,,Extreme Loss (-50+),20,,32.8197228,-116.8605273,Owner example 255,type 2
+Client example 256,,,,555,"1,087",example address 256,Tier 4,Low,No Growth (-4 to 4),350,350,32.8231667,-116.854453,Owner example 256,type 2
+Client example 257,,,,,"12,048",example address 257,Tier 3,,Extreme Growth (50+),"5,971","10,121",35.255789,-116.6861933,Owner example 257,type 1
+Client example 258,,,,,"22,303",example address 258,Tier 3,,No Growth (-4 to 4),"10,056","10,058",33.8256236,-116.5116763,Owner example 258,type 1
+Client example 259,,,,,"23,390",example address 259,Tier 3,,Extreme Loss (-50+),"14,334","2,039",33.9490633,-116.5007531,Owner example 259,type 1
+Client example 260,,,,20,,example address 260,,,,,,33.9184128,-116.4827195,Owner example 260,type 2
+Client example 261,,,,1214,"1,854",example address 261,Tier 4,High,Extreme Growth (50+),620,"1,450",34.1239076,-116.4183475,Owner example 261,type 2
+Client example 262,,,,,"40,238",example address 262,Tier 3,,Moderate Loss (-19 to -5),"9,726","8,767",33.8279841,-116.4041733,Owner example 262,type 1
+Client example 263,,,,,"43,345",example address 263,Tier 3,,Major Growth (20 to 49),"56,563","77,023",33.8278801,-116.4033895,Owner example 263,type 1
+Client example 264,,,,887,"2,353",example address 264,Tier 4,Moderate,Extreme Loss (-50+),"1,752",249,33.2669205,-116.3989859,Owner example 264,type 2
+Client example 265,,,,,212,example address 265,,High,Moderate Loss (-19 to -5),174,143,34.1353366,-116.293969,Owner example 265,type 2
+Client example 266,,,,,"113,270",example address 266,Tier 1,,Extreme Loss (-50+),"26,895","11,683",33.7437182,-116.2152802,Owner example 266,type 1
+Client example 267,,,,,"8,202",example address 267,Tier 4,,Moderate Loss (-19 to -5),"3,384","3,076",34.2091308,-116.0467681,Owner example 267,type 1
+Client example 268,,,,,58,example address 268,,,No Sales,,,36.222361,-115.9875422,Owner example 268,type 2
+Client example 269,,,,5423,"1,388",example address 269,Tier 4,,Extreme Loss (-50+),"1,350",,36.2214812,-115.9870829,Owner example 269,type 2
+Client example 270,,,,1056,,example address 270,,,,,,32.8055274,-115.5725181,Owner example 270,type 2
+Client example 271,,,,1207,"1,235",example address 271,Tier 4,Moderate,Extreme Growth (50+),483,790,36.218752,-115.3142705,Owner example 271,type 2
+Client example 272,,,,821,,example address 272,,,,,,36.1578494,-115.3116101,Owner example 272,type 2
+Client example 273,,,,,,example address 273,,,,,,36.2720759,-115.3101037,Owner example 273,type 2
+Client example 274,,,,200,98,example address 274,,High,Extreme Growth (50+),20,60,36.3197608,-115.2816517,Owner example 274,type 2
+Client example 275,,,,,,example address 275,,,,,,36.1985667,-115.2790819,Owner example 275,type 2
+Client example 276,,,,,1037,example address 276,,,Extreme Loss (-50+),500,,36.3079648,-115.2422115,Owner example 276,type 2
+Client example 277,,,,144,58,example address 277,,,Extreme Loss (-50+),20,,36.2394353,-115.2234201,Owner example 277,type 2
+Client example 278,,,,7204,"16,628",example address 278,Tier 3,Moderate,Major Loss (-49 to -20),"7,428","5,034",36.0885456,-115.2064695,Owner example 278,type 2
+Client example 279,,,,521,830,example address 279,,Low,Extreme Growth (50+),165,949,35.9935798,-115.1600593,Owner example 279,type 2
+Client example 280,,,,3871,"2,426",example address 280,Tier 4,Moderate,Major Loss (-49 to -20),"1,375",934,36.1579436,-115.1438696,Owner example 280,type 2
+Client example 281,,,,,"2,687",example address 281,Tier 4,Moderate,Major Growth (20 to 49),349,489,36.1881103,-115.1360872,Owner example 281,type 2
+Client example 282,,,,,,example address 282,,,,,,36.010836,-115.1339795,Owner example 282,type 2
+Client example 283,,,,1922,98,example address 283,,High,No Growth (-4 to 4),20,20,36.1014013,-115.132636,Owner example 283,type 2
+Client example 284,,,,3669,"4,197",example address 284,Tier 4,Moderate,Extreme Growth (50+),"1,566","2,457",36.0563758,-115.1163123,Owner example 284,type 2
+Client example 285,,,,,,example address 285,,,,,,36.151274,-115.1155185,Owner example 285,type 2
+Client example 286,,,,,"304,837",example address 286,Tier 1,,Major Loss (-49 to -20),"165,949","128,885",36.1764803,-115.106554,Owner example 286,type 1
+Client example 287,,,,3963,"4,178",example address 287,Tier 4,Moderate,Major Loss (-49 to -20),"2,234","1,745",36.0445055,-115.0911493,Owner example 287,type 2
+Client example 288,,,,,"10,560",example address 288,Tier 3,,Moderate Growth (5 to 19),"4,573","5,009",36.2370845,-115.0485733,Owner example 288,type 1
+Client example 289,,,,,"13,663",example address 289,Tier 3,,No Growth (-4 to 4),"6,655","6,861",36.0298863,-114.9823695,Owner example 289,type 1
+Client example 290,,,,,287,example address 290,,,Extreme Loss (-50+),249,,36.0298863,-114.9823695,Owner example 290,type 2
+Client example 291,,,,208,69,example address 291,,High,Extreme Growth (50+),20,60,36.0432952,-114.9508063,Owner example 291,type 2
+Client example 292,,,,533,318,example address 292,,Moderate,Moderate Growth (5 to 19),119,128,35.9779601,-114.8259385,Owner example 292,type 2
+Client example 293,,,,,,example address 293,,,,,,33.5992659,-112.0149642,Owner example 293,type 2
+Client example 294,,,,,,example address 294,,,,,,33.321555,-111.709554,Owner example 294,type 2
+Client example 295,,,,3074,"2,933",example address 295,Tier 4,Moderate,Major Loss (-49 to -20),"2,058","1,140",31.8384557,-106.1572896,Owner example 295,type 2
+Client example 296,,,,5119,"6,012",example address 296,Tier 4,Low,Major Growth (20 to 49),"2,897","3,958",30.6006277,-103.8799455,Owner example 296,type 2
+Client example 297,,,,3329,"19,161",example address 297,Tier 3,Low,No Growth (-4 to 4),"10,718","11,010",31.8407575,-102.456002,Owner example 297,type 2
+Client example 298,,,,287,195,example address 298,,High,Extreme Growth (50+),11,40,34.8227474,-102.4210657,Owner example 298,type 2
+Client example 299,,,,,287,example address 299,,,Extreme Loss (-50+),249,,31.8798522,-102.3965047,Owner example 299,type 2
+Client example 300,,,,,,example address 300,,,,,,32.0517984,-102.1698607,Owner example 300,type 2
+Client example 301,,,,1998,,example address 301,,,,,,32.0440112,-102.061184,Owner example 301,type 2
+Client example 302,,,,,,example address 302,,,,,,33.5183491,-101.9211834,Owner example 302,type 2
+Client example 303,,,,5375,"7,151",example address 303,Tier 4,Low,Major Loss (-49 to -20),"3,186","2,461",33.5322018,-101.8800858,Owner example 303,type 2
+Client example 304,,,,2410,"2,554",example address 304,Tier 4,Moderate,Major Loss (-49 to -20),"1,479",914,33.4112058,-101.8716556,Owner example 304,type 2
+Client example 305,,,,,,example address 305,,,,,,33.5807597,-101.8431587,Owner example 305,type 2
+Client example 306,,,,344,"16,926",example address 306,Tier 3,Moderate,Extreme Growth (50+),60,"22,970",33.5329052,-101.7992312,Owner example 306,type 2
+Client example 307,,,,,,example address 307,,,,,,34.1761364,-101.7028724,Owner example 307,type 2
+Client example 308,,,,424,198,example address 308,,High,Major Loss (-49 to -20),140,100,32.2352257,-101.5130161,Owner example 308,type 2
+Client example 309,,,,,249,example address 309,,,,211,,32.2354929,-101.4575361,Owner example 309,type 2
+Client example 310,,,,379,1007,example address 310,,Moderate,No Growth (-4 to 4),305,302,33.6599149,-101.2495399,Owner example 310,type 2
+Client example 311,,,,255,78,example address 311,,,Extreme Loss (-50+),20,,29.4093428,-100.9204232,Owner example 311,type 2
+Client example 312,,,,384,775,example address 312,,Moderate,Extreme Growth (50+),412,821,31.3788555,-100.4408556,Owner example 312,type 2
+Client example 313,,,,11620,"15,874",example address 313,Tier 3,Moderate,Major Growth (20 to 49),"4,186","5,216",31.5275144,-100.4372195,Owner example 313,type 2
+Client example 314,,,,,,example address 314,,,,,,32.4527474,-99.7505741,Owner example 314,type 2
+Client example 315,,,,,"6,014",example address 315,Tier 4,,Extreme Growth (50+),249,"8,923",32.4187305,-99.7350687,Owner example 315,type 1
+Client example 316,,,,,"19,330",example address 316,Tier 3,,Extreme Loss (-50+),"12,816",,32.4187305,-99.7350687,Owner example 316,type 1
+Client example 317,,,,4489,"1,050",example address 317,Tier 4,Moderate,Extreme Growth (50+),,773,27.5198091,-99.5206157,Owner example 317,type 2
+Client example 318,,,,,,example address 318,,,,,,30.073509,-99.2154784,Owner example 318,type 2
+Client example 319,,,,,,example address 319,,,,,,29.7271312,-99.0721335,Owner example 319,type 2
+Client example 320,,,,11139,"3,808",example address 320,Tier 4,Moderate,Extreme Growth (50+),"1,430","6,917",31.6660147,-98.9828677,Owner example 320,type 2
+Client example 321,,,,,"3,808",example address 321,Tier 4,,Extreme Growth (50+),"1,430","6,916",31.6660147,-98.9828677,Owner example 321,type 1
+Client example 322,,,,,,example address 322,,,,,,29.6424812,-98.9412104,Owner example 322,type 2
+Client example 323,,,,494,"3,528",example address 323,Tier 4,Moderate,Major Growth (20 to 49),288,413,30.2413442,-98.9006978,Owner example 323,type 2
+Client example 324,,,,,78,example address 324,,,Extreme Loss (-50+),40,,29.743234,-98.86409,Owner example 324,type 2
+Client example 325,,,,1707,"4,745",example address 325,Tier 4,Low,Moderate Growth (5 to 19),"2,105","2,241",29.3826687,-98.7394014,Owner example 325,type 2
+Client example 326,,,,91,,example address 326,,,,,,29.7871823,-98.7288259,Owner example 326,type 2
+Client example 327,,,,7034,"6,725",example address 327,Tier 4,Low,Extreme Growth (50+),"2,597","6,014",29.5185784,-98.7023767,Owner example 327,type 2
+Client example 328,,,,186,"1,337",example address 328,Tier 4,Moderate,Extreme Growth (50+),323,679,29.4414333,-98.6876304,Owner example 328,type 2
+Client example 329,,,,1667,"1,538",example address 329,Tier 4,Low,Moderate Growth (5 to 19),760,895,29.725563,-98.6707077,Owner example 329,type 2
+Client example 330,,,,955,229,example address 330,,Moderate,Extreme Growth (50+),91,167,29.4985288,-98.6597363,Owner example 330,type 2
+Client example 331,,,,,"1,462",example address 331,Tier 4,Moderate,Extreme Growth (50+),,"3,595",29.2975,-98.651987,Owner example 331,type 2
+Client example 332,,,,394,118,example address 332,,,Extreme Loss (-50+),60,,29.4958117,-98.6186188,Owner example 332,type 2
+Client example 333,,,,2372,"2,144",example address 333,Tier 4,Moderate,Extreme Loss (-50+),528,248,29.5072652,-98.6125673,Owner example 333,type 2
+Client example 334,,,,,58,example address 334,,,Extreme Loss (-50+),20,,29.216862,-98.611711,Owner example 334,type 2
+Client example 335,,,,,"49,507",example address 335,Tier 3,,Extreme Loss (-50+),"44,294",973,33.879633,-98.60836,Owner example 335,type 1
+Client example 336,,,,,,example address 336,,,,,,29.5531055,-98.5945107,Owner example 336,type 2
+Client example 337,,,,,"6,979",example address 337,Tier 4,,Moderate Growth (5 to 19),"3,478","3,802",33.9414291,-98.582264,Owner example 337,type 1
+Client example 338,,,,4049,"8,273",example address 338,Tier 4,Moderate,No Growth (-4 to 4),"4,129","4,263",33.1219966,-98.5541191,Owner example 338,type 2
+Client example 339,,,,,,example address 339,,,,,,29.4116008,-98.5096531,Owner example 339,type 2
+Client example 340,,,,308,375,example address 340,,,No Sales,,,30.0139916,-98.5047212,Owner example 340,type 2
+Client example 341,,,,,"207,220",example address 341,Tier 1,,Extreme Growth (50+),"106,886","183,277",33.9227875,-98.4957874,Owner example 341,type 1
+Client example 342,,,,5316,"9,722",example address 342,Tier 4,Moderate,Extreme Growth (50+),"3,803","7,616",33.8672158,-98.4872048,Owner example 342,type 2
+Client example 343,,,,352,139,example address 343,,,Extreme Loss (-50+),101,,29.145414,-98.486478,Owner example 343,type 2
+Client example 344,,,,,,example address 344,,,,,,29.2194837,-98.4839612,Owner example 344,type 2
+Client example 345,,,,,,example address 345,,,,,,29.5075204,-98.4688781,Owner example 345,type 2
+Client example 346,,,,164,186,example address 346,,High,Extreme Growth (50+),,97,29.488217,-98.46379,Owner example 346,type 2
+Client example 347,,,,,,example address 347,,,,,,29.8490298,-98.4038811,Owner example 347,type 2
+Client example 348,,,,6034,"2,912",example address 348,Tier 4,Moderate,Major Growth (20 to 49),"1,595","1,988",29.758257,-98.3937104,Owner example 348,type 2
+Client example 349,,,,396,"2,230",example address 349,Tier 4,,Extreme Loss (-50+),"2,192",,29.4717491,-98.3817856,Owner example 349,type 2
+Client example 350,,,,,287,example address 350,,,Extreme Loss (-50+),249,,29.516591,-98.3816357,Owner example 350,type 2
+Client example 351,,,,9829,,example address 351,,,,,,29.389246,-98.351079,Owner example 351,type 2
+Client example 352,,,,625,718,example address 352,,,Extreme Loss (-50+),485,,29.797789,-98.350388,Owner example 352,type 2
+Client example 353,,,,2598,"2,661",example address 353,Tier 4,Moderate,Extreme Growth (50+),"1,296","2,968",29.5552621,-98.327538,Owner example 353,type 2
+Client example 354,,,,124,58,example address 354,,,Extreme Loss (-50+),20,,29.5250761,-98.3143406,Owner example 354,type 2
+Client example 355,,,,398,"1,360",example address 355,Tier 4,Low,Major Growth (20 to 49),999,"1,421",29.806504,-98.2912769,Owner example 355,type 2
+Client example 356,,,,,557,example address 356,,Low,Major Growth (20 to 49),519,750,30.484626,-98.2906966,Owner example 356,type 2
+Client example 357,,,,,,example address 357,,,,,,30.5848672,-98.2855368,Owner example 357,type 2
+Client example 358,,,,4030,"1,924",example address 358,Tier 4,High,Major Loss (-49 to -20),"1,165",787,29.8426534,-98.2615956,Owner example 358,type 2
+Client example 359,,,,,,example address 359,,,,,,29.718294,-98.245388,Owner example 359,type 2
+Client example 360,,,,3021,"1,972",example address 360,Tier 4,High,Major Loss (-49 to -20),"1,295",826,32.214612,-98.1894344,Owner example 360,type 2
+Client example 361,,,,342,"1,596",example address 361,Tier 4,,Extreme Loss (-50+),"1,320",,29.6629039,-98.1506072,Owner example 361,type 2
+Client example 362,,,,269,69,example address 362,,,Extreme Loss (-50+),20,,30.2172087,-98.1175147,Owner example 362,type 2
+Client example 363,,,,,,example address 363,,,,,,29.2001024,-98.0585183,Owner example 363,type 2
+Client example 364,,,,2866,"6,165",example address 364,Tier 4,Low,Extreme Growth (50+),"2,370","3,786",28.6379492,-98.01791,Owner example 364,type 2
+Client example 365,,,,6089,"4,801",example address 365,Tier 4,Moderate,Major Loss (-49 to -20),"3,757","2,537",29.594998,-98.0022503,Owner example 365,type 2
+Client example 366,,,,465,143,example address 366,,,No Sales,,,30.249437,-97.998779,Owner example 366,type 2
+Client example 367,,,,500,,example address 367,,,,,,30.1966317,-97.9981476,Owner example 367,type 2
+Client example 368,,,,,,example address 368,,High,Extreme Growth (50+),,140,29.5818862,-97.9408355,Owner example 368,type 2
+Client example 369,,,,4388,"6,110",example address 369,Tier 4,Low,Extreme Growth (50+),"2,651","7,283",27.9566843,-97.9369447,Owner example 369,type 2
+Client example 370,,,,,287,example address 370,,,Extreme Loss (-50+),249,,29.8851187,-97.9287673,Owner example 370,type 2
+Client example 371,,,,706,317,example address 371,,High,Extreme Loss (-50+),188,51,29.5165211,-97.9199415,Owner example 371,type 2
+Client example 372,,,,3272,"4,375",example address 372,Tier 4,Moderate,Major Growth (20 to 49),"2,069","2,699",29.9809726,-97.8700555,Owner example 372,type 2
+Client example 373,,,,384,"1,989",example address 373,Tier 4,Low,Extreme Growth (50+),504,"3,438",27.5185784,-97.8667093,Owner example 373,type 2
+Client example 374,,,,2068,"3,012",example address 374,Tier 4,Low,Extreme Loss (-50+),"2,446",771,30.562468,-97.8636504,Owner example 374,type 2
+Client example 375,,,,1015,"2,035",example address 375,Tier 4,Low,Extreme Growth (50+),733,"4,127",30.5289031,-97.8515427,Owner example 375,type 2
+Client example 376,,,,3175,"4,075",example address 376,Tier 4,Low,Extreme Growth (50+),"1,816","3,566",32.404125,-97.840971,Owner example 376,type 2
+Client example 377,,,,,,example address 377,,,,,,30.1205078,-97.8159971,Owner example 377,type 2
+Client example 378,,,,379,192,example address 378,,,Extreme Loss (-50+),110,,31.0742428,-97.8114214,Owner example 378,type 2
+Client example 379,,,,181,396,example address 379,,Moderate,Extreme Growth (50+),176,503,33.1903,-97.8109,Owner example 379,type 2
+Client example 380,,,,638,,example address 380,,,,,,32.4898835,-97.8096037,Owner example 380,type 2
+Client example 381,,,,3121,"5,033",example address 381,Tier 4,High,No Growth (-4 to 4),"1,998","1,998",32.444845,-97.8045999,Owner example 381,type 2
+Client example 382,,,,380,,example address 382,,,,,,32.6161741,-97.802234,Owner example 382,type 2
+Client example 383,,,,,"109,618",example address 383,Tier 1,,Major Loss (-49 to -20),"57,002","37,200",32.7435973,-97.7981778,Owner example 383,type 1
+Client example 384,,,,,,example address 384,,,,,,30.8325917,-97.7968824,Owner example 384,type 2
+Client example 385,,,,135,"2,309",example address 385,Tier 4,Low,Major Growth (20 to 49),"2,271","3,171",32.7701262,-97.7912765,Owner example 385,type 2
+Client example 386,,,,1961,,example address 386,,,,,,30.2432975,-97.7812972,Owner example 386,type 2
+Client example 387,,,,,178,example address 387,,High,Extreme Growth (50+),,"6,270",30.3463634,-97.7784099,Owner example 387,type 2
+Client example 388,,,,495,,example address 388,,,,,,32.4212319,-97.7758199,Owner example 388,type 2
+Client example 389,,,,,"61,144",example address 389,Tier 2,,Moderate Loss (-19 to -5),"31,356","27,810",32.7493866,-97.7695788,Owner example 389,type 1
+Client example 390,,,,479,413,example address 390,,Low,No Growth (-4 to 4),375,375,30.380268,-97.7648028,Owner example 390,type 2
+Client example 391,,,,,"1,975",example address 391,Tier 4,Moderate,Major Loss (-49 to -20),"1,156",724,30.3537093,-97.7537184,Owner example 391,type 2
+Client example 392,,,,,,example address 392,,,,,,30.2378516,-97.7534266,Owner example 392,type 2
+Client example 393,,,,,,example address 393,,,,,,31.4359964,-97.7481636,Owner example 393,type 2
+Client example 394,,,,210,191,example address 394,,High,Major Loss (-49 to -20),71,40,30.2742884,-97.7481423,Owner example 394,type 2
+Client example 395,,,,,,example address 395,,,,,,30.3553609,-97.7320375,Owner example 395,type 2
+Client example 396,,,,,"126,682",example address 396,Tier 1,,Major Loss (-49 to -20),"86,114","65,971",31.1225569,-97.7311252,Owner example 396,type 1
+Client example 397,,,,,538,example address 397,,,Extreme Growth (50+),260,"1,575",31.1225569,-97.7311252,Owner example 397,type 1
+Client example 398,,,,124,,example address 398,,,,,,31.1203242,-97.727561,Owner example 398,type 2
+Client example 399,,,,1287,"1,310",example address 399,Tier 4,Moderate,No Growth (-4 to 4),470,454,30.4931217,-97.7251881,Owner example 399,type 2
+Client example 400,,,,,"592,974",example address 400,Tier 1,,Major Loss (-49 to -20),"416,562","268,655",30.3391595,-97.7183757,Owner example 400,type 1
+Client example 401,,,,,"48,488",example address 401,Tier 3,,Major Loss (-49 to -20),"25,436","20,173",30.3391595,-97.7183757,Owner example 401,type 1
+Client example 402,,,,,"289,237",example address 402,Tier 1,,Moderate Loss (-19 to -5),"188,161","170,723",30.3391595,-97.7183757,Owner example 402,type 1
+Client example 403,,,,20,,example address 403,,Low,Extreme Growth (50+),,40,30.4309988,-97.7177605,Owner example 403,type 2
+Client example 404,,,,,58,example address 404,,,No Sales,,,30.5233343,-97.7155969,Owner example 404,type 2
+Client example 405,,,,,,example address 405,,,,,,30.527199,-97.7077069,Owner example 405,type 2
+Client example 406,,,,992,"2,588",example address 406,Tier 4,,Extreme Loss (-50+),"1,816",,31.026684,-97.6977036,Owner example 406,type 2
+Client example 407,,,,6719,"5,194",example address 407,Tier 4,,Extreme Loss (-50+),"4,505",,31.1158352,-97.6907207,Owner example 407,type 2
+Client example 408,,,,,,example address 408,,,Extreme Loss (-50+),"1,179",,30.2527847,-97.6904186,Owner example 408,type 1
+Client example 409,,,,19840,"27,006",example address 409,Tier 3,Moderate,Major Growth (20 to 49),"10,979","15,195",30.6174439,-97.6555129,Owner example 409,type 2
+Client example 410,,,,,"1,057",example address 410,Tier 4,,No Growth (-4 to 4),460,480,30.4473968,-97.6470972,Owner example 410,type 1
+Client example 411,,,,,"235,998",example address 411,Tier 1,,Major Loss (-49 to -20),"158,946","127,739",30.4473968,-97.6470972,Owner example 411,type 1
+Client example 412,,,,,,example address 412,,,,,,30.4472114,-97.6390654,Owner example 412,type 2
+Client example 413,,,,1742,"1,577",example address 413,Tier 4,,Extreme Loss (-50+),539,,30.428982,-97.6258041,Owner example 413,type 2
+Client example 414,,,,,,example address 414,,,,,,30.4929608,-97.6133067,Owner example 414,type 2
+Client example 415,,,,6970,"6,834",example address 415,Tier 4,Moderate,Moderate Loss (-19 to -5),"2,725","2,431",33.2318012,-97.6110828,Owner example 415,type 2
+Client example 416,,,,,366,example address 416,,High,Extreme Loss (-50+),328,149,30.430431,-97.607272,Owner example 416,type 2
+Client example 417,,,,,,example address 417,,,,,,30.4756059,-97.5849735,Owner example 417,type 2
+Client example 418,,,,3201,58,example address 418,,Low,Extreme Growth (50+),20,"1,998",32.8241461,-97.5813956,Owner example 418,type 2
+Client example 419,,,,,541,example address 419,,Low,Extreme Growth (50+),,618,33.128499,-97.548568,Owner example 419,type 2
+Client example 420,,,,9287,"4,101",example address 420,Tier 4,,Extreme Loss (-50+),"3,173",,32.8893655,-97.5329592,Owner example 420,type 2
+Client example 421,,,,,"4,121",example address 421,Tier 4,,Extreme Loss (-50+),"3,173",20,32.8893655,-97.5329592,Owner example 421,type 1
+Client example 422,,,,,"6,737",example address 422,Tier 4,,Extreme Growth (50+),"1,899","4,285",32.8893655,-97.5329592,Owner example 422,type 1
+Client example 423,,,,424,863,example address 423,,Moderate,Extreme Growth (50+),345,543,31.8273067,-97.4811259,Owner example 423,type 2
+Client example 424,,,,,,example address 424,,,,,,31.0516603,-97.4795482,Owner example 424,type 2
+Client example 425,,,,6951,"5,077",example address 425,Tier 4,Moderate,Major Growth (20 to 49),"2,019","2,615",31.1027324,-97.467829,Owner example 425,type 2
+Client example 426,,,,,,example address 426,,Moderate,Extreme Growth (50+),,549,30.1096256,-97.4644853,Owner example 426,type 2
+Client example 427,,,,,138,example address 427,,,No Growth (-4 to 4),80,80,32.7760442,-97.4265325,Owner example 427,type 1
+Client example 428,,,,566,"8,056",example address 428,Tier 4,Moderate,Extreme Growth (50+),"2,034","6,426",27.6906499,-97.4186747,Owner example 428,type 2
+Client example 429,,,,992,"3,771",example address 429,Tier 4,High,Extreme Loss (-50+),"2,740","1,018",32.3871419,-97.4045509,Owner example 429,type 2
+Client example 430,,,,,138,example address 430,,,Extreme Growth (50+),40,60,32.7744839,-97.400266,Owner example 430,type 1
+Client example 431,,,,,287,example address 431,,,Extreme Loss (-50+),249,,32.6845291,-97.3966089,Owner example 431,type 1
+Client example 432,,,,10287,"9,674",example address 432,Tier 4,Moderate,Major Loss (-49 to -20),"6,081","3,328",32.6488246,-97.3962754,Owner example 432,type 2
+Client example 433,,,,4373,"1,593",example address 433,Tier 4,Moderate,Extreme Growth (50+),378,746,32.4608688,-97.3899417,Owner example 433,type 2
+Client example 434,,,,,,example address 434,,,,,,32.9159655,-97.3768872,Owner example 434,type 2
+Client example 435,,,,,"4,005",example address 435,Tier 4,,Extreme Loss (-50+),"2,679","1,239",32.8743964,-97.3737595,Owner example 435,type 1
+Client example 436,,,,,,example address 436,,,,,,32.5791961,-97.3574521,Owner example 436,type 2
+Client example 437,,,,1604,"1,685",example address 437,Tier 4,Moderate,Major Loss (-49 to -20),"1,347",926,27.7199496,-97.3495669,Owner example 437,type 2
+Client example 438,,,,,219,example address 438,,,Extreme Growth (50+),21,"1,128",32.7388748,-97.3375902,Owner example 438,type 1
+Client example 439,,,,,"196,234",example address 439,Tier 1,,Major Loss (-49 to -20),"126,017","79,271",32.5408068,-97.3326641,Owner example 439,type 1
+Client example 440,,,,,"71,618",example address 440,Tier 2,,Major Growth (20 to 49),"32,893","43,579",32.7503057,-97.3308124,Owner example 440,type 1
+Client example 441,,,,,287,example address 441,,,Extreme Loss (-50+),249,,32.9134312,-97.3137128,Owner example 441,type 1
+Client example 442,,,,283,1020,example address 442,,Moderate,Extreme Growth (50+),82,369,32.7843572,-97.3130792,Owner example 442,type 2
+Client example 443,,,,,"239,940",example address 443,Tier 1,,Major Loss (-49 to -20),"103,904","60,730",32.9709775,-97.3112035,Owner example 443,type 1
+Client example 444,,,,159,71,example address 444,,,Extreme Loss (-50+),33,,30.358282,-97.308886,Owner example 444,type 2
+Client example 445,,,,,"105,377",example address 445,Tier 1,,Moderate Growth (5 to 19),"51,630","60,177",32.7454469,-97.3017308,Owner example 445,type 1
+Client example 446,,,,,"4,182",example address 446,Tier 4,,Major Growth (20 to 49),"3,250","4,676",32.7455799,-97.3013302,Owner example 446,type 1
+Client example 447,,,,269,"1,999",example address 447,Tier 4,Low,Extreme Loss (-50+),"1,694",395,32.2744802,-97.2973876,Owner example 447,type 2
+Client example 448,,,,,,example address 448,,,,,,33.4502285,-97.2924915,Owner example 448,type 2
+Client example 449,,,,,,example address 449,,,,,,32.8955207,-97.290283,Owner example 449,type 2
+Client example 450,,,,,,example address 450,,,Extreme Growth (50+),,"4,517",32.6855179,-97.2827154,Owner example 450,type 1
+Client example 451,,,,,,example address 451,,,,,,32.6776464,-97.275781,Owner example 451,type 2
+Client example 452,,,,27250,"40,086",example address 452,Tier 3,Low,Extreme Growth (50+),"20,713","32,832",32.8748668,-97.2636955,Owner example 452,type 2
+Client example 453,,,,4972,"5,550",example address 453,Tier 4,Moderate,No Growth (-4 to 4),"1,924","1,945",32.8752,-97.256499,Owner example 453,type 2
+Client example 454,,,,,,example address 454,,,,,,32.5801481,-97.2563462,Owner example 454,type 2
+Client example 455,,,,,287,example address 455,,,Extreme Loss (-50+),249,,32.6884582,-97.2505363,Owner example 455,type 1
+Client example 456,,,,,,example address 456,,,,,,32.948422,-97.2451009,Owner example 456,type 2
+Client example 457,,,,2502,"3,468",example address 457,Tier 4,Moderate,Moderate Loss (-19 to -5),"1,772","1,473",32.8575712,-97.2299367,Owner example 457,type 2
+Client example 458,,,,,,example address 458,,,,,,32.9220519,-97.2275125,Owner example 458,type 2
+Client example 459,,,,,,example address 459,,,,,,32.6474288,-97.2250905,Owner example 459,type 2
+Client example 460,,,,354,58,example address 460,,,Extreme Loss (-50+),20,,31.4828238,-97.2171091,Owner example 460,type 2
+Client example 461,,,,,,example address 461,,,,,,32.6613023,-97.216351,Owner example 461,type 2
+Client example 462,,,,,538,example address 462,,,No Sales,,,27.8678971,-97.2148559,Owner example 462,type 2
+Client example 463,,,,,,example address 463,,,,,,32.7536847,-97.2134977,Owner example 463,type 2
+Client example 464,,,,,,example address 464,,,,,,31.472904,-97.201183,Owner example 464,type 2
+Client example 465,,,,,"14,637",example address 465,Tier 3,,Major Loss (-49 to -20),"9,249","5,504",32.8407352,-97.1868556,Owner example 465,type 1
+Client example 466,,,,,"245,596",example address 466,Tier 1,,Major Loss (-49 to -20),"128,493","80,731",32.849756,-97.1847087,Owner example 466,type 1
+Client example 467,,,,1400,"2,628",example address 467,Tier 4,Moderate,Extreme Loss (-50+),"1,363",328,32.7145859,-97.1796908,Owner example 467,type 2
+Client example 468,,,,,53,example address 468,,,Extreme Loss (-50+),15,,32.8174913,-97.155669,Owner example 468,type 2
+Client example 469,,,,,"2,283",example address 469,Tier 4,Moderate,Extreme Growth (50+),382,"1,122",32.5532662,-97.1458026,Owner example 469,type 2
+Client example 470,,,,,"828,044",example address 470,Tier 1,,Extreme Growth (50+),"422,659","726,187",33.2293479,-97.139324,Owner example 470,type 1
+Client example 471,,,,,,example address 471,,,,,,33.0382126,-97.1379741,Owner example 471,type 2
+Client example 472,,,,,,example address 472,,,,,,32.3821568,-97.1375993,Owner example 472,type 2
+Client example 473,,,,533,981,example address 473,,Moderate,Major Loss (-49 to -20),242,132,32.5910129,-97.1366317,Owner example 473,type 2
+Client example 474,,,,20,,example address 474,,,,,,33.21,-97.13,Owner example 474,type 2
+Client example 475,,,,,,example address 475,,,,,,32.8540102,-97.1222049,Owner example 475,type 2
+Client example 476,,,,,"68,413",example address 476,Tier 2,,No Growth (-4 to 4),"26,716","27,581",33.2107127,-97.1124636,Owner example 476,type 1
+Client example 477,,,,,"4,048",example address 477,Tier 4,,Extreme Loss (-50+),"3,450",625,33.2163979,-97.111166,Owner example 477,type 1
+Client example 478,,,,264,118,example address 478,,,Extreme Loss (-50+),40,,32.7896799,-97.1100517,Owner example 478,type 2
+Client example 479,,,,,,example address 479,,,,,,31.5889619,-97.1010834,Owner example 479,type 2
+Client example 480,,,,,,example address 480,,,,,,32.7834207,-97.0954675,Owner example 480,type 2
+Client example 481,,,,,"53,705",example address 481,Tier 2,,No Growth (-4 to 4),"14,115","13,806",32.6522185,-97.094979,Owner example 481,type 1
+Client example 482,,,,,287,example address 482,,,Extreme Loss (-50+),249,,32.6522185,-97.094979,Owner example 482,type 1
+Client example 483,,,,,,example address 483,,,,,,33.0727488,-97.0906647,Owner example 483,type 2
+Client example 484,,,,20,,example address 484,,,,,,33.0797655,-97.0823264,Owner example 484,type 2
+Client example 485,,,,406,"1,528",example address 485,Tier 4,,No Sales,,,32.9474768,-97.0806831,Owner example 485,type 2
+Client example 486,,,,215,,example address 486,,,,,,32.93,-97.08,Owner example 486,type 2
+Client example 487,,,,,,example address 487,,,,,,33.0307934,-97.0792372,Owner example 487,type 2
+Client example 488,,,,,705,example address 488,,Moderate,Major Growth (20 to 49),667,835,27.835478,-97.0686027,Owner example 488,type 2
+Client example 489,,,,407,100,example address 489,,,Extreme Loss (-50+),42,,30.2726987,-97.0639736,Owner example 489,type 2
+Client example 490,,,,,538,example address 490,,,Extreme Loss (-50+),500,,27.8351902,-97.063184,Owner example 490,type 2
+Client example 491,,,,40,,example address 491,,,,,,33.0603433,-97.0551693,Owner example 491,type 2
+Client example 492,,,,,"8,011",example address 492,Tier 4,,Major Loss (-49 to -20),"6,083","4,257",32.657714,-97.0549592,Owner example 492,type 1
+Client example 493,,,,,"22,356",example address 493,Tier 3,,Major Loss (-49 to -20),"13,088","8,544",33.0345432,-97.0539824,Owner example 493,type 1
+Client example 494,,,,,95,example address 494,,,,,57,32.7828349,-97.0493091,Owner example 494,type 2
+Client example 495,,,,1350,"2,256",example address 495,Tier 4,Moderate,Extreme Loss (-50+),"1,164",536,28.0694246,-97.0468695,Owner example 495,type 2
+Client example 496,,,,,"42,241",example address 496,Tier 3,,Major Growth (20 to 49),"16,778","20,288",32.6988427,-97.0354187,Owner example 496,type 1
+Client example 497,,,,,287,example address 497,,,Extreme Loss (-50+),249,,32.6988427,-97.0354187,Owner example 497,type 1
+Client example 498,,,,3007,"4,337",example address 498,Tier 4,Low,Moderate Loss (-19 to -5),"2,613","2,450",32.7731829,-97.0312548,Owner example 498,type 2
+Client example 499,,,,474,"1,157",example address 499,Tier 4,Moderate,Extreme Growth (50+),100,899,33.1185901,-97.0275824,Owner example 499,type 2
+Client example 500,,,,,287,example address 500,,,Extreme Loss (-50+),249,,32.8630697,-97.0178122,Owner example 500,type 1
+Client example 501,,,,,78,example address 501,,Moderate,Extreme Growth (50+),,40,33.0063725,-97.016956,Owner example 501,type 2
+Client example 502,,,,,,example address 502,,,,,,32.848415,-97.0062726,Owner example 502,type 2
+Client example 503,,,,629,895,example address 503,,Moderate,Extreme Growth (50+),540,878,32.9494646,-97.0057898,Owner example 503,type 2
+Client example 504,,,,,"34,525",example address 504,Tier 3,,Moderate Growth (5 to 19),"18,322","20,725",32.81579,-96.9894732,Owner example 504,type 1
+Client example 505,,,,,,example address 505,,,,,,32.9805501,-96.9742053,Owner example 505,type 2
+Client example 506,,,,804,634,example address 506,,,No Sales,,,33.0367932,-96.969191,Owner example 506,type 2
+Client example 507,,,,,,example address 507,,,,,,32.5656019,-96.9679383,Owner example 507,type 2
+Client example 508,,,,,287,example address 508,,,Extreme Loss (-50+),249,,32.5932269,-96.9508372,Owner example 508,type 2
+Client example 509,,,,,826,example address 509,,,No Sales,,,32.9666332,-96.9367224,Owner example 509,type 2
+Client example 510,,,,,,example address 510,,,,,,32.8647576,-96.935871,Owner example 510,type 2
+Client example 511,,,,,"7,783",example address 511,Tier 4,,No Growth (-4 to 4),"3,787","3,762",33.0274105,-96.9262805,Owner example 511,type 1
+Client example 512,,,,,"21,315",example address 512,Tier 3,,Major Growth (20 to 49),"8,704","11,335",32.604021,-96.917543,Owner example 512,type 1
+Client example 513,,,,,988,example address 513,,Low,Extreme Growth (50+),,"1,280",32.9503436,-96.9098033,Owner example 513,type 2
+Client example 514,,,,4668,"5,999",example address 514,Tier 4,Moderate,Moderate Growth (5 to 19),"2,076","2,341",33.1655373,-96.9096356,Owner example 514,type 2
+Client example 515,,,,,"6,479",example address 515,Tier 4,,No Growth (-4 to 4),"2,256","2,263",33.1655373,-96.9096356,Owner example 515,type 1
+Client example 516,,,,,,example address 516,,,,,,33.0926825,-96.906303,Owner example 516,type 2
+Client example 517,,,,,"10,670",example address 517,Tier 3,Moderate,Extreme Growth (50+),"1,334","2,805",28.8473274,-96.9041748,Owner example 517,type 2
+Client example 518,,,,6991,287,example address 518,,,Extreme Loss (-50+),249,,28.8480404,-96.9026057,Owner example 518,type 2
+Client example 519,,,,1374,668,example address 519,,High,Major Loss (-49 to -20),260,140,33.0681681,-96.8911505,Owner example 519,type 2
+Client example 520,,,,,538,example address 520,,,No Sales,,,32.53995,-96.875559,Owner example 520,type 2
+Client example 521,,,,,,example address 521,,,,,,33.0216275,-96.8737398,Owner example 521,type 2
+Client example 522,,,,137,49,example address 522,,,Extreme Loss (-50+),11,,32.8924301,-96.8734866,Owner example 522,type 2
+Client example 523,,,,,"292,494",example address 523,Tier 1,,Major Loss (-49 to -20),"176,790","97,511",32.7689911,-96.8727978,Owner example 523,type 1
+Client example 524,,,,124,318,example address 524,,High,No Growth (-4 to 4),20,20,32.8350129,-96.8620052,Owner example 524,type 2
+Client example 525,,,,,"235,227",example address 525,Tier 1,,No Growth (-4 to 4),"118,903","123,262",32.7681554,-96.860811,Owner example 525,type 1
+Client example 526,,,,,"54,286",example address 526,Tier 2,,Extreme Loss (-50+),"26,012","10,886",32.7681554,-96.860811,Owner example 526,type 1
+Client example 527,,,,,"44,161",example address 527,Tier 3,,Extreme Loss (-50+),"28,800","2,247",32.7681554,-96.860811,Owner example 527,type 1
+Client example 528,,,,5082,"1,173",example address 528,Tier 4,High,Extreme Loss (-50+),"1,135",211,33.368488,-96.8590509,Owner example 528,type 2
+Client example 529,,,,1826,"1,268",example address 529,Tier 4,,Extreme Loss (-50+),"1,230",,33.0150985,-96.8587419,Owner example 529,type 2
+Client example 530,,,,2997,,example address 530,,,,,,32.9691637,-96.854642,Owner example 530,type 2
+Client example 531,,,,,"5,860",example address 531,Tier 4,,Moderate Growth (5 to 19),886,998,32.9250983,-96.8527311,Owner example 531,type 1
+Client example 532,,,,,,example address 532,,,,,,32.9250983,-96.8527311,Owner example 532,type 2
+Client example 533,,,,,"33,626",example address 533,Tier 3,,Major Loss (-49 to -20),"21,041","11,631",32.967355,-96.8474538,Owner example 533,type 1
+Client example 534,,,,,,example address 534,,,,,,33.306218,-96.84647,Owner example 534,type 2
+Client example 535,,,,,,example address 535,,High,Extreme Growth (50+),,20,32.8278023,-96.8395059,Owner example 535,type 2
+Client example 536,,,,,,example address 536,,,,,,33.336911,-96.826431,Owner example 536,type 2
+Client example 537,,,,,"176,794",example address 537,Tier 1,,Major Loss (-49 to -20),"101,581","74,938",32.6896507,-96.824758,Owner example 537,type 1
+Client example 538,,,,,"14,133",example address 538,Tier 3,,Major Growth (20 to 49),"6,874","9,358",32.8064685,-96.7999344,Owner example 538,type 1
+Client example 539,,,,,291,example address 539,,,Extreme Loss (-50+),249,,32.7761807,-96.7973422,Owner example 539,type 1
+Client example 540,,,,,,example address 540,,,,,,32.8457713,-96.7971146,Owner example 540,type 2
+Client example 541,,,,604,542,example address 541,,Moderate,Extreme Growth (50+),250,500,33.0020095,-96.7952854,Owner example 541,type 2
+Client example 542,,,,7509,"8,683",example address 542,Tier 4,Low,Major Growth (20 to 49),"3,887","5,231",32.9665496,-96.7916078,Owner example 542,type 2
+Client example 543,,,,854,792,example address 543,,,Extreme Loss (-50+),750,,32.8160709,-96.7864984,Owner example 543,type 2
+Client example 544,,,,8276,"12,433",example address 544,Tier 3,Moderate,Major Loss (-49 to -20),"5,913","4,747",32.3975458,-96.7864801,Owner example 544,type 2
+Client example 545,,,,,,example address 545,,,,,,33.2393084,-96.777068,Owner example 545,type 2
+Client example 546,,,,2956,"3,522",example address 546,Tier 4,Low,Extreme Growth (50+),"1,520","4,032",33.0231448,-96.773533,Owner example 546,type 2
+Client example 547,,,,,"78,157",example address 547,Tier 2,,Moderate Loss (-19 to -5),"40,351","36,513",33.0114706,-96.7724453,Owner example 547,type 1
+Client example 548,,,,,291,example address 548,,,Extreme Loss (-50+),249,,33.0114706,-96.7724453,Owner example 548,type 1
+Client example 549,,,,,291,example address 549,,,Extreme Loss (-50+),249,,32.9840654,-96.7698935,Owner example 549,type 1
+Client example 550,,,,1979,"2,667",example address 550,Tier 4,Moderate,Extreme Loss (-50+),"1,875",750,32.5932027,-96.755434,Owner example 550,type 2
+Client example 551,,,,4193,"7,449",example address 551,Tier 4,Low,Major Loss (-49 to -20),"5,320","3,434",33.0398472,-96.7518587,Owner example 551,type 2
+Client example 552,,,,,,example address 552,,,,,,33.1825438,-96.7465766,Owner example 552,type 2
+Client example 553,,,,,439,example address 553,,Low,Extreme Growth (50+),,553,33.0518241,-96.7402417,Owner example 553,type 2
+Client example 554,,,,148,207,example address 554,,High,Extreme Loss (-50+),121,33,32.9772838,-96.7389873,Owner example 554,type 2
+Client example 555,,,,1158,"2,795",example address 555,Tier 4,Low,Extreme Growth (50+),60,760,33.1619577,-96.7324957,Owner example 555,type 2
+Client example 556,,,,20,,example address 556,,,,,,32.8114916,-96.7308764,Owner example 556,type 2
+Client example 557,,,,712,82,example address 557,,High,Extreme Growth (50+),,20,32.908271,-96.7276574,Owner example 557,type 2
+Client example 558,,,,,"87,746",example address 558,Tier 2,,Moderate Loss (-19 to -5),"46,970","39,990",33.1502614,-96.7264366,Owner example 558,type 1
+Client example 559,,,,,"25,640",example address 559,Tier 3,,Major Growth (20 to 49),"8,821","10,636",33.1502614,-96.7264366,Owner example 559,type 1
+Client example 560,,,,,"16,102",example address 560,Tier 3,,Moderate Loss (-19 to -5),"9,854","9,398",32.8645702,-96.7127014,Owner example 560,type 1
+Client example 561,,,,,291,example address 561,,,Extreme Loss (-50+),249,,32.9555554,-96.7022693,Owner example 561,type 1
+Client example 562,,,,,"23,618",example address 562,Tier 3,,Major Growth (20 to 49),"7,499","10,871",32.9555554,-96.7022693,Owner example 562,type 1
+Client example 563,,,,,,example address 563,,,,,,32.9555554,-96.7022693,Owner example 563,type 2
+Client example 564,,,,,523,example address 564,,,No Sales,,,32.8029302,-96.6978369,Owner example 564,type 2
+Client example 565,,,,617,"1,385",example address 565,Tier 4,Low,Extreme Growth (50+),450,"1,298",32.7929608,-96.6976675,Owner example 565,type 2
+Client example 566,,,,,"20,221",example address 566,Tier 3,,Major Growth (20 to 49),"11,194","15,683",32.8613761,-96.692614,Owner example 566,type 1
+Client example 567,,,,,"67,713",example address 567,Tier 2,,No Growth (-4 to 4),"45,060","44,482",32.7499952,-96.6843063,Owner example 567,type 1
+Client example 568,,,,,"176,037",example address 568,Tier 1,,Major Loss (-49 to -20),"86,555","63,749",33.0878842,-96.6694085,Owner example 568,type 1
+Client example 569,,,,,62,example address 569,,,Extreme Loss (-50+),20,,32.8513005,-96.6611601,Owner example 569,type 2
+Client example 570,,,,,"9,733",example address 570,Tier 4,,Major Growth (20 to 49),"3,763","4,970",33.085974,-96.6465871,Owner example 570,type 1
+Client example 571,,,,,"23,872",example address 571,Tier 3,,Extreme Growth (50+),,"22,753",32.8640025,-96.6445622,Owner example 571,type 1
+Client example 572,,,,,,example address 572,,,,,,32.3436959,-96.6442491,Owner example 572,type 2
+Client example 573,,,,,"37,086",example address 573,Tier 3,,Extreme Loss (-50+),"19,800","5,942",32.786368,-96.6292834,Owner example 573,type 1
+Client example 574,,,,,"53,974",example address 574,Tier 2,,Major Loss (-49 to -20),"15,825","10,972",33.2053689,-96.6132892,Owner example 574,type 1
+Client example 575,,,,,"2,036",example address 575,Tier 4,Moderate,Extreme Growth (50+),"1,825","2,987",32.7188458,-96.6109203,Owner example 575,type 2
+Client example 576,,,,1970,"3,900",example address 576,Tier 4,High,Extreme Loss (-50+),"2,964",298,33.0175745,-96.610879,Owner example 576,type 2
+Client example 577,,,,,,example address 577,,Moderate,Extreme Growth (50+),,"1,230",32.9347059,-96.6071439,Owner example 577,type 2
+Client example 578,,,,,"35,492",example address 578,Tier 3,,Major Growth (20 to 49),"17,495","22,611",32.9062209,-96.6032844,Owner example 578,type 1
+Client example 579,,,,,"5,902",example address 579,Tier 4,,Extreme Growth (50+),240,"2,020",32.9009548,-96.5700812,Owner example 579,type 1
+Client example 580,,,,,291,example address 580,,,Extreme Loss (-50+),249,,32.6486307,-96.5405111,Owner example 580,type 2
+Client example 581,,,,,480,example address 581,,,No Sales,,,33.7550985,-96.537497,Owner example 581,type 2
+Client example 582,,,,,,example address 582,,,,,,32.9152711,-96.5256635,Owner example 582,type 2
+Client example 583,,,,2359,"2,269",example address 583,Tier 4,Moderate,Extreme Growth (50+),"1,170","4,025",32.0878521,-96.4625191,Owner example 583,type 2
+Client example 584,,,,,"1,842",example address 584,Tier 4,,Extreme Loss (-50+),423,,32.7341127,-96.4558085,Owner example 584,type 2
+Client example 585,,,,,"188,475",example address 585,Tier 1,,Major Growth (20 to 49),"113,545","150,200",32.6289559,-96.4556089,Owner example 585,type 1
+Client example 586,,,,,"13,699",example address 586,Tier 3,,No Growth (-4 to 4),"8,521","8,421",32.8773761,-96.4515463,Owner example 586,type 1
+Client example 587,,,,,"34,948",example address 587,Tier 3,,Major Loss (-49 to -20),"17,674","12,877",32.9264286,-96.4295977,Owner example 587,type 1
+Client example 588,,,,1454,"11,235",example address 588,Tier 3,Moderate,Major Growth (20 to 49),"3,387","4,120",30.1478207,-96.4146034,Owner example 588,type 2
+Client example 589,,,,1353,"1,075",example address 589,Tier 4,Moderate,Major Loss (-49 to -20),796,518,29.8155607,-96.4065503,Owner example 589,type 2
+Client example 590,,,,,,example address 590,,,,,,29.1630522,-96.3912015,Owner example 590,type 2
+Client example 591,,,,,82,example address 591,,,Extreme Loss (-50+),20,,33.209621,-96.369514,Owner example 591,type 2
+Client example 592,,,,,,example address 592,,,,,,33.1609821,-96.3597952,Owner example 592,type 2
+Client example 593,,,,144,82,example address 593,,,Extreme Loss (-50+),40,,30.6003216,-96.3587417,Owner example 593,type 2
+Client example 594,,,,,"2,094",example address 594,Tier 4,Moderate,No Growth (-4 to 4),520,539,32.485879,-96.341354,Owner example 594,type 2
+Client example 595,,,,4538,"3,773",example address 595,Tier 4,Moderate,Extreme Loss (-50+),"2,244","1,072",32.9829481,-96.3291291,Owner example 595,type 2
+Client example 596,,,,995,862,example address 596,,Low,Major Loss (-49 to -20),809,596,30.575699,-96.3112475,Owner example 596,type 2
+Client example 597,,,,2451,"3,654",example address 597,Tier 4,Low,No Growth (-4 to 4),"2,605","2,688",32.9789697,-96.2885758,Owner example 597,type 2
+Client example 598,,,,82,209,example address 598,,Moderate,No Growth (-4 to 4),20,20,30.6127911,-96.2834488,Owner example 598,type 2
+Client example 599,,,,2530,"1,515",example address 599,Tier 4,Moderate,Moderate Growth (5 to 19),735,854,32.7333268,-96.2504539,Owner example 599,type 2
+Client example 600,,,,2209,"2,167",example address 600,Tier 4,Moderate,Extreme Growth (50+),437,"7,393",32.296397,-96.195757,Owner example 600,type 2
+Client example 601,,,,162,102,example address 601,,,Extreme Loss (-50+),40,,30.9649483,-96.1943988,Owner example 601,type 2
+Client example 602,,,,,,example address 602,,,,,,33.6447336,-96.1822664,Owner example 602,type 2
+Client example 603,,,,1041,"1,763",example address 603,Tier 4,Moderate,Extreme Loss (-50+),328,165,32.511264,-96.153573,Owner example 603,type 2
+Client example 604,,,,,"42,605",example address 604,Tier 3,,Moderate Loss (-19 to -5),"22,968","21,583",32.277413,-96.1308716,Owner example 604,type 1
+Client example 605,,,,,"88,577",example address 605,Tier 2,,Moderate Loss (-19 to -5),"55,094","44,771",33.1310295,-96.095766,Owner example 605,type 1
+Client example 606,,,,,"1,476",example address 606,Tier 4,Moderate,Extreme Growth (50+),,"6,514",33.1100631,-96.0864356,Owner example 606,type 2
+Client example 607,,,,2077,"1,222",example address 607,Tier 4,Moderate,Major Loss (-49 to -20),"1,000",717,29.3902252,-96.0818719,Owner example 607,type 2
+Client example 608,,,,3940,"3,993",example address 608,Tier 4,Moderate,Extreme Growth (50+),"1,960","2,933",32.8816187,-96.0619834,Owner example 608,type 2
+Client example 609,,,,,"1,109",example address 609,Tier 4,Moderate,Extreme Growth (50+),655,983,30.3020565,-96.0518963,Owner example 609,type 2
+Client example 610,,,,,,example address 610,,,,,,32.890768,-96.0087306,Owner example 610,type 2
+Client example 611,,,,,,example address 611,,,,,,32.9967846,-95.9402451,Owner example 611,type 2
+Client example 612,,,,6170,"5,991",example address 612,Tier 4,Low,Major Loss (-49 to -20),"2,736","1,730",33.182085,-95.9313848,Owner example 612,type 2
+Client example 613,,,,,"2,236",example address 613,Tier 4,High,Extreme Loss (-50+),"1,788",92,30.2440014,-95.9282949,Owner example 613,type 2
+Client example 614,,,,1723,62,example address 614,,,Extreme Loss (-50+),20,,32.1998384,-95.8728543,Owner example 614,type 2
+Client example 615,,,,,,example address 615,,,,,,32.1998384,-95.8728543,Owner example 615,type 2
+Client example 616,,,,2255,"1,830",example address 616,Tier 4,,Extreme Loss (-50+),566,,32.5572245,-95.86352,Owner example 616,type 2
+Client example 617,,,,3601,"9,153",example address 617,Tier 4,Moderate,No Growth (-4 to 4),"4,771","4,627",29.5421969,-95.8267099,Owner example 617,type 2
+Client example 618,,,,227,102,example address 618,,,Extreme Loss (-50+),40,,29.7997717,-95.7494015,Owner example 618,type 2
+Client example 619,,,,653,941,example address 619,,,Extreme Loss (-50+),300,,32.4859835,-95.7088632,Owner example 619,type 2
+Client example 620,,,,,"2,369",example address 620,Tier 4,,Extreme Loss (-50+),978,350,33.3734427,-95.6882925,Owner example 620,type 1
+Client example 621,,,,,,example address 621,,,,,,29.7846441,-95.6836031,Owner example 621,type 2
+Client example 622,,,,60,,example address 622,,High,Extreme Growth (50+),,20,29.9233851,-95.6691729,Owner example 622,type 2
+Client example 623,,,,7585,"10,403",example address 623,Tier 3,Low,No Growth (-4 to 4),"5,492","5,259",30.2193642,-95.6365738,Owner example 623,type 2
+Client example 624,,,,262,"1,612",example address 624,Tier 4,Moderate,Extreme Growth (50+),560,"3,789",29.6348569,-95.631974,Owner example 624,type 2
+Client example 625,,,,3372,,example address 625,,,,,,31.7697241,-95.6271898,Owner example 625,type 2
+Client example 626,,,,798,117,example address 626,,,Extreme Loss (-50+),64,,29.6583074,-95.625383,Owner example 626,type 2
+Client example 627,,,,,82,example address 627,,,Extreme Loss (-50+),40,,30.361157,-95.615809,Owner example 627,type 2
+Client example 628,,,,10702,"16,301",example address 628,Tier 3,Low,Moderate Loss (-19 to -5),"6,620","6,319",29.625186,-95.6152206,Owner example 628,type 2
+Client example 629,,,,10502,"7,469",example address 629,Tier 4,Low,Moderate Loss (-19 to -5),"5,292","4,456",30.0447259,-95.6047932,Owner example 629,type 2
+Client example 630,,,,,62,example address 630,,,Extreme Loss (-50+),20,,29.941274,-95.601375,Owner example 630,type 2
+Client example 631,,,,,,example address 631,,,,,,30.199528,-95.594386,Owner example 631,type 2
+Client example 632,,,,4879,"3,430",example address 632,Tier 4,Low,Moderate Loss (-19 to -5),"1,474","1,239",30.033579,-95.5843543,Owner example 632,type 2
+Client example 633,,,,1256,"2,253",example address 633,Tier 4,Low,Extreme Growth (50+),"2,211","3,559",29.8118707,-95.5678741,Owner example 633,type 2
+Client example 634,,,,,,example address 634,,Moderate,Extreme Growth (50+),,"1,280",30.2218273,-95.5643531,Owner example 634,type 2
+Client example 635,,,,3920,"4,800",example address 635,Tier 4,High,Extreme Loss (-50+),"4,047",220,33.6586038,-95.5568,Owner example 635,type 2
+Client example 636,,,,4350,"3,579",example address 636,Tier 4,Moderate,Extreme Loss (-50+),"2,067",881,29.9720104,-95.5560257,Owner example 636,type 2
+Client example 637,,,,1961,"2,695",example address 637,Tier 4,Moderate,No Growth (-4 to 4),"1,206","1,257",29.6166452,-95.5260727,Owner example 637,type 2
+Client example 638,,,,3268,"4,015",example address 638,Tier 4,Low,Moderate Growth (5 to 19),"2,986","3,411",30.1669284,-95.5100462,Owner example 638,type 2
+Client example 639,,,,,,example address 639,,,,,,29.9565353,-95.4975273,Owner example 639,type 2
+Client example 640,,,,687,"2,306",example address 640,Tier 4,Low,Extreme Growth (50+),820,"2,971",30.3043322,-95.4951931,Owner example 640,type 2
+Client example 641,,,,20,,example address 641,,,,,,29.7072871,-95.4659448,Owner example 641,type 2
+Client example 642,,,,,"6,402",example address 642,Tier 4,Low,Extreme Loss (-50+),"3,557","1,244",30.281662,-95.4595362,Owner example 642,type 2
+Client example 643,,,,,626,example address 643,,Low,Extreme Growth (50+),,"1,662",30.0132594,-95.4591267,Owner example 643,type 2
+Client example 644,,,,,,example address 644,,Low,Extreme Growth (50+),,"18,189",30.0267587,-95.457671,Owner example 644,type 2
+Client example 645,,,,,,example address 645,,,,,,29.7993673,-95.4536758,Owner example 645,type 2
+Client example 646,,,,,,example address 646,,,,,,29.6417883,-95.4483996,Owner example 646,type 2
+Client example 647,,,,,,example address 647,,,,,,30.1428964,-95.4480978,Owner example 647,type 2
+Client example 648,,,,,,example address 648,,High,Extreme Growth (50+),,20,30.1428675,-95.4480925,Owner example 648,type 2
+Client example 649,,,,,,example address 649,,,,,,29.6636592,-95.4460866,Owner example 649,type 2
+Client example 650,,,,1396,"1,743",example address 650,Tier 4,,Extreme Loss (-50+),786,,31.3194499,-95.4439988,Owner example 650,type 2
+Client example 651,,,,6783,"15,732",example address 651,Tier 3,Moderate,Extreme Growth (50+),"5,872","12,895",29.8168391,-95.4426069,Owner example 651,type 2
+Client example 652,,,,1701,"2,062",example address 652,Tier 4,Moderate,Moderate Loss (-19 to -5),"1,355","1,135",30.0462568,-95.4415631,Owner example 652,type 2
+Client example 653,,,,,,example address 653,,,,,,29.8057331,-95.4408058,Owner example 653,type 2
+Client example 654,,,,,,example address 654,,,,,,29.8184748,-95.4281691,Owner example 654,type 2
+Client example 655,,,,,,example address 655,,,,,,29.7475258,-95.4070014,Owner example 655,type 2
+Client example 656,,,,,,example address 656,,High,Extreme Growth (50+),,79,29.8062856,-95.3986589,Owner example 656,type 2
+Client example 657,,,,999,,example address 657,,,,,,29.7551592,-95.3983905,Owner example 657,type 2
+Client example 658,,,,,"287,597",example address 658,Tier 1,,Major Loss (-49 to -20),"184,926","103,967",29.8078717,-95.3967978,Owner example 658,type 1
+Client example 659,,,,642,"1,281",example address 659,Tier 4,High,Extreme Loss (-50+),600,20,29.7781493,-95.3942414,Owner example 659,type 2
+Client example 660,,,,,,example address 660,,,,,,29.7688607,-95.3830214,Owner example 660,type 2
+Client example 661,,,,,,example address 661,,,,,,29.5389522,-95.3824017,Owner example 661,type 2
+Client example 662,,,,71,,example address 662,,High,Extreme Growth (50+),,20,29.717066,-95.372998,Owner example 662,type 2
+Client example 663,,,,,,example address 663,,,,,,29.7573686,-95.365354,Owner example 663,type 2
+Client example 664,,,,8420,"8,562",example address 664,Tier 4,Moderate,No Growth (-4 to 4),"4,343","4,183",32.3424908,-95.3500441,Owner example 664,type 2
+Client example 665,,,,,,example address 665,,,,,,29.405452,-95.320279,Owner example 665,type 2
+Client example 666,,,,,"126,765",example address 666,Tier 1,,Moderate Growth (5 to 19),"87,216","102,797",29.7300095,-95.3107814,Owner example 666,type 1
+Client example 667,,,,1005,972,example address 667,,Moderate,Major Loss (-49 to -20),655,350,29.227899,-95.297951,Owner example 667,type 2
+Client example 668,,,,,,example address 668,,,,,,31.950519,-95.2697628,Owner example 668,type 2
+Client example 669,,,,,"57,581",example address 669,Tier 2,,Moderate Loss (-19 to -5),"34,103","32,305",32.3835404,-95.2671343,Owner example 669,type 1
+Client example 670,,,,62,605,example address 670,,,Extreme Loss (-50+),563,,29.9971727,-95.2656482,Owner example 670,type 2
+Client example 671,,,,305,285,example address 671,,High,Major Loss (-49 to -20),120,80,29.4000075,-95.2655462,Owner example 671,type 2
+Client example 672,,,,,,example address 672,,,,,,29.9988312,-95.2621553,Owner example 672,type 2
+Client example 673,,,,4859,"4,484",example address 673,Tier 4,Moderate,Major Loss (-49 to -20),"2,894","1,881",32.3561736,-95.2589953,Owner example 673,type 2
+Client example 674,,,,1208,"2,170",example address 674,Tier 4,High,Extreme Loss (-50+),999,100,29.4783479,-95.2570787,Owner example 674,type 2
+Client example 675,,,,4712,"5,349",example address 675,Tier 4,Moderate,Moderate Growth (5 to 19),"2,198","2,448",29.4297107,-95.2484086,Owner example 675,type 2
+Client example 676,,,,,62,example address 676,,,No Sales,,,29.9356512,-95.2465349,Owner example 676,type 2
+Client example 677,,,,20,,example address 677,,,,,,30.0441082,-95.2322754,Owner example 677,type 2
+Client example 678,,,,408,"2,546",example address 678,Tier 4,High,Extreme Growth (50+),40,453,29.9843067,-95.2296447,Owner example 678,type 2
+Client example 679,,,,,,example address 679,,,,,,29.5078842,-95.2121102,Owner example 679,type 2
+Client example 680,,,,,52,example address 680,,,No Sales,,,29.4969314,-95.202122,Owner example 680,type 2
+Client example 681,,,,20,,example address 681,,,,,,29.6492475,-95.1771184,Owner example 681,type 2
+Client example 682,,,,323,,example address 682,,,,,,30.0835305,-95.1765887,Owner example 682,type 2
+Client example 683,,,,2540,"4,538",example address 683,Tier 4,Moderate,Major Loss (-49 to -20),"1,499",999,30.0040182,-95.1469331,Owner example 683,type 2
+Client example 684,,,,,460,example address 684,,Moderate,Extreme Growth (50+),,460,30.6506326,-95.1275071,Owner example 684,type 2
+Client example 685,,,,542,"1,733",example address 685,Tier 4,Low,Extreme Growth (50+),,546,30.0861225,-95.1246812,Owner example 685,type 2
+Client example 686,,,,,,example address 686,,,,,,29.5573647,-95.1240502,Owner example 686,type 2
+Client example 687,,,,1874,"2,030",example address 687,Tier 4,Low,Major Growth (20 to 49),"1,065","1,450",29.5004812,-95.1203458,Owner example 687,type 2
+Client example 688,,,,,"12,153",example address 688,Tier 3,Low,Moderate Growth (5 to 19),"10,565","11,497",29.500921,-95.1199789,Owner example 688,type 2
+Client example 689,,,,,,example address 689,,,,,,29.543185,-95.1022705,Owner example 689,type 2
+Client example 690,,,,,,example address 690,,,,,,29.5163836,-95.0927743,Owner example 690,type 2
+Client example 691,,,,20,,example address 691,,,,,,29.532938,-95.0458123,Owner example 691,type 2
+Client example 692,,,,1768,,example address 692,,Moderate,Extreme Growth (50+),,"1,908",29.6661372,-95.0422526,Owner example 692,type 2
+Client example 693,,,,,"3,274",example address 693,Tier 4,Moderate,Extreme Growth (50+),758,"1,275",29.7729631,-95.039521,Owner example 693,type 2
+Client example 694,,,,,,example address 694,,,,,,29.5606039,-95.0350669,Owner example 694,type 2
+Client example 695,,,,51,,example address 695,,,,,,29.5427297,-95.0204837,Owner example 695,type 2
+Client example 696,,,,2376,"2,331",example address 696,Tier 4,Moderate,Major Loss (-49 to -20),"2,249","1,164",29.3514406,-95.0103842,Owner example 696,type 2
+Client example 697,,,,8778,"10,059",example address 697,Tier 3,Low,No Growth (-4 to 4),"5,187","5,257",29.47588,-94.977907,Owner example 697,type 2
+Client example 698,,,,,,example address 698,,,,,,29.3743597,-94.972127,Owner example 698,type 2
+Client example 699,,,,,,example address 699,,,,,,32.729407,-94.9654286,Owner example 699,type 2
+Client example 700,,,,269,599,example address 700,,Low,Extreme Growth (50+),99,386,32.3907691,-94.8454404,Owner example 700,type 2
+Client example 701,,,,,,example address 701,,,,,,32.5022062,-94.7866764,Owner example 701,type 2
+Client example 702,,,,,"45,294",example address 702,Tier 3,,No Growth (-4 to 4),"16,099","16,566",32.4966112,-94.7747616,Owner example 702,type 1
+Client example 703,,,,,"223,240",example address 703,Tier 1,,Moderate Growth (5 to 19),"117,072","135,992",32.5137878,-94.7690979,Owner example 703,type 1
+Client example 704,,,,4355,"3,259",example address 704,Tier 4,Low,Extreme Growth (50+),970,"2,211",31.5916455,-94.6649154,Owner example 704,type 2
+Client example 705,,,,1055,472,example address 705,,,Extreme Loss (-50+),430,,31.60323,-94.65507,Owner example 705,type 2
+Client example 706,,,,,"5,543",example address 706,Tier 4,,Moderate Loss (-19 to -5),"2,958","2,618",32.5055798,-94.623594,Owner example 706,type 1
+Client example 707,,,,,172,example address 707,,,No Sales,,,33.3459328,-94.5032706,Owner example 707,type 2
+Client example 708,,,,40,,example address 708,,,,,,32.5605655,-94.3543854,Owner example 708,type 2
+Client example 709,,,,,,example address 709,,,,,,32.1492298,-94.3356979,Owner example 709,type 2
+Client example 710,,,,,,example address 710,,,,,,31.3068546,-94.2690876,Owner example 710,type 2
+Client example 711,,,,,,example address 711,,,,,,30.3379598,-94.1879274,Owner example 711,type 2
+Client example 712,,,,417,417,example address 712,,,Extreme Loss (-50+),375,,30.1511648,-94.1869177,Owner example 712,type 2
+Client example 713,,,,1052,104,example address 713,,,Extreme Loss (-50+),31,,33.4413813,-94.127669,Owner example 713,type 2
+Client example 714,,,,82,102,example address 714,,,Extreme Loss (-50+),60,,33.4874057,-94.1079277,Owner example 714,type 2
+Client example 715,,,,95,97,example address 715,,High,No Growth (-4 to 4),44,44,33.4250681,-94.1046715,Owner example 715,type 2
+Client example 716,,,,867,"3,172",example address 716,Tier 4,High,Extreme Loss (-50+),"3,130","1,050",30.0984562,-94.1008162,Owner example 716,type 2
+Client example 717,,,,4238,"5,179",example address 717,Tier 4,Low,Moderate Loss (-19 to -5),"4,482","3,698",33.3935059,-94.094265,Owner example 717,type 2
+Client example 718,,,,3578,"3,539",example address 718,Tier 4,Moderate,Major Loss (-49 to -20),"1,998","1,269",39.9565668,-91.3527639,Owner example 718,type 2
+Client example 719,,,,104,146,example address 719,,High,Extreme Loss (-50+),73,20,40.4606857,-90.6849157,Owner example 719,type 2
+Client example 720,,,,11916,"6,778",example address 720,Tier 4,Moderate,Extreme Loss (-50+),"4,283","2,040",41.451414,-90.5785058,Owner example 720,type 2
+Client example 721,,,,,786,example address 721,,Moderate,Extreme Growth (50+),519,979,42.3139368,-90.2438722,Owner example 721,type 2
+Client example 722,,,,,257,example address 722,,High,Extreme Growth (50+),,215,39.005133,-90.22462,Owner example 722,type 2
+Client example 723,,,,,"11,832",example address 723,Tier 3,,Extreme Loss (-50+),"8,712",,29.9570193,-90.1768444,Owner example 723,type 1
+Client example 724,,,,1885,"1,107",example address 724,Tier 4,Moderate,Major Growth (20 to 49),"1,065","1,553",38.7157973,-90.1307797,Owner example 724,type 2
+Client example 725,,,,2545,"1,707",example address 725,Tier 4,Low,Extreme Growth (50+),,"1,251",38.6875043,-90.0144645,Owner example 725,type 2
+Client example 726,,,,5775,"8,718",example address 726,Tier 4,Moderate,Major Growth (20 to 49),"2,879","3,738",38.5099139,-90.0127154,Owner example 726,type 2
+Client example 727,,,,771,929,example address 727,,Low,Extreme Growth (50+),374,833,38.7090351,-89.9862643,Owner example 727,type 2
+Client example 728,,,,152,,example address 728,,Low,Extreme Growth (50+),,"1,376",41.2442243,-89.9032446,Owner example 728,type 2
+Client example 729,,,,62,52,example address 729,,,No Sales,,,38.5813732,-89.8886562,Owner example 729,type 2
+Client example 730,,,,,,example address 730,,Low,Extreme Growth (50+),,"2,939",38.595182,-89.887449,Owner example 730,type 2
+Client example 731,,,,1620,"2,390",example address 731,Tier 4,High,Moderate Loss (-19 to -5),"1,052",849,38.7956694,-89.8702072,Owner example 731,type 2
+Client example 732,,,,638,609,example address 732,,High,Moderate Loss (-19 to -5),378,312,38.7317769,-89.8536721,Owner example 732,type 2
+Client example 733,,,,20,,example address 733,,,,,,40.0253367,-89.8508851,Owner example 733,type 2
+Client example 734,,,,412,899,example address 734,,Moderate,Extreme Growth (50+),688,"1,226",39.0858366,-89.7937649,Owner example 734,type 2
+Client example 735,,,,,842,example address 735,,Low,Extreme Growth (50+),,"2,064",40.6760986,-89.7861032,Owner example 735,type 2
+Client example 736,,,,2474,"2,987",example address 736,Tier 4,High,Extreme Loss (-50+),"1,037",-135,40.6866193,-89.7750025,Owner example 736,type 2
+Client example 737,,,,,542,example address 737,,,Extreme Loss (-50+),500,,38.1255123,-89.7271932,Owner example 737,type 2
+Client example 738,,,,6625,"18,917",example address 738,Tier 3,Moderate,Major Growth (20 to 49),"6,510","9,394",40.5428715,-89.6668163,Owner example 738,type 2
+Client example 739,,,,,,example address 739,,,,,,42.2483596,-89.6289161,Owner example 739,type 2
+Client example 740,,,,1337,717,example address 740,,,No Sales,,,39.7788889,-89.6102651,Owner example 740,type 2
+Client example 741,,,,20,,example address 741,,,,,,39.7566403,-89.5837611,Owner example 741,type 2
+Client example 742,,,,,,example address 742,,,,,,41.3669911,-89.5823631,Owner example 742,type 2
+Client example 743,,,,221,540,example address 743,,,No Sales,,,39.9140597,-89.5731991,Owner example 743,type 2
+Client example 744,,,,282,282,example address 744,,High,Extreme Growth (50+),100,220,40.7151758,-89.5694006,Owner example 744,type 2
+Client example 745,,,,,291,example address 745,,,Extreme Loss (-50+),249,,40.7151758,-89.5694006,Owner example 745,type 2
+Client example 746,,,,412,637,example address 746,,,Extreme Loss (-50+),297,,40.7151758,-89.5694006,Owner example 746,type 2
+Client example 747,,,,3040,"6,154",example address 747,Tier 4,Low,Major Loss (-49 to -20),"3,018","2,156",38.620109,-89.5253963,Owner example 747,type 2
+Client example 748,,,,1801,"2,025",example address 748,Tier 4,High,Major Growth (20 to 49),"1,065","1,311",40.5358317,-89.5158704,Owner example 748,type 2
+Client example 749,,,,40,,example address 749,,,,,,40.6899647,-89.4831335,Owner example 749,type 2
+Client example 750,,,,487,265,example address 750,,,Extreme Loss (-50+),223,,40.1632351,-89.3474087,Owner example 750,type 2
+Client example 751,,,,467,"2,123",example address 751,Tier 4,Moderate,Major Loss (-49 to -20),"1,529",857,40.5400596,-89.32446,Owner example 751,type 2
+Client example 752,,,,,,example address 752,,,,,,37.7559179,-89.2805328,Owner example 752,type 2
+Client example 753,,,,,,example address 753,,,,,,37.7524438,-89.2669845,Owner example 753,type 2
+Client example 754,,,,,,example address 754,,,,,,37.4833448,-89.2623319,Owner example 754,type 2
+Client example 755,,,,568,610,example address 755,,Moderate,Extreme Growth (50+),248,935,38.5381321,-89.1977021,Owner example 755,type 2
+Client example 756,,,,2401,"3,965",example address 756,Tier 4,Moderate,Major Loss (-49 to -20),"1,914","1,238",42.2990048,-89.1033752,Owner example 756,type 2
+Client example 757,,,,,292,example address 757,,,No Sales,,,46.7840484,-89.0958393,Owner example 757,type 2
+Client example 758,,,,831,"1,981",example address 758,Tier 4,Low,Extreme Loss (-50+),"1,283",636,38.9606009,-89.0936778,Owner example 758,type 2
+Client example 759,,,,3133,"2,801",example address 759,Tier 4,Moderate,Extreme Growth (50+),696,"2,708",42.2685135,-89.0882433,Owner example 759,type 2
+Client example 760,,,,2042,699,example address 760,,High,Extreme Loss (-50+),559,136,41.3621379,-89.0825668,Owner example 760,type 2
+Client example 761,,,,,291,example address 761,,,Extreme Loss (-50+),249,,42.32497,-89.076327,Owner example 761,type 2
+Client example 762,,,,60,,example address 762,,,,,,41.3374752,-89.066945,Owner example 762,type 2
+Client example 763,,,,3442,"4,786",example address 763,Tier 4,Moderate,Moderate Loss (-19 to -5),"2,022","1,715",42.2771361,-89.0076363,Owner example 763,type 2
+Client example 764,,,,,,example address 764,,,,,,37.6306988,-89.00573,Owner example 764,type 2
+Client example 765,,,,,340,example address 765,,,No Sales,,,37.7589747,-88.9816864,Owner example 765,type 2
+Client example 766,,,,1797,"4,234",example address 766,Tier 4,Moderate,Major Growth (20 to 49),"1,154","1,560",40.454778,-88.9812947,Owner example 766,type 2
+Client example 767,,,,160,,example address 767,,,,,,40.521498,-88.9615087,Owner example 767,type 2
+Client example 768,,,,,,example address 768,,,,,,40.1442525,-88.9512333,Owner example 768,type 2
+Client example 769,,,,382,232,example address 769,,Moderate,Extreme Growth (50+),190,"1,832",39.8742177,-88.9504483,Owner example 769,type 2
+Client example 770,,,,639,,example address 770,,,,,,38.3068159,-88.8892533,Owner example 770,type 2
+Client example 771,,,,1449,884,example address 771,,Moderate,Moderate Growth (5 to 19),449,473,40.538691,-88.862106,Owner example 771,type 2
+Client example 772,,,,,223,example address 772,,,No Sales,,,42.0985189,-88.8423163,Owner example 772,type 2
+Client example 773,,,,11,,example address 773,,,,,,37.1692962,-88.7465334,Owner example 773,type 2
+Client example 774,,,,14548,"12,057",example address 774,Tier 3,Moderate,Moderate Growth (5 to 19),"5,745","6,647",41.9499318,-88.7144412,Owner example 774,type 2
+Client example 775,,,,3791,607,example address 775,,,Extreme Loss (-50+),565,,40.4869111,-88.6933299,Owner example 775,type 2
+Client example 776,,,,,,example address 776,,,,,,40.4869111,-88.6933299,Owner example 776,type 2
+Client example 777,,,,2824,"2,685",example address 777,Tier 4,Moderate,Major Growth (20 to 49),"2,559","3,543",37.0969228,-88.6738074,Owner example 777,type 2
+Client example 778,,,,15997,"14,878",example address 778,Tier 3,Low,Major Growth (20 to 49),"8,572","10,488",46.0767309,-88.6435307,Owner example 778,type 2
+Client example 779,,,,,,example address 779,,High,Extreme Growth (50+),,"1,525",36.7459813,-88.6409063,Owner example 779,type 2
+Client example 780,,,,,,example address 780,,,,,,40.871361,-88.6393583,Owner example 780,type 2
+Client example 781,,,,88,362,example address 781,,,No Sales,,,42.309255,-88.57338,Owner example 781,type 2
+Client example 782,,,,293,"2,525",example address 782,Tier 4,Moderate,Extreme Growth (50+),542,"2,158",47.103438,-88.519175,Owner example 782,type 2
+Client example 783,,,,,,example address 783,,,,,,42.45998,-88.466708,Owner example 783,type 2
+Client example 784,,,,,,example address 784,,,,,,41.657367,-88.462039,Owner example 784,type 2
+Client example 785,,,,,,example address 785,,,,,,42.3193718,-88.4459146,Owner example 785,type 2
+Client example 786,,,,,190,example address 786,,,Extreme Loss (-50+),148,,41.3278419,-88.4281929,Owner example 786,type 2
+Client example 787,,,,5105,"5,389",example address 787,Tier 4,Moderate,Major Growth (20 to 49),"2,873","3,948",42.2805361,-88.4107352,Owner example 787,type 2
+Client example 788,,,,2492,"1,522",example address 788,Tier 4,Moderate,Moderate Loss (-19 to -5),555,450,42.1819595,-88.3853642,Owner example 788,type 2
+Client example 789,,,,884,"1,977",example address 789,Tier 4,Moderate,Moderate Growth (5 to 19),970,"1,047",42.257196,-88.378313,Owner example 789,type 2
+Client example 790,,,,1434,"1,711",example address 790,Tier 4,Low,Extreme Growth (50+),658,"1,993",42.103006,-88.369581,Owner example 790,type 2
+Client example 791,,,,,,example address 791,,,,,,42.346725,-88.366104,Owner example 791,type 2
+Client example 792,,,,,"2,338",example address 792,Tier 4,Low,Extreme Growth (50+),162,"1,589",42.3140183,-88.3638701,Owner example 792,type 2
+Client example 793,,,,2073,767,example address 793,,High,Extreme Growth (50+),407,651,41.8818543,-88.3632021,Owner example 793,type 2
+Client example 794,,,,,,example address 794,,,,,,46.0972882,-88.359524,Owner example 794,type 2
+Client example 795,,,,3436,"3,581",example address 795,Tier 4,Moderate,Extreme Growth (50+),"1,210","2,833",42.2433461,-88.3428311,Owner example 795,type 2
+Client example 796,,,,1608,"1,574",example address 796,Tier 4,Moderate,Major Growth (20 to 49),705,847,39.4720591,-88.3290568,Owner example 796,type 2
+Client example 797,,,,392,392,example address 797,,High,Extreme Growth (50+),,"1,050",41.7481745,-88.3279166,Owner example 797,type 2
+Client example 798,,,,,"1,085",example address 798,Tier 4,,No Growth (-4 to 4),169,169,41.8047121,-88.3256391,Owner example 798,type 1
+Client example 799,,,,,,example address 799,,Moderate,Extreme Growth (50+),,350,40.1964046,-88.3254873,Owner example 799,type 2
+Client example 800,,,,,,example address 800,,,,,,41.5419619,-88.3229419,Owner example 800,type 2
+Client example 801,,,,102,62,example address 801,,,No Sales,,,42.3918929,-88.3191856,Owner example 801,type 2
+Client example 802,,,,,,example address 802,,,,,,36.6071321,-88.3155598,Owner example 802,type 2
+Client example 803,,,,,,example address 803,,,,,,41.8164211,-88.3137943,Owner example 803,type 2
+Client example 804,,,,,62,example address 804,,,No Sales,,,42.3568229,-88.3027628,Owner example 804,type 2
+Client example 805,,,,,"39,663",example address 805,Tier 3,,Extreme Loss (-50+),"20,675","5,262",41.9829586,-88.2982241,Owner example 805,type 1
+Client example 806,,,,981,"2,251",example address 806,Tier 4,High,Extreme Loss (-50+),"1,092",115,42.15496,-88.29552,Owner example 806,type 2
+Client example 807,,,,117,113,example address 807,,High,Extreme Loss (-50+),71,20,42.1099497,-88.2953373,Owner example 807,type 2
+Client example 808,,,,2959,714,example address 808,,Moderate,Extreme Growth (50+),323,"1,243",41.9229621,-88.2845481,Owner example 808,type 2
+Client example 809,,,,2326,"3,843",example address 809,Tier 4,,,"1,428","4,144",36.6190748,-88.2734005,Owner example 809,type 2
+Client example 810,,,,5321,"4,200",example address 810,Tier 4,Moderate,Major Loss (-49 to -20),"1,512",779,42.3217605,-88.2731101,Owner example 810,type 2
+Client example 811,,,,2186,761,example address 811,,High,Extreme Growth (50+),,331,39.4747947,-88.2614473,Owner example 811,type 2
+Client example 812,,,,,62,example address 812,,,Extreme Loss (-50+),20,,41.4424178,-88.2232763,Owner example 812,type 2
+Client example 813,,,,,"16,064",example address 813,Tier 3,,Moderate Growth (5 to 19),"6,436","7,643",41.778202,-88.2155708,Owner example 813,type 1
+Client example 814,,,,1340,"1,497",example address 814,Tier 4,High,Extreme Loss (-50+),"1,332",503,41.7987758,-88.199737,Owner example 814,type 2
+Client example 815,,,,1130,"1,779",example address 815,Tier 4,Moderate,Moderate Loss (-19 to -5),"1,143",981,41.8606914,-88.1890955,Owner example 815,type 2
+Client example 816,,,,2315,"2,841",example address 816,Tier 4,High,Major Loss (-49 to -20),"1,558",982,40.1111116,-88.1822926,Owner example 816,type 2
+Client example 817,,,,,"1,862",example address 817,Tier 4,High,Extreme Growth (50+),520,"2,513",41.589656,-88.181552,Owner example 817,type 2
+Client example 818,,,,,,example address 818,,,,,,41.997462,-88.178718,Owner example 818,type 2
+Client example 819,,,,,,example address 819,,,,,,41.8733597,-88.1784275,Owner example 819,type 2
+Client example 820,,,,,,example address 820,,,,,,41.515134,-88.150688,Owner example 820,type 2
+Client example 821,,,,,"9,325",example address 821,Tier 4,,Major Loss (-49 to -20),"4,020","2,753",41.8645361,-88.1444338,Owner example 821,type 1
+Client example 822,,,,,,example address 822,,,,,,42.174906,-88.129671,Owner example 822,type 2
+Client example 823,,,,54,54,example address 823,,,Extreme Loss (-50+),12,,42.4463605,-88.1287383,Owner example 823,type 2
+Client example 824,,,,5349,"5,325",example address 824,Tier 4,High,Major Loss (-49 to -20),"3,654","2,067",42.3493765,-88.1275182,Owner example 824,type 2
+Client example 825,,,,,62,example address 825,,,Extreme Loss (-50+),20,,41.9739922,-88.124601,Owner example 825,type 2
+Client example 826,,,,,742,example address 826,,,Extreme Loss (-50+),350,,42.045678,-88.123581,Owner example 826,type 2
+Client example 827,,,,82,62,example address 827,,,No Sales,,,41.6408164,-88.1216455,Owner example 827,type 2
+Client example 828,,,,,,example address 828,,,,,,42.2707788,-88.1208637,Owner example 828,type 2
+Client example 829,,,,383,218,example address 829,,High,Extreme Loss (-50+),154,66,42.3906489,-88.1197196,Owner example 829,type 2
+Client example 830,,,,,"14,139",example address 830,Tier 3,,Extreme Growth (50+),"7,136","13,280",42.3230824,-88.1124346,Owner example 830,type 1
+Client example 831,,,,,"68,094",example address 831,Tier 2,,Major Growth (20 to 49),"34,059","48,620",41.7789734,-88.1062452,Owner example 831,type 1
+Client example 832,,,,247,307,example address 832,,,Extreme Loss (-50+),265,,42.1969689,-88.0934108,Owner example 832,type 2
+Client example 833,,,,293,971,example address 833,,Moderate,Extreme Loss (-50+),929,328,37.0638014,-88.0863573,Owner example 833,type 2
+Client example 834,,,,,,example address 834,,,,,,41.9840712,-88.0762587,Owner example 834,type 2
+Client example 835,,,,182,62,example address 835,,,No Sales,,,42.1076983,-88.0741589,Owner example 835,type 2
+Client example 836,,,,1271,"7,790",example address 836,Tier 4,Low,Major Loss (-49 to -20),"3,832","2,940",41.8370558,-88.0737962,Owner example 836,type 2
+Client example 837,,,,,417,example address 837,,,Extreme Loss (-50+),375,,41.9013242,-88.063686,Owner example 837,type 2
+Client example 838,,,,142,122,example address 838,,,Extreme Loss (-50+),80,,42.1156938,-88.0628569,Owner example 838,type 2
+Client example 839,,,,,"1,271",example address 839,Tier 4,,Extreme Loss (-50+),"1,143",,41.8430486,-88.0616943,Owner example 839,type 2
+Client example 840,,,,,62,example address 840,,,Extreme Loss (-50+),20,,42.1475611,-88.0575867,Owner example 840,type 2
+Client example 841,,,,,,example address 841,,,,,,42.4737915,-88.0443148,Owner example 841,type 2
+Client example 842,,,,,"15,374",example address 842,Tier 3,,No Growth (-4 to 4),"8,308","7,993",42.3441693,-88.037646,Owner example 842,type 1
+Client example 843,,,,75,53,example address 843,,,No Sales,,,41.7819408,-88.0357546,Owner example 843,type 2
+Client example 844,,,,2692,"4,394",example address 844,Tier 4,Moderate,Major Loss (-49 to -20),"1,719","1,348",41.807756,-88.031584,Owner example 844,type 2
+Client example 845,,,,102,102,example address 845,,Low,Extreme Growth (50+),,60,42.4084012,-88.0307012,Owner example 845,type 2
+Client example 846,,,,,,example address 846,,,,,,39.5320405,-88.0247513,Owner example 846,type 2
+Client example 847,,,,255,,example address 847,,,,,,41.9827348,-88.017691,Owner example 847,type 2
+Client example 848,,,,411,411,example address 848,,Moderate,Extreme Loss (-50+),246,123,41.632466,-87.9968962,Owner example 848,type 2
+Client example 849,,,,,"6,075",example address 849,Tier 4,,No Growth (-4 to 4),"3,472","3,320",42.047809,-87.9856127,Owner example 849,type 1
+Client example 850,,,,142,62,example address 850,,,Extreme Loss (-50+),20,,42.1253802,-87.9796065,Owner example 850,type 2
+Client example 851,,,,,,example address 851,,,,,,41.8164322,-87.9778274,Owner example 851,type 2
+Client example 852,,,,,,example address 852,,,,,,42.2307051,-87.9708251,Owner example 852,type 2
+Client example 853,,,,,95,example address 853,,,Extreme Loss (-50+),53,,41.9724681,-87.9707294,Owner example 853,type 2
+Client example 854,,,,,,example address 854,,,,,,42.283138,-87.9617167,Owner example 854,type 2
+Client example 855,,,,2460,"2,556",example address 855,Tier 4,Moderate,Moderate Growth (5 to 19),"1,255","1,315",42.4346009,-87.9530849,Owner example 855,type 2
+Client example 856,,,,1091,82,example address 856,,High,Extreme Growth (50+),10,30,41.9062966,-87.9522044,Owner example 856,type 2
+Client example 857,,,,,,example address 857,,,,,,42.066612,-87.945166,Owner example 857,type 2
+Client example 858,,,,,,example address 858,,,,,,41.5525579,-87.9349739,Owner example 858,type 2
+Client example 859,,,,,,example address 859,,,,,,41.9539668,-87.9339398,Owner example 859,type 2
+Client example 860,,,,204,93,example address 860,,Moderate,Extreme Growth (50+),20,40,42.0628096,-87.9335569,Owner example 860,type 2
+Client example 861,,,,,93,example address 861,,,Extreme Loss (-50+),20,,42.3770267,-87.9324845,Owner example 861,type 2
+Client example 862,,,,,,example address 862,,,,,,40.9176142,-87.9230918,Owner example 862,type 2
+Client example 863,,,,1457,"2,141",example address 863,Tier 4,,Extreme Loss (-50+),"1,049",,41.8049877,-87.9226404,Owner example 863,type 2
+Client example 864,,,,726,834,example address 864,,Low,Moderate Growth (5 to 19),447,501,42.4075121,-87.9087707,Owner example 864,type 2
+Client example 865,,,,49,,example address 865,,,,,,37.9296771,-87.9047805,Owner example 865,type 2
+Client example 866,,,,,"12,250",example address 866,Tier 3,,Extreme Growth (50+),"3,494","6,444",42.1696426,-87.8835491,Owner example 866,type 1
+Client example 867,,,,,"18,571",example address 867,Tier 3,,No Growth (-4 to 4),"7,707","7,878",42.099386,-87.881083,Owner example 867,type 1
+Client example 868,,,,,984,example address 868,,,Extreme Loss (-50+),297,,42.008727,-87.8809349,Owner example 868,type 2
+Client example 869,,,,3856,"4,117",example address 869,Tier 4,Low,Extreme Growth (50+),"3,296","16,583",42.3704506,-87.8756983,Owner example 869,type 2
+Client example 870,,,,,,example address 870,,,,,,41.8342329,-87.8751399,Owner example 870,type 2
+Client example 871,,,,3101,"2,221",example address 871,Tier 4,Moderate,Moderate Loss (-19 to -5),"1,560","1,400",42.3828197,-87.8658509,Owner example 871,type 2
+Client example 872,,,,2121,"12,842",example address 872,Tier 3,Low,Extreme Growth (50+),"2,988","10,536",41.5441473,-87.8608835,Owner example 872,type 2
+Client example 873,,,,62,258,example address 873,,,Extreme Loss (-50+),216,,41.1351152,-87.8371318,Owner example 873,type 2
+Client example 874,,,,,53,example address 874,,,Extreme Loss (-50+),11,,41.9858602,-87.8312281,Owner example 874,type 2
+Client example 875,,,,633,439,example address 875,,Low,Extreme Growth (50+),140,530,42.092172,-87.8205864,Owner example 875,type 2
+Client example 876,,,,1833,"1,670",example address 876,Tier 4,Moderate,Extreme Growth (50+),565,"1,138",41.8194982,-87.8202217,Owner example 876,type 2
+Client example 877,,,,,"11,213",example address 877,Tier 3,,Moderate Loss (-19 to -5),"5,712","4,999",41.5431611,-87.8186282,Owner example 877,type 1
+Client example 878,,,,,"4,420",example address 878,Tier 4,,Extreme Loss (-50+),"3,220",859,42.0120816,-87.805725,Owner example 878,type 1
+Client example 879,,,,1528,"1,672",example address 879,Tier 4,Moderate,Major Loss (-49 to -20),"1,080",630,41.338966,-87.802637,Owner example 879,type 2
+Client example 880,,,,3415,"2,290",example address 880,Tier 4,Low,No Growth (-4 to 4),"1,499","1,498",42.1873659,-87.801416,Owner example 880,type 2
+Client example 881,,,,,"69,210",example address 881,Tier 2,,Major Loss (-49 to -20),"34,878","27,810",41.8569333,-87.7553474,Owner example 881,type 1
+Client example 882,,,,7338,"4,474",example address 882,Tier 4,Moderate,Extreme Loss (-50+),"4,289","1,189",41.9765798,-87.7543058,Owner example 882,type 2
+Client example 883,,,,412,465,example address 883,,High,Extreme Loss (-50+),209,42,42.0256219,-87.7528158,Owner example 883,type 2
+Client example 884,,,,3159,"3,352",example address 884,Tier 4,Low,Extreme Growth (50+),"2,563","4,119",40.8330943,-87.7432448,Owner example 884,type 2
+Client example 885,,,,72,112,example address 885,,,Extreme Loss (-50+),135,,39.0117065,-87.7287089,Owner example 885,type 2
+Client example 886,,,,202,102,example address 886,,Moderate,Extreme Growth (50+),20,375,41.1711628,-87.7264788,Owner example 886,type 2
+Client example 887,,,,,,example address 887,,,,,,41.731718,-87.722216,Owner example 887,type 2
+Client example 888,,,,362,930,example address 888,,Moderate,Extreme Growth (50+),100,180,42.070644,-87.715545,Owner example 888,type 2
+Client example 889,,,,,,example address 889,,,,,,41.90755,-87.715051,Owner example 889,type 2
+Client example 890,,,,,"22,428",example address 890,Tier 3,,No Growth (-4 to 4),"11,223","11,056",41.8445925,-87.7131039,Owner example 890,type 1
+Client example 891,,,,62,62,example address 891,,,Extreme Loss (-50+),20,,41.938683,-87.7103149,Owner example 891,type 2
+Client example 892,,,,125,,example address 892,,,,,,42.0261565,-87.7063593,Owner example 892,type 2
+Client example 893,,,,40,,example address 893,,,,,,41.6270065,-87.7010381,Owner example 893,type 2
+Client example 894,,,,170,390,example address 894,,,Extreme Loss (-50+),295,,42.0088261,-87.690662,Owner example 894,type 2
+Client example 895,,,,,,example address 895,,,,,,42.0131457,-87.6899644,Owner example 895,type 2
+Client example 896,,,,,,example address 896,,,,,,41.8631799,-87.6863091,Owner example 896,type 2
+Client example 897,,,,,"58,198",example address 897,Tier 2,,Extreme Loss (-50+),"22,053","4,279",41.8419368,-87.684154,Owner example 897,type 1
+Client example 898,,,,365,304,example address 898,,Moderate,Major Growth (20 to 49),108,143,41.8865513,-87.6765878,Owner example 898,type 2
+Client example 899,,,,864,"2,179",example address 899,Tier 4,High,Extreme Growth (50+),554,893,41.9979415,-87.6716554,Owner example 899,type 2
+Client example 900,,,,,807,example address 900,,Moderate,Major Loss (-49 to -20),570,390,39.6064145,-87.6707887,Owner example 900,type 2
+Client example 901,,,,,,example address 901,,,,,,41.984201,-87.667775,Owner example 901,type 2
+Client example 902,,,,,"3,390",example address 902,Tier 4,,Moderate Loss (-19 to -5),"1,677","1,546",41.9114759,-87.6673433,Owner example 902,type 1
+Client example 903,,,,392,"2,491",example address 903,Tier 4,,Extreme Loss (-50+),"2,449",,40.0983784,-87.6645315,Owner example 903,type 2
+Client example 904,,,,11,,example address 904,,,,,,41.8957052,-87.6495586,Owner example 904,type 2
+Client example 905,,,,,"14,884",example address 905,Tier 3,,No Growth (-4 to 4),"7,146","7,394",41.5214369,-87.6478687,Owner example 905,type 1
+Client example 906,,,,220,,example address 906,,High,Extreme Growth (50+),,182,40.1019997,-87.6409649,Owner example 906,type 2
+Client example 907,,,,,"3,161",example address 907,Tier 4,,Extreme Loss (-50+),249,,41.8675233,-87.6388767,Owner example 907,type 1
+Client example 908,,,,777,513,example address 908,,High,Extreme Growth (50+),112,172,45.1187774,-87.6382546,Owner example 908,type 2
+Client example 909,,,,,3410,example address 909,Tier 4,,Extreme Growth (50+),"1,245","1,909",41.891385,-87.6327156,Owner example 909,type 1
+Client example 910,,,,40,,example address 910,,,,,,41.8865829,-87.6291883,Owner example 910,type 2
+Client example 911,,,,,"2,877",example address 911,Tier 4,,Extreme Growth (50+),-638,"6,376",41.7810108,-87.6242683,Owner example 911,type 1
+Client example 912,,,,,489,example address 912,,,Extreme Loss (-50+),447,,40.8275816,-87.5819715,Owner example 912,type 2
+Client example 913,,,,122,62,example address 913,,High,Extreme Growth (50+),,"2,312",37.9952268,-87.576002,Owner example 913,type 2
+Client example 914,,,,2815,"2,790",example address 914,Tier 4,Moderate,Major Growth (20 to 49),"1,249","1,499",39.5082974,-87.56921,Owner example 914,type 2
+Client example 915,,,,,,example address 915,,,,,,38.0116003,-87.5422124,Owner example 915,type 2
+Client example 916,,,,687,379,example address 916,,Moderate,Extreme Growth (50+),,"1,050",38.676364,-87.541058,Owner example 916,type 2
+Client example 917,,,,179,159,example address 917,,High,Extreme Growth (50+),77,126,41.4240508,-87.5389287,Owner example 917,type 2
+Client example 918,,,,,,example address 918,,High,Extreme Growth (50+),,155,37.3370036,-87.5369703,Owner example 918,type 2
+Client example 919,,,,781,800,example address 919,,High,Extreme Loss (-50+),253,113,38.2992252,-87.5344617,Owner example 919,type 2
+Client example 920,,,,,,example address 920,,,,,,41.6157066,-87.5303512,Owner example 920,type 2
+Client example 921,,,,15650,376,example address 921,,,Extreme Loss (-50+),334,,41.5436423,-87.517363,Owner example 921,type 2
+Client example 922,,,,2495,654,example address 922,,High,Extreme Loss (-50+),590,33,37.9898959,-87.5012745,Owner example 922,type 2
+Client example 923,,,,774,372,example address 923,,,Extreme Loss (-50+),275,,41.5531135,-87.4899345,Owner example 923,type 2
+Client example 924,,,,20,,example address 924,,,,,,41.5841763,-87.4503534,Owner example 924,type 2
+Client example 925,,,,564,974,example address 925,,High,Major Loss (-49 to -20),644,504,46.4342193,-87.4165547,Owner example 925,type 2
+Client example 926,,,,235,"1,339",example address 926,Tier 4,Moderate,Extreme Growth (50+),214,"4,666",39.8543767,-87.4066123,Owner example 926,type 2
+Client example 927,,,,,62,example address 927,,,No Sales,,,39.4056063,-87.3740363,Owner example 927,type 2
+Client example 928,,,,4822,"6,293",example address 928,Tier 4,Low,Major Growth (20 to 49),"2,139","2,582",41.448831,-87.3724272,Owner example 928,type 2
+Client example 929,,,,16467,"2,456",example address 929,Tier 4,High,Major Loss (-49 to -20),"1,642",838,39.4535039,-87.3601566,Owner example 929,type 2
+Client example 930,,,,228,474,example address 930,,High,Extreme Loss (-50+),288,94,37.984393,-87.3532819,Owner example 930,type 2
+Client example 931,,,,62,64,example address 931,,High,Extreme Loss (-50+),22,11,39.4508932,-87.3319309,Owner example 931,type 2
+Client example 932,,,,,216,example address 932,,,No Sales,,,41.5970167,-87.2633096,Owner example 932,type 2
+Client example 933,,,,,,example address 933,,,,,,38.054238,-87.252445,Owner example 933,type 2
+Client example 934,,,,1755,"3,413",example address 934,Tier 4,Low,Extreme Growth (50+),440,"1,020",41.5551418,-87.197385,Owner example 934,type 2
+Client example 935,,,,60,,example address 935,,,,,,40.9420538,-87.1849572,Owner example 935,type 2
+Client example 936,,,,,,example address 936,,,,,,37.740129,-87.178593,Owner example 936,type 2
+Client example 937,,,,,,example address 937,,,,,,37.2242638,-87.1764902,Owner example 937,type 2
+Client example 938,,,,20,,example address 938,,,,,,38.6592152,-87.172789,Owner example 938,type 2
+Client example 939,,,,,,example address 939,,,,,,37.750846,-87.1252219,Owner example 939,type 2
+Client example 940,,,,,"7,188",example address 940,Tier 4,Low,Extreme Growth (50+),,"5,122",41.4623301,-87.109368,Owner example 940,type 2
+Client example 941,,,,,,example address 941,,High,Extreme Growth (50+),,150,37.959319,-87.1088434,Owner example 941,type 2
+Client example 942,,,,1392,"1,240",example address 942,Tier 4,High,Major Loss (-49 to -20),560,409,45.7998112,-87.0877717,Owner example 942,type 2
+Client example 943,,,,,,example address 943,,,,,,40.36212,-87.074798,Owner example 943,type 2
+Client example 944,,,,1392,370,example address 944,,Moderate,Extreme Growth (50+),328,709,39.3936754,-87.0687377,Owner example 944,type 2
+Client example 945,,,,1064,"2,161",example address 945,Tier 4,Moderate,Moderate Growth (5 to 19),"1,069","1,268",41.4748126,-87.0557127,Owner example 945,type 2
+Client example 946,,,,,738,example address 946,,Moderate,Extreme Growth (50+),209,575,39.537521,-87.051284,Owner example 946,type 2
+Client example 947,,,,196,142,example address 947,,,Extreme Loss (-50+),80,,39.226413,-87.036755,Owner example 947,type 2
+Client example 948,,,,2972,"1,951",example address 948,Tier 4,,Extreme Loss (-50+),806,,41.5140877,-87.0042045,Owner example 948,type 2
+Client example 949,,,,691,190,example address 949,,High,Extreme Growth (50+),,269,37.841034,-86.997011,Owner example 949,type 2
+Client example 950,,,,,,example address 950,,,,,,38.3171601,-86.9593384,Owner example 950,type 2
+Client example 951,,,,,,example address 951,,,,,,39.3936806,-86.9304845,Owner example 951,type 2
+Client example 952,,,,,,example address 952,,,,,,41.5470585,-86.9301124,Owner example 952,type 2
+Client example 953,,,,534,611,example address 953,,High,Extreme Growth (50+),199,699,40.4001274,-86.896228,Owner example 953,type 2
+Client example 954,,,,3452,"5,511",example address 954,Tier 4,Moderate,Moderate Growth (5 to 19),"4,119","4,783",37.4417281,-86.8947287,Owner example 954,type 2
+Client example 955,,,,,,example address 955,,,,,,41.7117557,-86.8834197,Owner example 955,type 2
+Client example 956,,,,,"44,069",example address 956,Tier 3,,Extreme Growth (50+),,"19,450",40.3680663,-86.8730375,Owner example 956,type 1
+Client example 957,,,,,511,example address 957,,,Extreme Loss (-50+),469,,40.53388,-86.8306037,Owner example 957,type 2
+Client example 958,,,,186,,example address 958,,High,Extreme Growth (50+),,128,41.7217843,-86.8250542,Owner example 958,type 2
+Client example 959,,,,173,538,example address 959,,,Extreme Loss (-50+),358,,40.40911,-86.805126,Owner example 959,type 2
+Client example 960,,,,2300,"5,536",example address 960,Tier 4,Low,Extreme Growth (50+),"2,650","5,868",39.28491,-86.762665,Owner example 960,type 2
+Client example 961,,,,215,231,example address 961,,High,Extreme Growth (50+),,59,41.5955574,-86.7456417,Owner example 961,type 2
+Client example 962,,,,356,663,example address 962,,Low,Extreme Growth (50+),259,"7,697",39.8311062,-86.7002885,Owner example 962,type 2
+Client example 963,,,,430,352,example address 963,,High,Extreme Loss (-50+),150,60,40.754583,-86.6493994,Owner example 963,type 2
+Client example 964,,,,129,,example address 964,,,,,,39.217498,-86.5937642,Owner example 964,type 2
+Client example 965,,,,1228,"1,907",example address 965,Tier 4,Moderate,Extreme Growth (50+),887,"4,141",36.72,-86.58,Owner example 965,type 2
+Client example 966,,,,2930,"5,893",example address 966,Tier 4,Moderate,Extreme Growth (50+),"2,285","6,993",39.1229874,-86.5321374,Owner example 966,type 2
+Client example 967,,,,,"4,058",example address 967,Tier 4,Low,Moderate Loss (-19 to -5),"1,473","1,345",39.7610071,-86.5245943,Owner example 967,type 2
+Client example 968,,,,966,400,example address 968,,,Extreme Loss (-50+),179,,38.8398623,-86.5218778,Owner example 968,type 2
+Client example 969,,,,9715,"9,369",example address 969,Tier 4,Moderate,Major Growth (20 to 49),"3,968","5,306",40.2988621,-86.5050633,Owner example 969,type 2
+Client example 970,,,,5251,"4,666",example address 970,Tier 4,Low,Moderate Growth (5 to 19),"2,258","2,501",39.7573597,-86.5026583,Owner example 970,type 2
+Client example 971,,,,,,example address 971,,,,,,39.7739537,-86.4926461,Owner example 971,type 2
+Client example 972,,,,367,"1,345",example address 972,Tier 4,Moderate,Major Loss (-49 to -20),659,352,39.2448658,-86.4460691,Owner example 972,type 2
+Client example 973,,,,,,example address 973,,,,,,39.422721,-86.4373533,Owner example 973,type 2
+Client example 974,,,,18429,"33,531",example address 974,Tier 3,Low,No Growth (-4 to 4),"22,614","21,985",37.0075354,-86.4162393,Owner example 974,type 2
+Client example 975,,,,3784,"5,381",example address 975,Tier 4,Low,Major Growth (20 to 49),"2,100","2,737",42.1063042,-86.4158241,Owner example 975,type 2
+Client example 976,,,,295,370,example address 976,,,Extreme Loss (-50+),328,,40.763212,-86.3832261,Owner example 976,type 2
+Client example 977,,,,,561,example address 977,,,Extreme Loss (-50+),350,,39.9612917,-86.3786551,Owner example 977,type 2
+Client example 978,,,,,,example address 978,,,,,,39.629426,-86.3701057,Owner example 978,type 2
+Client example 979,,,,,62,example address 979,,,No Sales,,,39.697918,-86.3690765,Owner example 979,type 2
+Client example 980,,,,404,233,example address 980,,High,Major Loss (-49 to -20),131,80,39.915263,-86.357429,Owner example 980,type 2
+Client example 981,,,,1895,"1,220",example address 981,Tier 4,Moderate,Extreme Growth (50+),514,947,43.6440665,-86.3325715,Owner example 981,type 2
+Client example 982,,,,,,example address 982,,,,,,40.0632643,-86.2948586,Owner example 982,type 2
+Client example 983,,,,,167,example address 983,,Moderate,Extreme Growth (50+),125,"1,619",37.473149,-86.2912804,Owner example 983,type 2
+Client example 984,,,,2134,"16,338",example address 984,Tier 3,Moderate,Moderate Loss (-19 to -5),"8,357","7,281",41.682449,-86.289718,Owner example 984,type 2
+Client example 985,,,,2636,"6,134",example address 985,Tier 4,Low,Major Growth (20 to 49),"3,448","4,264",43.2053078,-86.2892684,Owner example 985,type 2
+Client example 986,,,,,,example address 986,,,,,,39.8222666,-86.2888097,Owner example 986,type 2
+Client example 987,,,,243,968,example address 987,,High,Extreme Loss (-50+),926,328,40.4743611,-86.2871274,Owner example 987,type 2
+Client example 988,,,,2540,"2,540",example address 988,Tier 4,,Extreme Loss (-50+),"2,498",,39.8437118,-86.2813401,Owner example 988,type 2
+Client example 989,,,,1626,"1,242",example address 989,Tier 4,Moderate,Extreme Growth (50+),530,936,41.287546,-86.271743,Owner example 989,type 2
+Client example 990,,,,,,example address 990,,Low,Extreme Growth (50+),,755,41.8233321,-86.2695791,Owner example 990,type 2
+Client example 991,,,,311,311,example address 991,,,Extreme Loss (-50+),269,,44.2370578,-86.2669239,Owner example 991,type 2
+Client example 992,,,,23009,"19,376",example address 992,Tier 3,Low,Moderate Growth (5 to 19),"8,741","9,703",41.6282215,-86.2618384,Owner example 992,type 2
+Client example 993,,,,,267,example address 993,,Moderate,Extreme Growth (50+),,"1,440",42.388634,-86.2572448,Owner example 993,type 2
+Client example 994,,,,,,example address 994,,,,,,41.6794084,-86.2499707,Owner example 994,type 2
+Client example 995,,,,,"54,950",example address 995,Tier 2,,No Growth (-4 to 4),"27,118","26,791",39.899582,-86.216442,Owner example 995,type 1
+Client example 996,,,,388,122,example address 996,,,Extreme Loss (-50+),80,,37.882667,-86.21258,Owner example 996,type 2
+Client example 997,,,,,"27,656",example address 997,Tier 3,,Major Growth (20 to 49),"14,388","19,305",39.7739314,-86.2056446,Owner example 997,type 1
+Client example 998,,,,,,example address 998,,,,,,43.1212863,-86.2049893,Owner example 998,type 2
+Client example 999,,,,,,example address 999,,,,,,42.970249,-86.201362,Owner example 999,type 2
+Client example 1000,,,,,591,example address 1000,,,No Sales,,,38.8956134,-86.2012398,Owner example 1000,type 2
+Client example 1001,,,,582,742,example address 1001,,,Extreme Loss (-50+),700,,36.7697871,-86.1963353,Owner example 1001,type 2
+Client example 1002,,,,4222,"4,805",example address 1002,Tier 4,Moderate,Major Growth (20 to 49),"1,986","2,542",39.189106,-86.192412,Owner example 1002,type 2
+Client example 1003,,,,,"159,920",example address 1003,Tier 1,,No Growth (-4 to 4),"69,387","67,481",39.7295115,-86.1882696,Owner example 1003,type 1
+Client example 1004,,,,1403,"3,543",example address 1004,Tier 4,High,Extreme Growth (50+),595,"2,401",41.6825245,-86.1855858,Owner example 1004,type 2
+Client example 1005,,,,,1040,example address 1005,,Moderate,Extreme Growth (50+),,618,43.157458,-86.1845926,Owner example 1005,type 2
+Client example 1006,,,,372,390,example address 1006,,High,No Growth (-4 to 4),174,181,43.2480825,-86.180541,Owner example 1006,type 2
+Client example 1007,,,,,,example address 1007,,,,,,45.9687836,-86.1802963,Owner example 1007,type 2
+Client example 1008,,,,1629,"2,145",example address 1008,Tier 4,Moderate,Extreme Growth (50+),758,"1,605",43.245683,-86.1779176,Owner example 1008,type 2
+Client example 1009,,,,,,example address 1009,,,,,,39.7406605,-86.1581659,Owner example 1009,type 2
+Client example 1010,,,,2096,"4,378",example address 1010,Tier 4,Low,Moderate Loss (-19 to -5),"1,463","1,369",39.6347669,-86.156493,Owner example 1010,type 2
+Client example 1011,,,,,291,example address 1011,,,Extreme Loss (-50+),249,,39.7679081,-86.1531573,Owner example 1011,type 1
+Client example 1012,,,,,,example address 1012,,,,,,39.9229164,-86.1491221,Owner example 1012,type 2
+Client example 1013,,,,82,62,example address 1013,,,No Sales,,,39.8043571,-86.1443909,Owner example 1013,type 2
+Client example 1014,,,,7988,"16,987",example address 1014,Tier 3,Moderate,Moderate Loss (-19 to -5),"8,937","8,175",42.9125349,-86.1411418,Owner example 1014,type 2
+Client example 1015,,,,1885,"2,675",example address 1015,Tier 4,High,Major Growth (20 to 49),"1,287","1,553",38.2466692,-86.1397527,Owner example 1015,type 2
+Client example 1016,,,,,"4,437",example address 1016,Tier 4,,Extreme Growth (50+),"1,340","3,396",39.7850266,-86.1327374,Owner example 1016,type 1
+Client example 1017,,,,1451,778,example address 1017,,High,Extreme Growth (50+),,"1,981",40.4657329,-86.1299116,Owner example 1017,type 2
+Client example 1018,,,,6685,"7,655",example address 1018,Tier 4,Moderate,Major Loss (-49 to -20),"2,226","1,620",40.4503885,-86.1275099,Owner example 1018,type 2
+Client example 1019,,,,,,example address 1019,,,,,,40.0709074,-86.1269729,Owner example 1019,type 2
+Client example 1020,,,,,,example address 1020,,,,,,40.4296847,-86.1173866,Owner example 1020,type 2
+Client example 1021,,,,20,,example address 1021,,High,Extreme Growth (50+),,491,38.5953385,-86.1039587,Owner example 1021,type 2
+Client example 1022,,,,,155,example address 1022,,,Extreme Loss (-50+),68,,40.0582368,-86.0895521,Owner example 1022,type 2
+Client example 1023,,,,,,example address 1023,,,,,,38.0320919,-86.0876263,Owner example 1023,type 2
+Client example 1024,,,,530,586,example address 1024,,Moderate,Major Growth (20 to 49),212,312,39.8838666,-86.0656236,Owner example 1024,type 2
+Client example 1025,,,,20,,example address 1025,,,,,,39.5329422,-86.0580285,Owner example 1025,type 2
+Client example 1026,,,,2718,"4,235",example address 1026,Tier 4,Moderate,Extreme Growth (50+),"1,438","4,195",40.4321674,-86.0514866,Owner example 1026,type 2
+Client example 1027,,,,,,example address 1027,,,,,,39.6512361,-86.0497141,Owner example 1027,type 2
+Client example 1028,,,,3735,"2,560",example address 1028,Tier 4,Low,No Growth (-4 to 4),"1,259","1,271",39.9758959,-86.003028,Owner example 1028,type 2
+Client example 1029,,,,,,example address 1029,,,Extreme Growth (50+),"13,019","19,980",40.0384402,-86.0015129,Owner example 1029,type 1
+Client example 1030,,,,,"3,429",example address 1030,Tier 4,,Extreme Loss (-50+),"2,506",768,40.0384402,-86.0015129,Owner example 1030,type 1
+Client example 1031,,,,,"24,126",example address 1031,Tier 3,,Major Growth (20 to 49),"22,242","31,716",40.0384402,-86.0015129,Owner example 1031,type 1
+Client example 1032,,,,220,62,example address 1032,,High,Extreme Growth (50+),20,80,43.4703984,-85.9910355,Owner example 1032,type 2
+Client example 1033,,,,11,,example address 1033,,,,,,39.9533727,-85.990986,Owner example 1033,type 2
+Client example 1034,,,,,,example address 1034,,,,,,41.0371209,-85.9771137,Owner example 1034,type 2
+Client example 1035,,,,257,472,example address 1035,,,Extreme Loss (-50+),215,,37.791414,-85.960711,Owner example 1035,type 2
+Client example 1036,,,,,,example address 1036,,,,,,39.9354071,-85.9574578,Owner example 1036,type 2
+Client example 1037,,,,,1041,example address 1037,,Moderate,Extreme Loss (-50+),999,500,42.9791351,-85.9464622,Owner example 1037,type 2
+Client example 1038,,,,,,example address 1038,,,,,,39.213319,-85.930221,Owner example 1038,type 2
+Client example 1039,,,,8437,"8,997",example address 1039,Tier 4,Moderate,Major Loss (-49 to -20),"5,387","3,765",36.9814775,-85.9142824,Owner example 1039,type 2
+Client example 1040,,,,128,84,example address 1040,,Moderate,Moderate Growth (5 to 19),20,22,38.3417838,-85.9008616,Owner example 1040,type 2
+Client example 1041,,,,,"10,503",example address 1041,Tier 3,,Major Growth (20 to 49),"3,877","4,930",37.6817937,-85.8979453,Owner example 1041,type 1
+Client example 1042,,,,715,,example address 1042,,Moderate,Extreme Growth (50+),,"3,310",39.253958,-85.891067,Owner example 1042,type 2
+Client example 1043,,,,130,"4,050",example address 1043,Tier 4,High,Extreme Loss (-50+),"2,005",94,42.2162195,-85.8907538,Owner example 1043,type 2
+Client example 1044,,,,,,example address 1044,,High,Extreme Growth (50+),,350,41.7011396,-85.8719769,Owner example 1044,type 2
+Client example 1045,,,,,,example address 1045,,,,,,38.7622703,-85.8713681,Owner example 1045,type 2
+Client example 1046,,,,12945,"10,950",example address 1046,Tier 3,Low,Moderate Loss (-19 to -5),"5,369","4,809",39.1726202,-85.8704349,Owner example 1046,type 2
+Client example 1047,,,,559,325,example address 1047,,High,Major Growth (20 to 49),283,345,42.5843997,-85.8687623,Owner example 1047,type 2
+Client example 1048,,,,,882,example address 1048,,,Extreme Loss (-50+),420,,37.697462,-85.8648761,Owner example 1048,type 2
+Client example 1049,,,,,882,example address 1049,,,Extreme Loss (-50+),420,,37.697462,-85.8648761,Owner example 1049,type 1
+Client example 1050,,,,,"16,799",example address 1050,Tier 3,,Major Loss (-49 to -20),"9,022","5,715",37.6884098,-85.8574801,Owner example 1050,type 1
+Client example 1051,,,,,,example address 1051,,,,,,39.7930047,-85.8293259,Owner example 1051,type 2
+Client example 1052,,,,1468,"2,418",example address 1052,Tier 4,,No Sales,,,38.2834267,-85.8263456,Owner example 1052,type 2
+Client example 1053,,,,97,86,example address 1053,,,No Sales,,,38.1226078,-85.8256846,Owner example 1053,type 2
+Client example 1054,,,,1230,"1,523",example address 1054,Tier 4,Moderate,Moderate Growth (5 to 19),578,652,39.6813569,-85.8202645,Owner example 1054,type 2
+Client example 1055,,,,196,"4,557",example address 1055,Tier 4,Moderate,Major Loss (-49 to -20),"2,997","1,768",43.451971,-85.814425,Owner example 1055,type 2
+Client example 1056,,,,1231,"1,528",example address 1056,Tier 4,Moderate,No Growth (-4 to 4),892,892,40.815354,-85.809525,Owner example 1056,type 2
+Client example 1057,,,,3796,"4,315",example address 1057,Tier 4,Moderate,Moderate Growth (5 to 19),"1,619","1,762",39.5179321,-85.7948924,Owner example 1057,type 2
+Client example 1058,,,,20,,example address 1058,,,,,,39.5147134,-85.7878669,Owner example 1058,type 2
+Client example 1059,,,,888,"1,676",example address 1059,Tier 4,Moderate,Extreme Growth (50+),,"18,376",43.0188822,-85.7854439,Owner example 1059,type 2
+Client example 1060,,,,280,890,example address 1060,,High,Major Loss (-49 to -20),350,243,43.5480239,-85.7759868,Owner example 1060,type 2
+Client example 1061,,,,,,example address 1061,,,,,,43.0155991,-85.7748775,Owner example 1061,type 2
+Client example 1062,,,,270,172,example address 1062,,,No Sales,,,42.9772154,-85.7669937,Owner example 1062,type 2
+Client example 1063,,,,4943,"4,239",example address 1063,Tier 4,Moderate,Major Growth (20 to 49),"2,523","3,502",39.775736,-85.762368,Owner example 1063,type 2
+Client example 1064,,,,,291,example address 1064,,,Extreme Loss (-50+),249,,38.2544496,-85.7609381,Owner example 1064,type 2
+Client example 1065,,,,,"61,426",example address 1065,Tier 2,,Major Growth (20 to 49),"31,031","45,759",38.1626195,-85.7602962,Owner example 1065,type 1
+Client example 1066,,,,,"46,573",example address 1066,Tier 3,,Major Growth (20 to 49),"23,090","28,036",38.1626195,-85.7602962,Owner example 1066,type 1
+Client example 1067,,,,,"3,251",example address 1067,Tier 4,,Extreme Growth (50+),"1,185","7,081",38.2091153,-85.7507822,Owner example 1067,type 1
+Client example 1068,,,,,291,example address 1068,,,Extreme Loss (-50+),249,,38.2998501,-85.750393,Owner example 1068,type 2
+Client example 1069,,,,3673,"2,840",example address 1069,Tier 4,,Extreme Loss (-50+),"2,172",,38.2998501,-85.750393,Owner example 1069,type 2
+Client example 1070,,,,,,example address 1070,,,Extreme Growth (50+),,372,38.1758738,-85.7145377,Owner example 1070,type 1
+Client example 1071,,,,1231,,example address 1071,,,,,,40.1096188,-85.7066753,Owner example 1071,type 2
+Client example 1072,,,,153,605,example address 1072,,,Extreme Loss (-50+),225,,38.307179,-85.7044552,Owner example 1072,type 2
+Client example 1073,,,,40,,example address 1073,,,,,,40.5558753,-85.6925641,Owner example 1073,type 2
+Client example 1074,,,,661,264,example address 1074,,,No Sales,,,42.2805339,-85.6854605,Owner example 1074,type 2
+Client example 1075,,,,,,example address 1075,,,,,,42.8194687,-85.6830183,Owner example 1075,type 2
+Client example 1076,,,,,349,example address 1076,,,Extreme Loss (-50+),101,,40.1384088,-85.6753915,Owner example 1076,type 2
+Client example 1077,,,,,"159,874",example address 1077,Tier 1,,Moderate Growth (5 to 19),"77,981","88,120",38.1906502,-85.6746085,Owner example 1077,type 1
+Client example 1078,,,,23626,"22,271",example address 1078,Tier 3,Low,Major Growth (20 to 49),"8,131","11,507",42.9692391,-85.6715399,Owner example 1078,type 2
+Client example 1079,,,,10654,"21,471",example address 1079,Tier 3,Low,Major Growth (20 to 49),"7,913","11,428",42.7568718,-85.664437,Owner example 1079,type 2
+Client example 1080,,,,,"2,542",example address 1080,Tier 4,Low,Extreme Growth (50+),"1,000","2,798",42.8806055,-85.6598831,Owner example 1080,type 2
+Client example 1081,,,,,190,example address 1081,,Moderate,Extreme Growth (50+),148,671,42.2445461,-85.6476216,Owner example 1081,type 2
+Client example 1082,,,,,,example address 1082,,,,,,38.2577191,-85.6452775,Owner example 1082,type 2
+Client example 1083,,,,,,example address 1083,,,,,,38.2003283,-85.6435974,Owner example 1083,type 2
+Client example 1084,,,,794,"1,115",example address 1084,Tier 4,Moderate,Extreme Growth (50+),,"1,867",37.9255531,-85.626203,Owner example 1084,type 2
+Client example 1085,,,,2139,"5,552",example address 1085,Tier 4,Moderate,No Growth (-4 to 4),"2,353","2,370",44.713887,-85.6120759,Owner example 1085,type 2
+Client example 1086,,,,3164,"2,001",example address 1086,Tier 4,Moderate,Major Loss (-49 to -20),980,517,38.2389249,-85.5869151,Owner example 1086,type 2
+Client example 1087,,,,,,example address 1087,,,,,,42.2536404,-85.5776514,Owner example 1087,type 2
+Client example 1088,,,,,,example address 1088,,,,,,38.2306887,-85.5715485,Owner example 1088,type 2
+Client example 1089,,,,,682,example address 1089,,High,No Growth (-4 to 4),320,320,38.219499,-85.5665976,Owner example 1089,type 2
+Client example 1090,,,,4138,"5,601",example address 1090,Tier 4,Moderate,Major Loss (-49 to -20),"1,518",966,38.160972,-85.559438,Owner example 1090,type 2
+Client example 1091,,,,3594,"8,514",example address 1091,Tier 4,Moderate,Moderate Loss (-19 to -5),"3,869","3,396",42.2792073,-85.548946,Owner example 1091,type 2
+Client example 1092,,,,,"14,990",example address 1092,Tier 3,,No Growth (-4 to 4),"7,732","7,568",38.3050156,-85.5236854,Owner example 1092,type 1
+Client example 1093,,,,,,example address 1093,,,,,,44.6993189,-85.5236459,Owner example 1093,type 2
+Client example 1094,,,,500,,example address 1094,,High,Extreme Growth (50+),,250,39.326802,-85.516216,Owner example 1094,type 2
+Client example 1095,,,,225,264,example address 1095,,High,Extreme Growth (50+),,297,41.1472823,-85.4907644,Owner example 1095,type 2
+Client example 1096,,,,,,example address 1096,,,,,,43.7966014,-85.4823719,Owner example 1096,type 2
+Client example 1097,,,,1309,891,example address 1097,,Moderate,Extreme Growth (50+),438,795,40.1803092,-85.4785246,Owner example 1097,type 2
+Client example 1098,,,,,,example address 1098,,,,,,38.5310916,-85.47376,Owner example 1098,type 2
+Client example 1099,,,,,182,example address 1099,,,No Sales,,,40.8946001,-85.445979,Owner example 1099,type 2
+Client example 1100,,,,1083,339,example address 1100,,High,Extreme Loss (-50+),297,140,38.3905216,-85.4355701,Owner example 1100,type 2
+Client example 1101,,,,,,example address 1101,,,,,,41.6452156,-85.4190576,Owner example 1101,type 2
+Client example 1102,,,,1312,"1,977",example address 1102,Tier 4,Moderate,Extreme Growth (50+),994,"2,129",40.23295,-85.401729,Owner example 1102,type 2
+Client example 1103,,,,,"1,913",example address 1103,Tier 4,,Extreme Loss (-50+),"1,598",,40.2324421,-85.3964584,Owner example 1103,type 2
+Client example 1104,,,,365,329,example address 1104,,,No Sales,,,37.0155835,-85.3818091,Owner example 1104,type 2
+Client example 1105,,,,,106,example address 1105,,Moderate,Extreme Growth (50+),,"1,080",37.353679,-85.3764559,Owner example 1105,type 2
+Client example 1106,,,,7331,"6,902",example address 1106,Tier 4,Moderate,Major Loss (-49 to -20),"3,859","2,661",38.3885177,-85.3629728,Owner example 1106,type 2
+Client example 1107,,,,901,861,example address 1107,,High,No Growth (-4 to 4),500,500,40.4866318,-85.3320606,Owner example 1107,type 2
+Client example 1108,,,,,,example address 1108,,,,,,37.0835536,-85.3058749,Owner example 1108,type 2
+Client example 1109,,,,1681,"3,500",example address 1109,Tier 4,Moderate,Extreme Growth (50+),"1,311","2,385",42.6530756,-85.3038062,Owner example 1109,type 2
+Client example 1110,,,,748,747,example address 1110,,Moderate,Extreme Growth (50+),283,976,39.096425,-85.2824868,Owner example 1110,type 2
+Client example 1111,,,,453,872,example address 1111,,High,Extreme Growth (50+),270,769,37.5397142,-85.2778539,Owner example 1111,type 2
+Client example 1112,,,,1072,"2,521",example address 1112,Tier 4,Moderate,Extreme Growth (50+),800,"3,966",41.685589,-85.2672249,Owner example 1112,type 2
+Client example 1113,,,,,,example address 1113,,,,,,37.5661093,-85.2597214,Owner example 1113,type 2
+Client example 1114,,,,941,211,example address 1114,,High,Extreme Growth (50+),,600,41.4298821,-85.2533678,Owner example 1114,type 2
+Client example 1115,,,,933,"1,412",example address 1115,Tier 4,Low,Major Loss (-49 to -20),"1,121",750,42.7979537,-85.2504485,Owner example 1115,type 2
+Client example 1116,,,,,,example address 1116,,Moderate,Extreme Growth (50+),,534,38.2112649,-85.2409337,Owner example 1116,type 2
+Client example 1117,,,,,"41,558",example address 1117,Tier 3,,Moderate Loss (-19 to -5),"6,605","5,989",38.2640847,-85.231369,Owner example 1117,type 1
+Client example 1118,,,,,847,example address 1118,,,Extreme Loss (-50+),805,,44.3397941,-85.2009808,Owner example 1118,type 2
+Client example 1119,,,,3368,"4,219",example address 1119,Tier 4,Moderate,Major Loss (-49 to -20),"3,021","1,733",38.227435,-85.19542,Owner example 1119,type 2
+Client example 1120,,,,701,"1,372",example address 1120,Tier 4,High,Extreme Loss (-50+),478,140,40.7392715,-85.1948854,Owner example 1120,type 2
+Client example 1121,,,,286,101,example address 1121,,,,,100,42.3217977,-85.1948284,Owner example 1121,type 2
+Client example 1122,,,,5761,"5,708",example address 1122,Tier 4,Moderate,Major Growth (20 to 49),"2,563","3,154",42.3175335,-85.166852,Owner example 1122,type 2
+Client example 1123,,,,1544,"2,376",example address 1123,Tier 4,Moderate,Extreme Loss (-50+),"1,308",310,43.6381091,-85.1633602,Owner example 1123,type 2
+Client example 1124,,,,,,example address 1124,,,,,,42.4313103,-85.1476497,Owner example 1124,type 2
+Client example 1125,,,,690,"5,392",example address 1125,Tier 4,High,Extreme Loss (-50+),"3,333",345,41.0788783,-85.1371594,Owner example 1125,type 2
+Client example 1126,,,,,202,example address 1126,,,Extreme Loss (-50+),160,,36.6908991,-85.1346776,Owner example 1126,type 2
+Client example 1127,,,,3878,,example address 1127,,,,,,43.299847,-85.0873885,Owner example 1127,type 2
+Client example 1128,,,,2426,"3,640",example address 1128,Tier 4,Moderate,Major Growth (20 to 49),"1,541","1,881",41.1653393,-85.0106158,Owner example 1128,type 2
+Client example 1129,,,,718,"1,651",example address 1129,Tier 4,Moderate,Extreme Growth (50+),,"4,987",41.6719376,-85.0074062,Owner example 1129,type 2
+Client example 1130,,,,3250,"2,811",example address 1130,Tier 4,Moderate,Extreme Growth (50+),"1,030","1,753",45.2081777,-84.9934957,Owner example 1130,type 2
+Client example 1131,,,,,,example address 1131,,,,,,40.4176639,-84.992033,Owner example 1131,type 2
+Client example 1132,,,,3408,"4,537",example address 1132,Tier 4,Low,Major Loss (-49 to -20),"3,066","2,287",38.0591743,-84.9844,Owner example 1132,type 2
+Client example 1133,,,,40,,example address 1133,,,,,,39.26547,-84.976651,Owner example 1133,type 2
+Client example 1134,,,,,,example address 1134,,,,,,39.351327,-84.969779,Owner example 1134,type 2
+Client example 1135,,,,977,555,example address 1135,,Moderate,Extreme Growth (50+),249,514,41.9149708,-84.9611389,Owner example 1135,type 2
+Client example 1136,,,,10855,"5,011",example address 1136,Tier 4,,Extreme Loss (-50+),"3,618",,39.8207436,-84.9570035,Owner example 1136,type 2
+Client example 1137,,,,3399,"3,877",example address 1137,Tier 4,Moderate,Extreme Growth (50+),899,"2,353",41.4292913,-84.9472669,Owner example 1137,type 2
+Client example 1138,,,,,,example address 1138,,,,,,42.9818728,-84.9440075,Owner example 1138,type 2
+Client example 1139,,,,2361,496,example address 1139,,Moderate,Extreme Growth (50+),104,"3,028",39.8287788,-84.9309269,Owner example 1139,type 2
+Client example 1140,,,,,,example address 1140,,,,,,39.6356639,-84.9275041,Owner example 1140,type 2
+Client example 1141,,,,,"1,065",example address 1141,Tier 4,,No Sales,,,42.447276,-84.9234775,Owner example 1141,type 2
+Client example 1142,,,,5389,"3,085",example address 1142,Tier 4,Moderate,Major Loss (-49 to -20),"2,321","1,451",38.1617793,-84.9161001,Owner example 1142,type 2
+Client example 1143,,,,,"3,780",example address 1143,Tier 4,,Extreme Growth (50+),,"3,601",39.8109975,-84.9104794,Owner example 1143,type 1
+Client example 1144,,,,60,,example address 1144,,,,,,39.1124379,-84.8742463,Owner example 1144,type 2
+Client example 1145,,,,1026,1032,example address 1145,,,Extreme Loss (-50+),356,,39.1126521,-84.8739347,Owner example 1145,type 2
+Client example 1146,,,,,"26,710",example address 1146,Tier 3,,Major Growth (20 to 49),"9,905","12,541",38.213341,-84.8734497,Owner example 1146,type 1
+Client example 1147,,,,1124,,example address 1147,,,,,,38.0419051,-84.8592347,Owner example 1147,type 2
+Client example 1148,,,,1572,,example address 1148,,,,,,37.7769307,-84.857697,Owner example 1148,type 2
+Client example 1149,,,,49,,example address 1149,,,,,,42.5829959,-84.8466524,Owner example 1149,type 2
+Client example 1150,,,,1025,73,example address 1150,,,Extreme Loss (-50+),31,,38.2058404,-84.8294822,Owner example 1150,type 2
+Client example 1151,,,,,,example address 1151,,,,,,38.1651662,-84.8205832,Owner example 1151,type 2
+Client example 1152,,,,,543,example address 1152,,High,Extreme Growth (50+),,"1,575",37.6575359,-84.7959506,Owner example 1152,type 2
+Client example 1153,,,,,,example address 1153,,,,,,40.509344,-84.784111,Owner example 1153,type 2
+Client example 1154,,,,,,example address 1154,,,,,,38.0474686,-84.7571315,Owner example 1154,type 2
+Client example 1155,,,,164,,example address 1155,,,,,,39.4972645,-84.7551909,Owner example 1155,type 2
+Client example 1156,,,,,"17,242",example address 1156,Tier 3,,Major Loss (-49 to -20),"6,733","4,102",38.0503395,-84.7480623,Owner example 1156,type 1
+Client example 1157,,,,289,"2,429",example address 1157,Tier 4,High,Moderate Growth (5 to 19),"1,013","1,167",43.624678,-84.747464,Owner example 1157,type 2
+Client example 1158,,,,,401,example address 1158,,,No Sales,,,37.6607163,-84.7462875,Owner example 1158,type 2
+Client example 1159,,,,,"34,552",example address 1159,Tier 3,,Major Loss (-49 to -20),"21,901","12,527",39.0356306,-84.7313742,Owner example 1159,type 1
+Client example 1160,,,,,,example address 1160,,Moderate,Extreme Growth (50+),,660,44.698973,-84.724837,Owner example 1160,type 2
+Client example 1161,,,,617,"1,655",example address 1161,Tier 4,High,Major Loss (-49 to -20),615,338,44.034231,-84.7224949,Owner example 1161,type 2
+Client example 1162,,,,,"7,975",example address 1162,Tier 4,,Extreme Growth (50+),"3,198","7,898",38.0590433,-84.7154023,Owner example 1162,type 1
+Client example 1163,,,,67,,example address 1163,,,,,,45.0261452,-84.7031123,Owner example 1163,type 2
+Client example 1164,,,,83,505,example address 1164,,,Extreme Loss (-50+),463,,45.0424243,-84.6791174,Owner example 1164,type 2
+Client example 1165,,,,20,,example address 1165,,,,,,39.0021417,-84.6741867,Owner example 1165,type 2
+Client example 1166,,,,83,"5,533",example address 1166,Tier 4,Moderate,Extreme Growth (50+),,"6,815",42.7830303,-84.6640135,Owner example 1166,type 2
+Client example 1167,,,,106,,example address 1167,,,,,,43.2915955,-84.6535765,Owner example 1167,type 2
+Client example 1168,,,,83,480,example address 1168,,,No Sales,,,39.356683,-84.640976,Owner example 1168,type 2
+Client example 1169,,,,83,"4,187",example address 1169,Tier 4,Moderate,Major Loss (-49 to -20),"2,598","1,599",39.7317957,-84.6328159,Owner example 1169,type 2
+Client example 1170,,,,,,example address 1170,,,,,,39.153466,-84.624855,Owner example 1170,type 2
+Client example 1171,,,,,"5,895",example address 1171,Tier 4,,Moderate Loss (-19 to -5),"3,854","3,260",39.1807665,-84.6197655,Owner example 1171,type 1
+Client example 1172,,,,,,example address 1172,,,,,,44.3179519,-84.6160964,Owner example 1172,type 2
+Client example 1173,,,,,,example address 1173,,,,,,39.2885573,-84.611055,Owner example 1173,type 2
+Client example 1174,,,,,,example address 1174,,,,,,37.3271606,-84.5941104,Owner example 1174,type 2
+Client example 1175,,,,,"1,667",example address 1175,Tier 4,,Extreme Loss (-50+),"1,625",,38.1668679,-84.5862871,Owner example 1175,type 2
+Client example 1176,,,,,"7,294",example address 1176,Tier 4,,Extreme Loss (-50+),"5,113","2,337",38.6491904,-84.5753407,Owner example 1176,type 1
+Client example 1177,,,,,392,example address 1177,,High,No Growth (-4 to 4),350,350,41.5472118,-84.5740772,Owner example 1177,type 2
+Client example 1178,,,,83,232,example address 1178,,High,Extreme Growth (50+),150,226,38.1976106,-84.5627554,Owner example 1178,type 2
+Client example 1179,,,,,"22,837",example address 1179,Tier 3,,Extreme Growth (50+),"8,155","12,567",37.8618017,-84.5615262,Owner example 1179,type 1
+Client example 1180,,,,,,example address 1180,,Moderate,Extreme Growth (50+),,285,38.2097967,-84.5588311,Owner example 1180,type 2
+Client example 1181,,,,,,example address 1181,,,,,,39.3365653,-84.5582617,Owner example 1181,type 2
+Client example 1182,,,,,"60,950",example address 1182,Tier 2,,Major Growth (20 to 49),"27,156","37,968",39.158308,-84.545141,Owner example 1182,type 1
+Client example 1183,,,,,"23,406",example address 1183,Tier 3,,Moderate Growth (5 to 19),"10,420","12,129",39.3939464,-84.5375164,Owner example 1183,type 1
+Client example 1184,,,,,"156,764",example address 1184,Tier 1,,No Growth (-4 to 4),"82,755","85,712",38.0584127,-84.5365532,Owner example 1184,type 1
+Client example 1185,,,,,"6,177",example address 1185,Tier 4,,No Growth (-4 to 4),"3,417","3,397",38.0584127,-84.5365532,Owner example 1185,type 1
+Client example 1186,,,,,"10,496",example address 1186,Tier 3,,Moderate Growth (5 to 19),"22,531","23,913",38.0277547,-84.5345309,Owner example 1186,type 1
+Client example 1187,,,,,"27,283",example address 1187,Tier 3,,Moderate Growth (5 to 19),"11,135","11,860",39.1287648,-84.5342753,Owner example 1187,type 1
+Client example 1188,,,,70,,example address 1188,,,,,,39.1287648,-84.5342753,Owner example 1188,type 2
+Client example 1189,,,,,"36,298",example address 1189,Tier 3,,Moderate Loss (-19 to -5),"18,516","17,192",39.0026286,-84.5334819,Owner example 1189,type 1
+Client example 1190,,,,83,232,example address 1190,,,Extreme Loss (-50+),190,,42.7182925,-84.5320485,Owner example 1190,type 2
+Client example 1191,,,,303,104,example address 1191,,High,Extreme Growth (50+),62,140,39.0390329,-84.5277181,Owner example 1191,type 2
+Client example 1192,,,,83,545,example address 1192,,High,Moderate Growth (5 to 19),243,260,41.8698972,-84.5146,Owner example 1192,type 2
+Client example 1193,,,,,,example address 1193,,,,,,44.6669348,-84.5122701,Owner example 1193,type 2
+Client example 1194,,,,,576,example address 1194,,High,Extreme Growth (50+),,490,38.0563153,-84.5025752,Owner example 1194,type 2
+Client example 1195,,,,,,example address 1195,,,Extreme Growth (50+),,490,38.0563153,-84.5025752,Owner example 1195,type 1
+Client example 1196,,,,,,example address 1196,,,,,,39.087873,-84.468939,Owner example 1196,type 2
+Client example 1197,,,,,,example address 1197,,,,,,39.2898628,-84.4687423,Owner example 1197,type 2
+Client example 1198,,,,220,,example address 1198,,High,Extreme Growth (50+),,31,38.0427907,-84.4632884,Owner example 1198,type 2
+Client example 1199,,,,,"33,831",example address 1199,Tier 3,,Moderate Loss (-19 to -5),"15,783","13,149",39.2274695,-84.4603052,Owner example 1199,type 1
+Client example 1200,,,,83,534,example address 1200,,,No Sales,,,45.4449312,-84.4599942,Owner example 1200,type 2
+Client example 1201,,,,2934,"1,687",example address 1201,Tier 4,Moderate,Extreme Growth (50+),350,"4,119",42.2263186,-84.458819,Owner example 1201,type 2
+Client example 1202,,,,490,271,example address 1202,,High,Extreme Growth (50+),209,939,42.592254,-84.4565297,Owner example 1202,type 2
+Client example 1203,,,,,,example address 1203,,,,,,39.0339527,-84.4520881,Owner example 1203,type 2
+Client example 1204,,,,629,"1,111",example address 1204,Tier 4,High,Extreme Loss (-50+),"1,039",30,39.0634845,-84.4482389,Owner example 1204,type 2
+Client example 1205,,,,83,207,example address 1205,,,Extreme Loss (-50+),165,,41.339583,-84.439725,Owner example 1205,type 2
+Client example 1206,,,,,291,example address 1206,,,Extreme Loss (-50+),249,,38.0220213,-84.4180052,Owner example 1206,type 1
+Client example 1207,,,,,,example address 1207,,High,Extreme Growth (50+),,55,39.2773617,-84.4107378,Owner example 1207,type 2
+Client example 1208,,,,4814,"7,524",example address 1208,Tier 4,Low,Moderate Growth (5 to 19),"2,904","3,222",41.231887,-84.4098595,Owner example 1208,type 2
+Client example 1209,,,,407,,example address 1209,,,,,,39.1426544,-84.406473,Owner example 1209,type 2
+Client example 1210,,,,83,"2,242",example address 1210,Tier 4,Low,Major Growth (20 to 49),"1,600","2,301",39.1481315,-84.4053245,Owner example 1210,type 2
+Client example 1211,,,,83,"2,512",example address 1211,Tier 4,Low,Extreme Growth (50+),"1,338","2,036",38.7326487,-84.4036811,Owner example 1211,type 2
+Client example 1212,,,,,340,example address 1212,,,Major Loss (-49 to -20),"13,342","9,024",39.1574604,-84.3967946,Owner example 1212,type 1
+Client example 1213,,,,,,example address 1213,,,,,,42.2718616,-84.3899029,Owner example 1213,type 2
+Client example 1214,,,,83,"2,040",example address 1214,Tier 4,,Extreme Loss (-50+),999,,39.3989667,-84.3825623,Owner example 1214,type 2
+Client example 1215,,,,163,"4,334",example address 1215,Tier 4,Moderate,No Growth (-4 to 4),"2,380","2,438",42.911545,-84.3785005,Owner example 1215,type 2
+Client example 1216,,,,,292,example address 1216,,,Extreme Loss (-50+),250,,40.4114936,-84.3776148,Owner example 1216,type 2
+Client example 1217,,,,,,example address 1217,,,,,,39.4909276,-84.36895,Owner example 1217,type 2
+Client example 1218,,,,,,example address 1218,,,,,,39.4324914,-84.3627327,Owner example 1218,type 2
+Client example 1219,,,,,142,example address 1219,,,Extreme Growth (50+),40,77,39.2861576,-84.358872,Owner example 1219,type 1
+Client example 1220,,,,,,example address 1220,,,,,,39.2897226,-84.3575732,Owner example 1220,type 2
+Client example 1221,,,,,,example address 1221,,,,,,39.41308,-84.335413,Owner example 1221,type 2
+Client example 1222,,,,5578,62,example address 1222,,,Extreme Loss (-50+),20,,39.0781516,-84.3232108,Owner example 1222,type 2
+Client example 1223,,,,83,"1,141",example address 1223,Tier 4,Moderate,Extreme Growth (50+),300,530,39.0720765,-84.3215391,Owner example 1223,type 2
+Client example 1224,,,,83,499,example address 1224,,,No Sales,,,39.0718648,-84.3202498,Owner example 1224,type 2
+Client example 1225,,,,,,example address 1225,,,,,,40.7732219,-84.293812,Owner example 1225,type 2
+Client example 1226,,,,747,"2,147",example address 1226,Tier 4,Low,Extreme Growth (50+),"1,162","2,815",37.5407067,-84.2827893,Owner example 1226,type 2
+Client example 1227,,,,83,"1,905",example address 1227,Tier 4,Low,Extreme Growth (50+),"1,290","2,010",42.403538,-84.282444,Owner example 1227,type 2
+Client example 1228,,,,11,,example address 1228,,,,,,43.657957,-84.2763365,Owner example 1228,type 2
+Client example 1229,,,,1118,"4,038",example address 1229,Tier 4,Moderate,Extreme Growth (50+),"1,998","2,997",37.6358863,-84.2745016,Owner example 1229,type 2
+Client example 1230,,,,,"16,155",example address 1230,Tier 3,,Major Growth (20 to 49),"8,071","10,387",38.219751,-84.2451459,Owner example 1230,type 1
+Client example 1231,,,,,,example address 1231,,,,,,39.0456556,-84.2442289,Owner example 1231,type 2
+Client example 1232,,,,,"9,745",example address 1232,Tier 4,,Moderate Loss (-19 to -5),"4,376","3,933",39.7327309,-84.2248744,Owner example 1232,type 1
+Client example 1233,,,,664,,example address 1233,,,,,,39.0424792,-84.2202657,Owner example 1233,type 2
+Client example 1234,,,,,"2,725",example address 1234,Tier 4,,Extreme Growth (50+),817,"4,198",39.0758648,-84.2196388,Owner example 1234,type 1
+Client example 1235,,,,83,"3,421",example address 1235,Tier 4,Moderate,Moderate Loss (-19 to -5),"1,229","1,155",42.9363217,-84.2182461,Owner example 1235,type 2
+Client example 1236,,,,83,"1,514",example address 1236,Tier 4,Low,No Growth (-4 to 4),602,619,39.4271321,-84.2049829,Owner example 1236,type 2
+Client example 1237,,,,,"26,901",example address 1237,Tier 3,,Major Growth (20 to 49),"12,793","15,948",39.4199028,-84.2008496,Owner example 1237,type 1
+Client example 1238,,,,,,example address 1238,,,,,,40.5682163,-84.1966682,Owner example 1238,type 2
+Client example 1239,,,,83,62,example address 1239,,,No Sales,,,39.0174846,-84.189835,Owner example 1239,type 2
+Client example 1240,,,,83,"3,676",example address 1240,Tier 4,High,Major Loss (-49 to -20),"1,727","1,203",39.09535,-84.18676,Owner example 1240,type 2
+Client example 1241,,,,,"12,250",example address 1241,Tier 3,,Major Growth (20 to 49),"6,844","8,774",39.09535,-84.18676,Owner example 1241,type 1
+Client example 1242,,,,,,example address 1242,,,,,,38.986727,-84.184145,Owner example 1242,type 2
+Client example 1243,,,,,"37,932",example address 1243,Tier 3,,Moderate Loss (-19 to -5),"21,477","19,600",39.8409544,-84.1813571,Owner example 1243,type 1
+Client example 1244,,,,83,"17,310",example address 1244,Tier 3,Low,Moderate Loss (-19 to -5),"13,627","12,103",45.0070939,-84.1737546,Owner example 1244,type 2
+Client example 1245,,,,583,"3,484",example address 1245,Tier 4,High,Extreme Growth (50+),677,"1,541",43.6270857,-84.1731459,Owner example 1245,type 2
+Client example 1246,,,,,"1,669",example address 1246,Tier 4,,Extreme Loss (-50+),"1,103",174,40.775655,-84.171282,Owner example 1246,type 1
+Client example 1247,,,,,,example address 1247,,,,,,43.0001296,-84.1711269,Owner example 1247,type 2
+Client example 1248,,,,83,322,example address 1248,,,Extreme Loss (-50+),140,,38.2815659,-84.1630915,Owner example 1248,type 2
+Client example 1249,,,,83,238,example address 1249,,High,Extreme Growth (50+),66,463,40.2710617,-84.1518131,Owner example 1249,type 2
+Client example 1250,,,,,"1,285",example address 1250,Tier 4,,Extreme Growth (50+),227,"4,088",39.7094282,-84.1426032,Owner example 1250,type 1
+Client example 1251,,,,,"3,358",example address 1251,Tier 4,Low,Extreme Growth (50+),"1,317","3,145",44.2955097,-84.1257171,Owner example 1251,type 2
+Client example 1252,,,,215,542,example address 1252,,,No Sales,,,39.200995,-84.125181,Owner example 1252,type 2
+Client example 1253,,,,,"19,920",example address 1253,Tier 3,,Major Loss (-49 to -20),"15,201","11,132",37.9756168,-84.1035853,Owner example 1253,type 1
+Client example 1254,,,,103,707,example address 1254,,High,Extreme Loss (-50+),215,20,39.298254,-84.0888,Owner example 1254,type 2
+Client example 1255,,,,,"19,595",example address 1255,Tier 3,,Moderate Growth (5 to 19),"9,791","11,102",39.1414809,-84.0870855,Owner example 1255,type 1
+Client example 1256,,,,,"63,026",example address 1256,Tier 2,,No Growth (-4 to 4),"35,025","35,209",39.8137298,-84.0537448,Owner example 1256,type 1
+Client example 1257,,,,,,example address 1257,,,,,,39.7976809,-84.0179197,Owner example 1257,type 2
+Client example 1258,,,,,62,example address 1258,,,No Sales,,,39.63524,-84.017347,Owner example 1258,type 2
+Client example 1259,,,,488,97,example address 1259,,,Extreme Loss (-50+),55,,43.7344853,-84.0158711,Owner example 1259,type 2
+Client example 1260,,,,83,"2,474",example address 1260,Tier 4,Moderate,Major Growth (20 to 49),402,573,39.679451,-84.0117458,Owner example 1260,type 2
+Client example 1261,,,,20,,example address 1261,,,,,,43.4066885,-83.9901122,Owner example 1261,type 2
+Client example 1262,,,,,"3,586",example address 1262,Tier 4,Moderate,Moderate Growth (5 to 19),"1,620","1,722",37.7003351,-83.9748809,Owner example 1262,type 2
+Client example 1263,,,,20,,example address 1263,,,,,,38.4465503,-83.972023,Owner example 1263,type 2
+Client example 1264,,,,83,"2,648",example address 1264,Tier 4,Low,Extreme Growth (50+),589,"2,297",42.5631822,-83.9681781,Owner example 1264,type 2
+Client example 1265,,,,,"9,190",example address 1265,Tier 4,,Moderate Growth (5 to 19),"3,586","4,263",39.6933602,-83.9632273,Owner example 1265,type 1
+Client example 1266,,,,83,392,example address 1266,,,No Sales,,,42.612366,-83.954053,Owner example 1266,type 2
+Client example 1267,,,,,,example address 1267,,High,Extreme Growth (50+),,280,38.0560116,-83.9453046,Owner example 1267,type 2
+Client example 1268,,,,83,"21,395",example address 1268,Tier 3,Low,Extreme Growth (50+),"7,310","15,386",40.101356,-83.945015,Owner example 1268,type 2
+Client example 1269,,,,350,,example address 1269,,Moderate,Extreme Growth (50+),,350,42.2026055,-83.9421528,Owner example 1269,type 2
+Client example 1270,,,,583,182,example address 1270,,,Extreme Loss (-50+),140,,41.3971542,-83.941036,Owner example 1270,type 2
+Client example 1271,,,,,"62,068",example address 1271,Tier 2,,No Growth (-4 to 4),"31,394","31,550",39.6867107,-83.9404983,Owner example 1271,type 1
+Client example 1272,,,,,,example address 1272,,,,,,39.6847822,-83.9296526,Owner example 1272,type 2
+Client example 1273,,,,,,example address 1273,,,,,,43.9750304,-83.9280795,Owner example 1273,type 2
+Client example 1274,,,,,,example address 1274,,,,,,40.892669,-83.8887536,Owner example 1274,type 2
+Client example 1275,,,,,62,example address 1275,,High,Extreme Growth (50+),20,32,38.8776196,-83.8885335,Owner example 1275,type 2
+Client example 1276,,,,138,424,example address 1276,,High,Major Loss (-49 to -20),202,120,42.6288581,-83.8805687,Owner example 1276,type 2
+Client example 1277,,,,500,,example address 1277,,,,,,37.8421162,-83.8637486,Owner example 1277,type 2
+Client example 1278,,,,,,example address 1278,,,,,,42.968403,-83.8508846,Owner example 1278,type 2
+Client example 1279,,,,458,"2,977",example address 1279,Tier 4,Low,Moderate Growth (5 to 19),"2,075","2,275",39.39618,-83.849532,Owner example 1279,type 2
+Client example 1280,,,,,122,example address 1280,,,Extreme Growth (50+),80,666,39.925508,-83.842786,Owner example 1280,type 1
+Client example 1281,,,,,"20,690",example address 1281,Tier 3,,Major Growth (20 to 49),"11,735","15,504",42.5651993,-83.8352457,Owner example 1281,type 1
+Client example 1282,,,,,,example address 1282,,,,,,39.4423429,-83.8065487,Owner example 1282,type 2
+Client example 1283,,,,83,690,example address 1283,,High,Extreme Loss (-50+),418,209,38.9342745,-83.7857551,Owner example 1283,type 2
+Client example 1284,,,,83,"4,614",example address 1284,Tier 4,High,Extreme Loss (-50+),"2,484",297,43.0458012,-83.7662351,Owner example 1284,type 2
+Client example 1285,,,,,,example address 1285,,,,,,38.6469993,-83.7661593,Owner example 1285,type 2
+Client example 1286,,,,375,,example address 1286,,,,,,40.3617789,-83.7601234,Owner example 1286,type 2
+Client example 1287,,,,,,example address 1287,,,,,,39.121346,-83.748189,Owner example 1287,type 2
+Client example 1288,,,,408,"7,606",example address 1288,Tier 4,Moderate,Extreme Loss (-50+),"5,163","2,027",42.8274827,-83.7004631,Owner example 1288,type 2
+Client example 1289,,,,317,,example address 1289,,,,,,40.1093326,-83.6966034,Owner example 1289,type 2
+Client example 1290,,,,,,example address 1290,,,,,,38.868077,-83.682598,Owner example 1290,type 2
+Client example 1291,,,,,742,example address 1291,,,Extreme Loss (-50+),350,,44.2774102,-83.6809171,Owner example 1291,type 2
+Client example 1292,,,,,"31,102",example address 1292,Tier 3,,Extreme Growth (50+),"12,852","24,320",41.583794,-83.6783481,Owner example 1292,type 1
+Client example 1293,,,,,,example address 1293,,,,,,41.7078405,-83.6717017,Owner example 1293,type 2
+Client example 1294,,,,171,216,example address 1294,,High,Moderate Loss (-19 to -5),174,143,41.6391311,-83.6670134,Owner example 1294,type 2
+Client example 1295,,,,83,"1,500",example address 1295,Tier 4,Moderate,Extreme Growth (50+),,"1,549",41.6376149,-83.6669072,Owner example 1295,type 2
+Client example 1296,,,,,"8,623",example address 1296,Tier 4,,Major Loss (-49 to -20),"4,566","2,900",41.3962301,-83.6615646,Owner example 1296,type 1
+Client example 1297,,,,,"16,077",example address 1297,Tier 3,Low,Extreme Growth (50+),"3,170","13,825",42.9733647,-83.652921,Owner example 1297,type 2
+Client example 1298,,,,,,example address 1298,,,,,,41.0872762,-83.6434388,Owner example 1298,type 2
+Client example 1299,,,,,"17,937",example address 1299,Tier 3,,Moderate Growth (5 to 19),"9,315","10,595",40.067346,-83.625009,Owner example 1299,type 1
+Client example 1300,,,,83,"1,696",example address 1300,Tier 4,Moderate,Major Growth (20 to 49),984,"1,277",41.6279718,-83.6246583,Owner example 1300,type 2
+Client example 1301,,,,83,214,example address 1301,,,Extreme Loss (-50+),172,,43.0226318,-83.6218104,Owner example 1301,type 2
+Client example 1302,,,,,"17,451",example address 1302,Tier 3,,No Growth (-4 to 4),"8,858","8,490",41.7192479,-83.6200851,Owner example 1302,type 1
+Client example 1303,,,,83,"4,375",example address 1303,Tier 4,Moderate,Moderate Growth (5 to 19),"1,934","2,109",41.0663154,-83.6030364,Owner example 1303,type 2
+Client example 1304,,,,670,82,example address 1304,,High,Extreme Growth (50+),20,31,43.2227473,-83.581515,Owner example 1304,type 2
+Client example 1305,,,,,,example address 1305,,,,,,43.075119,-83.576253,Owner example 1305,type 2
+Client example 1306,,,,83,860,example address 1306,,High,Major Loss (-49 to -20),572,615,38.7872618,-83.564301,Owner example 1306,type 2
+Client example 1307,,,,,,example address 1307,,,,,,38.165966,-83.5560815,Owner example 1307,type 2
+Client example 1308,,,,,,example address 1308,,,,,,43.208813,-83.551445,Owner example 1308,type 2
+Client example 1309,,,,,"1,239",example address 1309,Tier 4,Moderate,No Growth (-4 to 4),"1,197","1,213",39.1833081,-83.5503824,Owner example 1309,type 2
+Client example 1310,,,,,"23,075",example address 1310,Tier 3,,Major Loss (-49 to -20),"13,352","10,427",41.6425963,-83.5473673,Owner example 1310,type 1
+Client example 1311,,,,83,"2,707",example address 1311,Tier 4,High,Extreme Loss (-50+),"2,083",212,42.0998361,-83.5388693,Owner example 1311,type 2
+Client example 1312,,,,,542,example address 1312,,,No Sales,,,39.967113,-83.51441,Owner example 1312,type 2
+Client example 1313,,,,,,example address 1313,,,,,,42.5422006,-83.5087279,Owner example 1313,type 2
+Client example 1314,,,,,,example address 1314,,,,,,41.6235504,-83.5037922,Owner example 1314,type 2
+Client example 1315,,,,6096,"1,392",example address 1315,Tier 4,,No Sales,,,43.0275573,-83.4988144,Owner example 1315,type 2
+Client example 1316,,,,,62,example address 1316,,,Extreme Loss (-50+),20,,42.648212,-83.475527,Owner example 1316,type 2
+Client example 1317,,,,,435,example address 1317,,,Extreme Loss (-50+),393,,41.9266855,-83.4626342,Owner example 1317,type 2
+Client example 1318,,,,,647,example address 1318,,High,Extreme Growth (50+),,113,45.0913274,-83.4418159,Owner example 1318,type 2
+Client example 1319,,,,86,,example address 1319,,,,,,42.6158097,-83.4348634,Owner example 1319,type 2
+Client example 1320,,,,,429,example address 1320,,,Extreme Loss (-50+),157,,42.861283,-83.42813,Owner example 1320,type 2
+Client example 1321,,,,515,,example address 1321,,,,,,38.1420514,-83.4197214,Owner example 1321,type 2
+Client example 1322,,,,83,"7,094",example address 1322,Tier 4,Moderate,Extreme Loss (-50+),"5,208","1,995",41.9336744,-83.4099406,Owner example 1322,type 2
+Client example 1323,,,,,"19,886",example address 1323,Tier 3,,Extreme Growth (50+),"7,200","13,237",42.3156748,-83.4065429,Owner example 1323,type 1
+Client example 1324,,,,,"10,404",example address 1324,Tier 3,,Major Loss (-49 to -20),"5,833","3,026",42.3156748,-83.4065429,Owner example 1324,type 1
+Client example 1325,,,,,,example address 1325,,,,,,40.2348137,-83.370007,Owner example 1325,type 2
+Client example 1326,,,,,"6,166",example address 1326,Tier 4,,Extreme Growth (50+),270,893,40.263283,-83.3578715,Owner example 1326,type 1
+Client example 1327,,,,,226,example address 1327,,,Extreme Loss (-50+),184,,38.5903691,-83.3505196,Owner example 1327,type 2
+Client example 1328,,,,,380,example address 1328,,High,Extreme Growth (50+),,271,43.0514641,-83.3326381,Owner example 1328,type 2
+Client example 1329,,,,,,example address 1329,,,,,,42.5380705,-83.3267071,Owner example 1329,type 2
+Client example 1330,,,,5123,"1,387",example address 1330,Tier 4,Low,No Growth (-4 to 4),995,997,42.777383,-83.326284,Owner example 1330,type 2
+Client example 1331,,,,,"65,181",example address 1331,Tier 2,,Extreme Loss (-50+),"51,078","24,009",42.3987512,-83.325465,Owner example 1331,type 1
+Client example 1332,,,,,"39,161",example address 1332,Tier 3,,Moderate Growth (5 to 19),"19,106","21,064",40.8332333,-83.2940145,Owner example 1332,type 1
+Client example 1333,,,,83,410,example address 1333,,,Extreme Loss (-50+),368,,37.1424712,-83.2918744,Owner example 1333,type 2
+Client example 1334,,,,,"9,156",example address 1334,Tier 4,,No Growth (-4 to 4),"4,838","4,728",42.5110865,-83.2822077,Owner example 1334,type 1
+Client example 1335,,,,,,example address 1335,,,,,,42.5959031,-83.2821291,Owner example 1335,type 2
+Client example 1336,,,,,,example address 1336,,,,,,42.4279291,-83.2803288,Owner example 1336,type 2
+Client example 1337,,,,1949,"6,295",example address 1337,Tier 4,Low,Moderate Growth (5 to 19),"2,755","3,148",42.6476745,-83.2696253,Owner example 1337,type 2
+Client example 1338,,,,917,633,example address 1338,,High,Moderate Growth (5 to 19),130,140,42.1499096,-83.2632839,Owner example 1338,type 2
+Client example 1339,,,,,"18,174",example address 1339,Tier 3,,Major Growth (20 to 49),"8,056","9,690",39.970846,-83.260182,Owner example 1339,type 1
+Client example 1340,,,,,792,example address 1340,,,No Sales,,,41.1955948,-83.2399061,Owner example 1340,type 2
+Client example 1341,,,,83,82,example address 1341,,,No Sales,,,42.0924316,-83.2395303,Owner example 1341,type 2
+Client example 1342,,,,,387,example address 1342,,High,Extreme Loss (-50+),281,22,40.1263819,-83.2354189,Owner example 1342,type 2
+Client example 1343,,,,,638,example address 1343,,,No Sales,,,42.5172662,-83.2283182,Owner example 1343,type 2
+Client example 1344,,,,1866,,example address 1344,,,,,,40.176946,-83.21388,Owner example 1344,type 2
+Client example 1345,,,,834,,example address 1345,,,,,,42.2034019,-83.2095147,Owner example 1345,type 2
+Client example 1346,,,,,"13,009",example address 1346,Tier 3,,Extreme Growth (50+),"5,918","9,559",42.6357186,-83.2038728,Owner example 1346,type 1
+Client example 1347,,,,,122,example address 1347,,,Major Loss (-49 to -20),"29,640","23,467",42.6357186,-83.2038728,Owner example 1347,type 1
+Client example 1348,,,,,"13,217",example address 1348,Tier 3,,Major Growth (20 to 49),"6,177","7,461",42.6357186,-83.2038728,Owner example 1348,type 1
+Client example 1349,,,,821,"1,224",example address 1349,Tier 4,High,Moderate Loss (-19 to -5),350,297,42.2953752,-83.1813543,Owner example 1349,type 2
+Client example 1350,,,,,,example address 1350,,,,,,43.7678708,-83.181138,Owner example 1350,type 2
+Client example 1351,,,,101,"1,275",example address 1351,Tier 4,Moderate,Extreme Growth (50+),473,770,42.516692,-83.180014,Owner example 1351,type 2
+Client example 1352,,,,,"24,721",example address 1352,Tier 3,,Extreme Growth (50+),"9,035","18,136",40.01616,-83.1756188,Owner example 1352,type 1
+Client example 1353,,,,,,example address 1353,,High,Extreme Growth (50+),,16,41.0838573,-83.1523393,Owner example 1353,type 2
+Client example 1354,,,,,,example address 1354,,,,,,41.0791097,-83.1522097,Owner example 1354,type 2
+Client example 1355,,,,,514,example address 1355,,,Extreme Loss (-50+),472,,42.6060406,-83.1506196,Owner example 1355,type 2
+Client example 1356,,,,83,616,example address 1356,,,Extreme Loss (-50+),359,,41.3316023,-83.1452584,Owner example 1356,type 2
+Client example 1357,,,,,,example address 1357,,,,,,42.4055748,-83.1407136,Owner example 1357,type 2
+Client example 1358,,,,18,,example address 1358,,,,,,40.115674,-83.1327332,Owner example 1358,type 2
+Client example 1359,,,,,,example address 1359,,,,,,42.3313925,-83.1312459,Owner example 1359,type 2
+Client example 1360,,,,,"2,570",example address 1360,Tier 4,,Extreme Growth (50+),"1,624","5,334",40.014739,-83.1152191,Owner example 1360,type 1
+Client example 1361,,,,,,example address 1361,,,,,,40.1189858,-83.1010325,Owner example 1361,type 2
+Client example 1362,,,,132,,example address 1362,,,,,,42.5021765,-83.0923975,Owner example 1362,type 2
+Client example 1363,,,,,"18,230",example address 1363,Tier 3,,No Growth (-4 to 4),"7,473","7,697",40.0936348,-83.0896497,Owner example 1363,type 1
+Client example 1364,,,,83,936,example address 1364,,High,Extreme Loss (-50+),632,297,41.3659619,-83.0890722,Owner example 1364,type 2
+Client example 1365,,,,1833,"2,458",example address 1365,Tier 4,Low,Moderate Growth (5 to 19),"2,018","2,195",40.112085,-83.086444,Owner example 1365,type 2
+Client example 1366,,,,,"49,552",example address 1366,Tier 3,,Extreme Growth (50+),,"3,837",42.3627307,-83.0849975,Owner example 1366,type 1
+Client example 1367,,,,167,,example address 1367,,,,,,40.1596427,-83.0825199,Owner example 1367,type 2
+Client example 1368,,,,,,example address 1368,,Moderate,Extreme Growth (50+),,"2,363",40.545706,-83.07632,Owner example 1368,type 2
+Client example 1369,,,,,,example address 1369,,,,,,40.5452012,-83.0760257,Owner example 1369,type 2
+Client example 1370,,,,,"3,207",example address 1370,Tier 4,,Moderate Growth (5 to 19),804,854,42.3761229,-83.0620534,Owner example 1370,type 1
+Client example 1371,,,,,"19,038",example address 1371,Tier 3,,Major Growth (20 to 49),"7,217","10,521",42.3785491,-83.0620134,Owner example 1371,type 1
+Client example 1372,,,,4459,"1,167",example address 1372,Tier 4,Moderate,Major Growth (20 to 49),625,875,40.062411,-83.046842,Owner example 1372,type 2
+Client example 1373,,,,83,542,example address 1373,,,Extreme Loss (-50+),500,,39.9826396,-83.0415078,Owner example 1373,type 2
+Client example 1374,,,,,735,example address 1374,,,Extreme Growth (50+),354,771,40.0024084,-83.0338885,Owner example 1374,type 1
+Client example 1375,,,,,312,example address 1375,,,No Growth (-4 to 4),"1,149","1,099",40.0068363,-83.0306222,Owner example 1375,type 1
+Client example 1376,,,,,"35,881",example address 1376,Tier 3,,Moderate Growth (5 to 19),"17,537","20,337",40.00094,-83.027618,Owner example 1376,type 1
+Client example 1377,,,,,"33,435",example address 1377,Tier 3,,No Growth (-4 to 4),"2,179","2,211",40.00094,-83.027618,Owner example 1377,type 1
+Client example 1378,,,,,162,example address 1378,,,Major Loss (-49 to -20),60,40,40.0000752,-83.0257189,Owner example 1378,type 1
+Client example 1379,,,,83,"2,933",example address 1379,Tier 4,,Extreme Loss (-50+),"2,669",,41.323622,-83.020207,Owner example 1379,type 2
+Client example 1380,,,,,"37,107",example address 1380,Tier 3,,Moderate Growth (5 to 19),"18,699","21,374",40.2891869,-83.0183387,Owner example 1380,type 1
+Client example 1381,,,,,"8,747",example address 1381,Tier 4,,Extreme Loss (-50+),"6,416","2,811",39.9565654,-83.0162055,Owner example 1381,type 1
+Client example 1382,,,,,,example address 1382,,,,,,40.103213,-83.0035087,Owner example 1382,type 2
+Client example 1383,,,,,"42,457",example address 1383,Tier 3,,Moderate Loss (-19 to -5),"20,451","18,687",40.0570636,-82.9997517,Owner example 1383,type 1
+Client example 1384,,,,,"16,941",example address 1384,Tier 3,,Major Growth (20 to 49),"8,784","12,214",40.087814,-82.999185,Owner example 1384,type 1
+Client example 1385,,,,,577,example address 1385,,,Extreme Growth (50+),119,385,42.6257571,-82.9913973,Owner example 1385,type 1
+Client example 1386,,,,,"6,366",example address 1386,Tier 4,,Extreme Growth (50+),"1,306","2,013",38.8068606,-82.9860948,Owner example 1386,type 1
+Client example 1387,,,,,,example address 1387,,,,,,40.334812,-82.97864,Owner example 1387,type 2
+Client example 1388,,,,20,,example address 1388,,,No Sales,,,42.4887498,-82.9730582,Owner example 1388,type 2
+Client example 1389,,,,,"170,318",example address 1389,Tier 1,,Moderate Loss (-19 to -5),"90,873","78,274",40.0561157,-82.9709068,Owner example 1389,type 1
+Client example 1390,,,,,302,example address 1390,,,No Sales,,,42.6835794,-82.9587342,Owner example 1390,type 2
+Client example 1391,,,,,,example address 1391,,,,,,42.5064976,-82.9467738,Owner example 1391,type 2
+Client example 1392,,,,,,example address 1392,,,,,,39.589451,-82.9437763,Owner example 1392,type 2
+Client example 1393,,,,83,72,example address 1393,,High,No Growth (-4 to 4),10,10,39.889519,-82.939947,Owner example 1393,type 2
+Client example 1394,,,,,,example address 1394,,High,Extreme Growth (50+),,550,40.8337857,-82.9370443,Owner example 1394,type 2
+Client example 1395,,,,83,"18,625",example address 1395,Tier 3,Low,Major Growth (20 to 49),"9,092","12,097",39.3565806,-82.9236489,Owner example 1395,type 2
+Client example 1396,,,,,"10,079",example address 1396,Tier 3,,No Growth (-4 to 4),"5,814","5,565",40.0785529,-82.9199853,Owner example 1396,type 1
+Client example 1397,,,,98,"15,423",example address 1397,Tier 3,Low,Major Loss (-49 to -20),"9,141","7,100",40.0026726,-82.9171692,Owner example 1397,type 2
+Client example 1398,,,,83,980,example address 1398,,High,Major Growth (20 to 49),297,414,42.6187486,-82.8977214,Owner example 1398,type 2
+Client example 1399,,,,,,example address 1399,,,,,,41.522336,-82.8846675,Owner example 1399,type 2
+Client example 1400,,,,,,example address 1400,,,,,,40.549945,-82.826832,Owner example 1400,type 2
+Client example 1401,,,,,,example address 1401,,,,,,40.0438235,-82.8210371,Owner example 1401,type 2
+Client example 1402,,,,,,example address 1402,,,,,,41.504738,-82.771669,Owner example 1402,type 2
+Client example 1403,,,,,,example address 1403,,,,,,39.9545814,-82.7593749,Owner example 1403,type 2
+Client example 1404,,,,83,842,example address 1404,,,Extreme Loss (-50+),800,,38.4001166,-82.7141438,Owner example 1404,type 2
+Client example 1405,,,,,"1,584",example address 1405,Tier 4,Moderate,Extreme Growth (50+),268,666,43.4247615,-82.6761525,Owner example 1405,type 2
+Client example 1406,,,,160,1001,example address 1406,,,Extreme Loss (-50+),15,,40.0230233,-82.6566359,Owner example 1406,type 2
+Client example 1407,,,,,"5,199",example address 1407,Tier 4,,Extreme Loss (-50+),"2,742",68,39.0526235,-82.6387642,Owner example 1407,type 1
+Client example 1408,,,,,,example address 1408,,,,,,40.3527569,-82.636411,Owner example 1408,type 2
+Client example 1409,,,,3644,755,example address 1409,,,Extreme Loss (-50+),475,,40.7597383,-82.6232097,Owner example 1409,type 2
+Client example 1410,,,,83,"3,266",example address 1410,Tier 4,Moderate,Extreme Growth (50+),584,"2,171",39.7427642,-82.5878143,Owner example 1410,type 2
+Client example 1411,,,,,"11,592",example address 1411,Tier 3,,Major Growth (20 to 49),"5,014","7,024",39.7423129,-82.5875074,Owner example 1411,type 1
+Client example 1412,,,,,,example address 1412,,,,,,40.130337,-82.585372,Owner example 1412,type 2
+Client example 1413,,,,470,73,example address 1413,,High,Extreme Growth (50+),31,128,42.998994,-82.579526,Owner example 1413,type 2
+Client example 1414,,,,433,"4,668",example address 1414,Tier 4,Moderate,Major Growth (20 to 49),"2,517","3,084",40.7830297,-82.5701034,Owner example 1414,type 2
+Client example 1415,,,,83,"6,004",example address 1415,Tier 4,Moderate,Extreme Growth (50+),"2,450","3,763",40.3753775,-82.5051492,Owner example 1415,type 2
+Client example 1416,,,,1534,"3,966",example address 1416,Tier 4,Moderate,Major Loss (-49 to -20),890,608,40.3762423,-82.5014583,Owner example 1416,type 2
+Client example 1417,,,,,291,example address 1417,,,No Sales,,,38.4538745,-82.4928544,Owner example 1417,type 2
+Client example 1418,,,,,"24,490",example address 1418,Tier 3,,Moderate Growth (5 to 19),"17,120","18,674",40.0303446,-82.481156,Owner example 1418,type 1
+Client example 1419,,,,,"4,294",example address 1419,Tier 4,,Extreme Growth (50+),"1,377","2,506",40.0303446,-82.481156,Owner example 1419,type 1
+Client example 1420,,,,343,181,example address 1420,,,Extreme Loss (-50+),18,,40.4032917,-82.4479405,Owner example 1420,type 2
+Client example 1421,,,,433,392,example address 1421,,High,Extreme Growth (50+),,594,42.9767722,-82.4214367,Owner example 1421,type 2
+Client example 1422,,,,,,example address 1422,,,,,,40.0581205,-82.4012642,Owner example 1422,type 2
+Client example 1423,,,,956,"1,056",example address 1423,Tier 4,,No Sales,,,40.8518065,-82.342773,Owner example 1423,type 2
+Client example 1424,,,,83,498,example address 1424,,Moderate,Major Growth (20 to 49),456,651,40.8512956,-82.3421796,Owner example 1424,type 2
+Client example 1425,,,,,"1,128",example address 1425,Tier 4,,Extreme Loss (-50+),500,,38.8538904,-82.2354407,Owner example 1425,type 2
+Client example 1426,,,,,"1,128",example address 1426,Tier 4,,Extreme Loss (-50+),500,,38.8538904,-82.2354407,Owner example 1426,type 1
+Client example 1427,,,,1338,150,example address 1427,,High,Major Loss (-49 to -20),97,51,41.2722378,-82.195677,Owner example 1427,type 2
+Client example 1428,,,,83,"1,441",example address 1428,Tier 4,High,Extreme Loss (-50+),700,176,41.3724858,-82.1473097,Owner example 1428,type 2
+Client example 1429,,,,83,"6,352",example address 1429,Tier 4,Low,Major Growth (20 to 49),"2,902","4,132",39.394291,-82.1219513,Owner example 1429,type 2
+Client example 1430,,,,4854,680,example address 1430,,Moderate,Major Growth (20 to 49),253,344,41.449745,-82.069068,Owner example 1430,type 2
+Client example 1431,,,,,,example address 1431,,,,,,41.5063668,-82.044417,Owner example 1431,type 2
+Client example 1432,,,,1069,"3,019",example address 1432,Tier 4,Low,Moderate Loss (-19 to -5),"1,249","1,102",41.3146631,-82.0421826,Owner example 1432,type 2
+Client example 1433,,,,,"71,518",example address 1433,Tier 2,,Major Loss (-49 to -20),"34,293","27,425",39.9581742,-82.0336075,Owner example 1433,type 1
+Client example 1434,,,,2962,"1,447",example address 1434,Tier 4,Low,Extreme Growth (50+),592,"1,263",39.986549,-82.0067151,Owner example 1434,type 2
+Client example 1435,,,,,322,example address 1435,,,Extreme Loss (-50+),280,,39.986549,-82.0067151,Owner example 1435,type 2
+Client example 1436,,,,,"6,075",example address 1436,Tier 4,,Extreme Growth (50+),"2,053","3,369",40.8677356,-81.9595022,Owner example 1436,type 1
+Client example 1437,,,,83,"4,904",example address 1437,Tier 4,Moderate,Extreme Growth (50+),"2,233","3,820",40.8070328,-81.9591609,Owner example 1437,type 2
+Client example 1438,,,,7338,62,example address 1438,,,No Sales,,,41.3543253,-81.9539291,Owner example 1438,type 2
+Client example 1439,,,,83,629,example address 1439,,High,Moderate Loss (-19 to -5),273,251,41.1245208,-81.8915229,Owner example 1439,type 2
+Client example 1440,,,,83,84,example address 1440,,,Extreme Loss (-50+),20,,40.160995,-81.883495,Owner example 1440,type 2
+Client example 1441,,,,103,"1,461",example address 1441,Tier 4,Moderate,Extreme Growth (50+),790,"1,523",41.3837053,-81.8673535,Owner example 1441,type 2
+Client example 1442,,,,,,example address 1442,,,,,,41.3748607,-81.8578442,Owner example 1442,type 2
+Client example 1443,,,,,,example address 1443,,,,,,41.3155966,-81.8524669,Owner example 1443,type 2
+Client example 1444,,,,,,example address 1444,,,,,,41.4213897,-81.8427981,Owner example 1444,type 2
+Client example 1445,,,,-79,"9,056",example address 1445,Tier 4,Moderate,Moderate Loss (-19 to -5),"4,223","3,471",41.0335614,-81.8350118,Owner example 1445,type 2
+Client example 1446,,,,,,example address 1446,,,,,,41.4113757,-81.7808267,Owner example 1446,type 2
+Client example 1447,,,,,,example address 1447,,,,,,41.4281693,-81.7562056,Owner example 1447,type 2
+Client example 1448,,,,20,,example address 1448,,,,,,41.125055,-81.753549,Owner example 1448,type 2
+Client example 1449,,,,,"41,613",example address 1449,Tier 3,,Extreme Loss (-50+),"26,811","4,621",41.479408,-81.746497,Owner example 1449,type 1
+Client example 1450,,,,,291,example address 1450,,,Extreme Loss (-50+),249,,41.3776068,-81.7393021,Owner example 1450,type 1
+Client example 1451,,,,,"15,518",example address 1451,Tier 3,,Major Loss (-49 to -20),"11,358","6,154",41.3886412,-81.7294702,Owner example 1451,type 1
+Client example 1452,,,,83,106,example address 1452,,,No Sales,,,41.3934995,-81.7113357,Owner example 1452,type 2
+Client example 1453,,,,,"12,473",example address 1453,Tier 3,,Major Loss (-49 to -20),"7,631","4,041",41.4794412,-81.6968872,Owner example 1453,type 1
+Client example 1454,,,,,"11,343",example address 1454,Tier 3,,Major Loss (-49 to -20),"5,132","2,670",41.4571902,-81.6448161,Owner example 1454,type 1
+Client example 1455,,,,,"32,693",example address 1455,Tier 3,,Extreme Growth (50+),"13,204","20,114",41.3957971,-81.6193588,Owner example 1455,type 1
+Client example 1456,,,,,,example address 1456,,,,,,41.4124704,-81.6014292,Owner example 1456,type 2
+Client example 1457,,,,,"4,699",example address 1457,Tier 4,,Extreme Growth (50+),"3,317","13,813",41.11414,-81.5768227,Owner example 1457,type 1
+Client example 1458,,,,,"49,023",example address 1458,Tier 3,,Moderate Growth (5 to 19),"27,169","30,869",41.1478474,-81.5442801,Owner example 1458,type 1
+Client example 1459,,,,,,example address 1459,,,,,,41.3254239,-81.5407657,Owner example 1459,type 2
+Client example 1460,,,,83,62,example address 1460,,,Extreme Loss (-50+),20,,41.0726632,-81.5329865,Owner example 1460,type 2
+Client example 1461,,,,,,example address 1461,,,,,,40.8093657,-81.5179185,Owner example 1461,type 2
+Client example 1462,,,,,,example address 1462,,,,,,41.1012113,-81.5171468,Owner example 1462,type 2
+Client example 1463,,,,,,example address 1463,,,,,,41.1429503,-81.5138885,Owner example 1463,type 2
+Client example 1464,,,,,"77,558",example address 1464,Tier 2,,No Growth (-4 to 4),"47,306","47,355",41.1815861,-81.5089953,Owner example 1464,type 1
+Client example 1465,,,,183,,example address 1465,,Low,Extreme Growth (50+),,"3,200",41.5981089,-81.5065037,Owner example 1465,type 2
+Client example 1466,,,,1547,338,example address 1466,,High,Moderate Growth (5 to 19),159,184,41.123423,-81.483614,Owner example 1466,type 2
+Client example 1467,,,,,,example address 1467,,,,,,40.507452,-81.465411,Owner example 1467,type 2
+Client example 1468,,,,,342,example address 1468,,,Extreme Growth (50+),120,619,40.9480025,-81.4638166,Owner example 1468,type 1
+Client example 1469,,,,11,,example address 1469,,High,Extreme Growth (50+),,64,41.4932198,-81.460856,Owner example 1469,type 2
+Client example 1470,,,,,104,example address 1470,,,Extreme Loss (-50+),62,,40.8874101,-81.4591183,Owner example 1470,type 2
+Client example 1471,,,,582,128,example address 1471,,,Extreme Loss (-50+),86,,41.5295935,-81.4522961,Owner example 1471,type 2
+Client example 1472,,,,83,"5,043",example address 1472,Tier 4,Moderate,Extreme Growth (50+),"2,121","3,484",41.2833425,-81.441833,Owner example 1472,type 2
+Client example 1473,,,,83,"1,260",example address 1473,Tier 4,Moderate,Major Loss (-49 to -20),471,339,41.395864,-81.410506,Owner example 1473,type 2
+Client example 1474,,,,,"1,122",example address 1474,Tier 4,Moderate,Extreme Growth (50+),,"3,800",39.410123,-81.396855,Owner example 1474,type 2
+Client example 1475,,,,,"3,685",example address 1475,Tier 4,,Extreme Growth (50+),,"3,313",40.8219026,-81.3921352,Owner example 1475,type 1
+Client example 1476,,,,,"2,458",example address 1476,Tier 4,Moderate,Extreme Growth (50+),451,"1,943",40.678555,-81.378643,Owner example 1476,type 2
+Client example 1477,,,,,149,example address 1477,,,Extreme Growth (50+),,"2,602",40.4974861,-81.3766958,Owner example 1477,type 1
+Client example 1478,,,,15202,392,example address 1478,,,Extreme Loss (-50+),350,,41.665905,-81.3710263,Owner example 1478,type 2
+Client example 1479,,,,,,example address 1479,,,,,,41.569184,-81.370621,Owner example 1479,type 2
+Client example 1480,,,,,"17,048",example address 1480,Tier 3,,Moderate Loss (-19 to -5),"9,880","8,805",40.8089988,-81.3530469,Owner example 1480,type 1
+Client example 1481,,,,,,example address 1481,,,,,,41.7178555,-81.3453773,Owner example 1481,type 2
+Client example 1482,,,,,,example address 1482,,,,,,41.4173523,-81.3393076,Owner example 1482,type 2
+Client example 1483,,,,2540,457,example address 1483,,High,Extreme Growth (50+),,169,41.4469995,-81.3375896,Owner example 1483,type 2
+Client example 1484,,,,199,141,example address 1484,,,Extreme Loss (-50+),99,,41.564215,-81.3214859,Owner example 1484,type 2
+Client example 1485,,,,83,"22,193",example address 1485,Tier 3,Moderate,Major Growth (20 to 49),"11,795","17,542",40.839153,-81.306805,Owner example 1485,type 2
+Client example 1486,,,,,"3,006",example address 1486,Tier 4,,Major Growth (20 to 49),"2,077","3,092",41.2108588,-81.2573103,Owner example 1486,type 1
+Client example 1487,,,,,"4,862",example address 1487,Tier 4,,Moderate Loss (-19 to -5),"2,905","2,399",41.2109901,-81.2560648,Owner example 1487,type 1
+Client example 1488,,,,20,,example address 1488,,,,,,41.5726482,-81.247193,Owner example 1488,type 2
+Client example 1489,,,,,,example address 1489,,,,,,41.7617893,-81.1871841,Owner example 1489,type 2
+Client example 1490,,,,83,"2,597",example address 1490,Tier 4,High,Moderate Loss (-19 to -5),979,933,39.7221607,-81.098299,Owner example 1490,type 2
+Client example 1491,,,,4477,497,example address 1491,,Moderate,Extreme Growth (50+),245,420,39.7805922,-81.0956212,Owner example 1491,type 2
+Client example 1492,,,,,"2,040",example address 1492,Tier 4,Low,No Growth (-4 to 4),"1,998","1,998",40.5720121,-81.0862017,Owner example 1492,type 2
+Client example 1493,,,,83,"1,561",example address 1493,Tier 4,Low,Major Growth (20 to 49),919,"1,219",41.166043,-81.061558,Owner example 1493,type 2
+Client example 1494,,,,20,,example address 1494,,,,,,40.0723732,-80.9799138,Owner example 1494,type 2
+Client example 1495,,,,3298,148,example address 1495,,Moderate,Extreme Growth (50+),,128,41.7481579,-80.905296,Owner example 1495,type 2
+Client example 1496,,,,,182,example address 1496,,,No Sales,,,41.0380992,-80.8399197,Owner example 1496,type 2
+Client example 1497,,,,,62,example address 1497,,,No Sales,,,41.336813,-80.780343,Owner example 1497,type 2
+Client example 1498,,,,7163,"1,524",example address 1498,Tier 4,High,Extreme Loss (-50+),"1,482",424,41.2515035,-80.7611611,Owner example 1498,type 2
+Client example 1499,,,,,"17,202",example address 1499,Tier 3,,Major Growth (20 to 49),"15,769","19,920",40.944246,-80.7393802,Owner example 1499,type 1
+Client example 1500,,,,,,example address 1500,,,,,,41.3303615,-80.7298635,Owner example 1500,type 2
+Client example 1501,,,,83,"9,065",example address 1501,Tier 4,Moderate,Extreme Loss (-50+),"7,161","1,775",40.3603314,-80.7090449,Owner example 1501,type 2
+Client example 1502,,,,83,"3,662",example address 1502,Tier 4,Moderate,Extreme Growth (50+),"1,525","2,478",41.0933203,-80.7084039,Owner example 1502,type 2
+Client example 1503,,,,,"8,362",example address 1503,Tier 4,,Extreme Growth (50+),"2,599","4,935",41.8893728,-80.6967938,Owner example 1503,type 1
+Client example 1504,,,,,,example address 1504,,,,,,41.8893728,-80.6967938,Owner example 1504,type 2
+Client example 1505,,,,83,"9,655",example address 1505,Tier 4,Low,Moderate Growth (5 to 19),"5,105","5,546",41.222578,-80.666325,Owner example 1505,type 2
+Client example 1506,,,,83,"1,693",example address 1506,Tier 4,Moderate,Extreme Growth (50+),470,"1,305",41.9360185,-80.6632815,Owner example 1506,type 2
+Client example 1507,,,,83,"8,034",example address 1507,Tier 4,Low,Major Growth (20 to 49),"3,996","4,995",41.0606918,-80.6045864,Owner example 1507,type 2
+Client example 1508,,,,,"13,385",example address 1508,Tier 3,,Moderate Loss (-19 to -5),"7,396","6,251",40.755322,-73.9932872,Owner example 1508,type 1
+Client example 1509,,,,,"1,302",example address 1509,Tier 4,,Extreme Loss (-50+),"1,080",140,34.1579601,-118.3961939,Owner example 1509,type 1
+Client example 1510,,,,,"58,902",example address 1510,Tier 2,,Moderate Growth (5 to 19),"28,184","30,994",37.992434,-122.5359657,Owner example 1510,type 1
