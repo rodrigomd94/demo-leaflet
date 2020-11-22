@@ -219,11 +219,11 @@ button{
         factor: 0.621373,               // This value will be used to convert from kilometers. Example: 1000 (from kilometers to meters)  
         label: 'Distance:'}}).addTo(map);
 	map.zoomControl.setPosition('bottomright');
-	var tileLayer = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
+	L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png', {
 	maxZoom: 20,
 	attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
-});
-	map.addLayer(tileLayer);
+}).addTo(map);
+	//map.addLayer(tileLayer);
 	
 	
 	
